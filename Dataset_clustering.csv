@@ -1,0 +1,2465 @@
+id_transaksi,jenis_item,jumlah,tanggal pembelian,nama_customer,total,jenis_item_encoded,cluster
+133889.0,Alat Tulis,1.0,1/1/2010,Stacy Campos,12000.0,1,0
+133889.0,Buku Sejarah,1.0,1/1/2010,Stacy Campos,15000.0,5,0
+133889.0,Buku Anak-Anak,2.0,1/1/2010,Stacy Campos,40000.0,2,0
+133889.0,Majalah Fashion,1.0,1/1/2010,Stacy Campos,13000.0,7,0
+133889.0,Majalah Berita,2.0,1/1/2010,Stacy Campos,60000.0,6,0
+133889.0,Buku Fiksi,3.0,1/1/2010,Stacy Campos,117000.0,4,3
+133889.0,Novel Romansa,2.0,1/1/2010,Stacy Campos,60000.0,11,0
+133890.0,Alat Tulis,1.0,3/3/2010,Natasha Sims,13000.0,1,0
+133890.0,Majalah Seni,1.0,3/3/2010,Natasha Sims,5000.0,8,0
+133890.0,Majalah Berita,2.0,5/1/2010,Natasha Sims,48000.0,6,0
+133890.0,Buku Biografi,2.0,5/1/2010,Natasha Sims,10000.0,3,0
+133890.0,Novel Romansa,2.0,5/1/2010,Natasha Sims,4000.0,11,0
+133890.0,Aksesoris Buku,4.0,5/1/2010,Natasha Sims,96000.0,0,0
+133891.0,Novel Fiksi Ilmiah,4.0,5/1/2010,Kimberly Park,40000.0,9,0
+133891.0,Majalah Berita,2.0,5/1/2010,Kimberly Park,8000.0,6,0
+133891.0,Novel Misteri,1.0,5/1/2010,Kimberly Park,13000.0,10,0
+133891.0,Majalah Fashion,3.0,5/1/2010,Kimberly Park,6000.0,7,0
+133892.0,Buku Anak-Anak,2.0,5/1/2010,Jonathan Edwards,10000.0,2,0
+133892.0,Majalah Seni,1.0,5/1/2010,Jonathan Edwards,2000.0,8,0
+133892.0,Novel Fiksi Ilmiah,2.0,5/1/2010,Jonathan Edwards,8000.0,9,0
+133892.0,Buku Fiksi,5.0,5/1/2010,Jonathan Edwards,275000.0,4,3
+133892.0,Aksesoris Buku,7.0,6/27/2010,Jonathan Edwards,245000.0,0,3
+133893.0,Alat Tulis,2.0,6/27/2010,Tiffany Cline,40000.0,1,0
+133893.0,Buku Sejarah,1.0,6/27/2010,Tiffany Cline,10000.0,5,0
+133893.0,Buku Anak-Anak,1.0,6/27/2010,Tiffany Cline,13000.0,2,0
+133893.0,Majalah Fashion,5.0,8/20/2010,Tiffany Cline,50000.0,7,0
+133893.0,Majalah Seni,4.0,10/29/2010,Tiffany Cline,192000.0,8,3
+133893.0,Majalah Berita,6.0,10/29/2010,Tiffany Cline,324000.0,6,1
+133893.0,Novel Romansa,7.0,10/29/2010,Tiffany Cline,14000.0,11,0
+133893.0,Aksesoris Buku,3.0,10/29/2010,Tiffany Cline,135000.0,0,3
+133894.0,Alat Tulis,7.0,10/29/2010,James Brown,122500.0,1,3
+133894.0,Majalah Fashion,6.0,10/29/2010,James Brown,90000.0,7,0
+133894.0,Novel Fiksi Ilmiah,3.0,10/29/2010,James Brown,18000.0,9,0
+133894.0,Buku Biografi,1.0,10/29/2010,James Brown,2500.0,3,0
+133894.0,Novel Romansa,3.0,10/29/2010,James Brown,99000.0,11,0
+133894.0,Aksesoris Buku,6.0,10/29/2010,James Brown,360000.0,0,1
+133895.0,Majalah Berita,3.0,10/29/2010,Karen Oconnell,81000.0,6,0
+133895.0,Novel Fiksi Ilmiah,5.0,10/29/2010,Karen Oconnell,300000.0,9,1
+133895.0,Novel Misteri,1.0,10/29/2010,Karen Oconnell,5000.0,10,0
+133895.0,Buku Biografi,5.0,10/29/2010,Karen Oconnell,10000.0,3,0
+133895.0,Aksesoris Buku,4.0,10/29/2010,Karen Oconnell,96000.0,0,0
+133896.0,Buku Sejarah,2.0,10/29/2010,Rebecca English,40000.0,5,0
+133896.0,Alat Tulis,3.0,10/29/2010,Rebecca English,90000.0,1,0
+133896.0,Majalah Fashion,2.0,10/29/2010,Rebecca English,10000.0,7,0
+133896.0,Majalah Seni,3.0,10/29/2010,Rebecca English,18000.0,8,0
+133896.0,Majalah Berita,4.0,10/29/2010,Rebecca English,144000.0,6,3
+133896.0,Buku Biografi,5.0,1/20/2011,Rebecca English,50000.0,3,0
+133896.0,Aksesoris Buku,7.0,3/22/2011,Rebecca English,539000.0,0,1
+133897.0,Novel Romansa,8.0,3/22/2011,Tim Mcdowell,768000.0,11,2
+133897.0,Alat Tulis,1.0,5/17/2011,Tim Mcdowell,10000.0,1,0
+133897.0,Majalah Berita,8.0,5/17/2011,Tim Mcdowell,778750.0,6,2
+133897.0,Novel Fiksi Ilmiah,1.0,5/17/2011,Tim Mcdowell,12000.0,9,0
+133898.0,Majalah Seni,7.0,5/17/2011,Derek Mendez,735000.0,8,2
+133898.0,Novel Fiksi Ilmiah,4.0,5/17/2011,Derek Mendez,192000.0,9,3
+133898.0,Buku Biografi,4.0,5/17/2011,Derek Mendez,32000.0,3,0
+133898.0,Novel Romansa,6.0,5/17/2011,Derek Mendez,324000.0,11,1
+133898.0,Aksesoris Buku,5.0,5/17/2011,Derek Mendez,125000.0,0,3
+133899.0,Buku Sejarah,9.0,5/17/2011,Tami Townsend MD,778750.0,5,2
+133899.0,Majalah Fashion,9.0,5/17/2011,Tami Townsend MD,778750.0,7,2
+133899.0,Majalah Seni,9.0,5/17/2011,Tami Townsend MD,729000.0,8,2
+133899.0,Majalah Berita,7.0,5/17/2011,Tami Townsend MD,294000.0,6,1
+133899.0,Novel Fiksi Ilmiah,6.0,5/17/2011,Tami Townsend MD,396000.0,9,1
+133899.0,Buku Fiksi,7.0,5/17/2011,Tami Townsend MD,245000.0,4,3
+133899.0,Novel Romansa,5.0,5/17/2011,Tami Townsend MD,325000.0,11,1
+133899.0,Aksesoris Buku,1.0,5/17/2011,Tami Townsend MD,2000.0,0,0
+133900.0,Alat Tulis,5.0,7/27/2011,Dalton Carroll Jr.,125000.0,1,3
+133900.0,Buku Anak-Anak,8.0,8/28/2011,Dalton Carroll Jr.,128000.0,2,3
+133900.0,Majalah Fashion,2.0,8/28/2011,Dalton Carroll Jr.,24000.0,7,0
+133900.0,Majalah Seni,4.0,8/28/2011,Dalton Carroll Jr.,32000.0,8,0
+133900.0,Majalah Berita,9.0,8/28/2011,Dalton Carroll Jr.,778750.0,6,2
+133900.0,Buku Biografi,2.0,8/28/2011,Dalton Carroll Jr.,20000.0,3,0
+133900.0,Novel Romansa,3.0,8/28/2011,Dalton Carroll Jr.,18000.0,11,0
+133901.0,Novel Romansa,5.0,8/28/2011,Yvonne Riddle,250000.0,11,3
+133901.0,Buku Biografi,2.0,8/28/2011,Yvonne Riddle,52000.0,3,0
+133901.0,Buku Anak-Anak,5.0,8/28/2011,Yvonne Riddle,375000.0,2,1
+133901.0,Majalah Fashion,4.0,8/28/2011,Yvonne Riddle,240000.0,7,3
+133902.0,Buku Sejarah,8.0,8/28/2011,Lisa Jenkins,128000.0,5,3
+133902.0,Alat Tulis,1.0,8/28/2011,Lisa Jenkins,2000.0,1,0
+133902.0,Buku Anak-Anak,5.0,8/28/2011,Lisa Jenkins,300000.0,2,1
+133902.0,Majalah Fashion,2.0,8/28/2011,Lisa Jenkins,52000.0,7,0
+133903.0,Majalah Berita,8.0,8/28/2011,Victor Ortega,576000.0,6,2
+133903.0,Buku Sejarah,1.0,8/28/2011,Victor Ortega,9000.0,5,0
+133903.0,Buku Biografi,1.0,10/20/2011,Victor Ortega,2500.0,3,0
+133903.0,Aksesoris Buku,7.0,10/20/2011,Victor Ortega,294000.0,0,1
+133904.0,Majalah Seni,6.0,11/23/2011,Christopher Henry,180000.0,8,3
+133904.0,Majalah Berita,5.0,11/23/2011,Christopher Henry,62500.0,6,0
+133904.0,Novel Misteri,5.0,1/25/2012,Christopher Henry,275000.0,10,3
+133904.0,Novel Romansa,7.0,1/25/2012,Christopher Henry,294000.0,11,1
+133904.0,Aksesoris Buku,5.0,1/25/2012,Christopher Henry,62500.0,0,0
+133905.0,Alat Tulis,9.0,1/25/2012,Elizabeth Burns,778750.0,1,2
+133905.0,Buku Sejarah,3.0,1/25/2012,Elizabeth Burns,117000.0,5,3
+133905.0,Buku Anak-Anak,5.0,1/25/2012,Elizabeth Burns,250000.0,2,3
+133905.0,Majalah Fashion,1.0,1/25/2012,Elizabeth Burns,11000.0,7,0
+133905.0,Majalah Berita,9.0,1/25/2012,Elizabeth Burns,162000.0,6,3
+133905.0,Novel Fiksi Ilmiah,4.0,1/25/2012,Elizabeth Burns,80000.0,9,0
+133905.0,Buku Fiksi,3.0,1/25/2012,Elizabeth Burns,81000.0,4,0
+133905.0,Buku Biografi,9.0,1/25/2012,Elizabeth Burns,729000.0,3,2
+133906.0,Alat Tulis,8.0,1/25/2012,John Calhoun,128000.0,1,3
+133906.0,Buku Sejarah,1.0,1/25/2012,John Calhoun,11000.0,5,0
+133906.0,Novel Misteri,2.0,1/25/2012,John Calhoun,24000.0,10,0
+133906.0,Novel Fiksi Ilmiah,3.0,1/25/2012,John Calhoun,45000.0,9,0
+133907.0,Alat Tulis,3.0,1/25/2012,Sarah Moore,45000.0,1,0
+133907.0,Buku Sejarah,6.0,1/25/2012,Sarah Moore,396000.0,5,1
+133907.0,Buku Anak-Anak,6.0,1/25/2012,Sarah Moore,360000.0,2,1
+133907.0,Majalah Fashion,4.0,1/25/2012,Sarah Moore,32000.0,7,0
+133907.0,Buku Biografi,7.0,4/23/2012,Sarah Moore,539000.0,3,1
+133907.0,Novel Romansa,9.0,7/31/2012,Sarah Moore,778750.0,11,2
+133908.0,Alat Tulis,5.0,7/31/2012,Tabitha Dixon,250000.0,1,3
+133908.0,Majalah Seni,2.0,7/31/2012,Tabitha Dixon,8000.0,8,0
+133908.0,Buku Sejarah,3.0,7/31/2012,Tabitha Dixon,99000.0,5,0
+133908.0,Aksesoris Buku,5.0,7/31/2012,Tabitha Dixon,250000.0,0,3
+133909.0,Alat Tulis,9.0,7/31/2012,Ronnie Wells,202500.0,1,3
+133909.0,Buku Anak-Anak,6.0,7/31/2012,Ronnie Wells,180000.0,2,3
+133909.0,Majalah Berita,9.0,7/31/2012,Ronnie Wells,778750.0,6,2
+133909.0,Novel Fiksi Ilmiah,8.0,7/31/2012,Ronnie Wells,384000.0,9,1
+133909.0,Novel Misteri,2.0,7/31/2012,Ronnie Wells,36000.0,10,0
+133909.0,Buku Biografi,1.0,7/31/2012,Ronnie Wells,10000.0,3,0
+133909.0,Novel Romansa,1.0,7/31/2012,Ronnie Wells,2500.0,11,0
+133909.0,Aksesoris Buku,1.0,7/31/2012,Ronnie Wells,2500.0,0,0
+133910.0,Alat Tulis,7.0,7/31/2012,Julia King,245000.0,1,3
+133910.0,Majalah Fashion,8.0,7/31/2012,Julia King,320000.0,7,1
+133910.0,Majalah Berita,6.0,7/31/2012,Julia King,360000.0,6,1
+133910.0,Novel Fiksi Ilmiah,1.0,7/31/2012,Julia King,5000.0,9,0
+133910.0,Buku Fiksi,5.0,7/31/2012,Julia King,10000.0,4,0
+133910.0,Buku Biografi,7.0,7/31/2012,Julia King,122500.0,3,3
+133910.0,Novel Misteri,3.0,7/31/2012,Julia King,108000.0,10,3
+133911.0,Buku Sejarah,5.0,7/31/2012,Pam Rios,62500.0,5,0
+133911.0,Alat Tulis,1.0,7/31/2012,Pam Rios,2000.0,1,0
+133911.0,Buku Anak-Anak,5.0,7/31/2012,Pam Rios,250000.0,2,3
+133911.0,Majalah Fashion,9.0,7/31/2012,Pam Rios,778750.0,7,2
+133911.0,Majalah Seni,6.0,7/31/2012,Pam Rios,180000.0,8,3
+133911.0,Novel Fiksi Ilmiah,5.0,7/31/2012,Pam Rios,325000.0,9,1
+133911.0,Buku Biografi,4.0,7/31/2012,Pam Rios,8000.0,3,0
+133911.0,Aksesoris Buku,3.0,7/31/2012,Pam Rios,135000.0,0,3
+133912.0,Buku Sejarah,9.0,7/31/2012,Elizabeth Dean,405000.0,5,1
+133912.0,Alat Tulis,3.0,7/31/2012,Elizabeth Dean,135000.0,1,3
+133912.0,Buku Anak-Anak,4.0,7/31/2012,Elizabeth Dean,208000.0,2,3
+133912.0,Novel Fiksi Ilmiah,7.0,7/31/2012,Elizabeth Dean,98000.0,9,0
+133913.0,Buku Fiksi,2.0,7/31/2012,Randy Carlson,8000.0,4,0
+133913.0,Majalah Berita,8.0,7/31/2012,Randy Carlson,704000.0,6,2
+133913.0,Buku Anak-Anak,5.0,7/31/2012,Randy Carlson,50000.0,2,0
+133913.0,Aksesoris Buku,8.0,9/30/2012,Randy Carlson,384000.0,0,1
+133914.0,Novel Romansa,2.0,9/30/2012,Jeremy Stark,8000.0,11,0
+133914.0,Majalah Seni,7.0,9/30/2012,Jeremy Stark,637000.0,8,2
+133914.0,Novel Misteri,3.0,9/30/2012,Jeremy Stark,18000.0,10,0
+133914.0,Novel Fiksi Ilmiah,4.0,9/30/2012,Jeremy Stark,32000.0,9,0
+133915.0,Alat Tulis,2.0,9/30/2012,Courtney Terry,52000.0,1,0
+133915.0,Buku Anak-Anak,6.0,9/30/2012,Courtney Terry,396000.0,2,1
+133915.0,Majalah Fashion,4.0,9/30/2012,Courtney Terry,208000.0,7,3
+133915.0,Majalah Seni,4.0,9/30/2012,Courtney Terry,192000.0,8,3
+133915.0,Majalah Berita,8.0,9/30/2012,Courtney Terry,778750.0,6,2
+133915.0,Novel Fiksi Ilmiah,9.0,9/30/2012,Courtney Terry,778750.0,9,2
+133915.0,Buku Biografi,9.0,9/30/2012,Courtney Terry,162000.0,3,3
+133915.0,Aksesoris Buku,5.0,10/24/2012,Courtney Terry,325000.0,0,1
+133916.0,Novel Romansa,9.0,10/24/2012,Samantha Savage,18000.0,11,0
+133916.0,Majalah Fashion,9.0,10/24/2012,Samantha Savage,162000.0,7,3
+133916.0,Majalah Berita,7.0,10/24/2012,Samantha Savage,294000.0,6,1
+133916.0,Novel Fiksi Ilmiah,6.0,10/24/2012,Samantha Savage,324000.0,9,1
+133917.0,Buku Sejarah,3.0,10/24/2012,James Burnett,117000.0,5,3
+133917.0,Alat Tulis,1.0,10/24/2012,James Burnett,5000.0,1,0
+133917.0,Majalah Fashion,3.0,10/24/2012,James Burnett,135000.0,7,3
+133917.0,Majalah Seni,1.0,10/24/2012,James Burnett,15000.0,8,0
+133917.0,Majalah Berita,1.0,10/24/2012,James Burnett,15000.0,6,0
+133917.0,Novel Fiksi Ilmiah,4.0,10/24/2012,James Burnett,32000.0,9,0
+133917.0,Buku Fiksi,7.0,10/24/2012,James Burnett,637000.0,4,2
+133917.0,Buku Biografi,6.0,10/24/2012,James Burnett,12000.0,3,0
+133918.0,Alat Tulis,9.0,12/21/2012,Richard Nicholson,778750.0,1,2
+133918.0,Buku Sejarah,6.0,12/21/2012,Richard Nicholson,360000.0,5,1
+133918.0,Buku Anak-Anak,2.0,12/21/2012,Richard Nicholson,8000.0,2,0
+133918.0,Majalah Seni,5.0,12/21/2012,Richard Nicholson,125000.0,8,3
+133918.0,Majalah Berita,3.0,12/21/2012,Richard Nicholson,45000.0,6,0
+133918.0,Buku Fiksi,8.0,12/21/2012,Richard Nicholson,384000.0,4,1
+133919.0,Buku Anak-Anak,6.0,12/21/2012,Heather Price,216000.0,2,3
+133919.0,Majalah Fashion,4.0,3/10/2013,Heather Price,80000.0,7,0
+133919.0,Majalah Seni,5.0,3/10/2013,Heather Price,225000.0,8,3
+133919.0,Majalah Berita,1.0,3/10/2013,Heather Price,10000.0,6,0
+133919.0,Novel Fiksi Ilmiah,8.0,4/7/2013,Heather Price,320000.0,9,1
+133919.0,Buku Fiksi,6.0,4/7/2013,Heather Price,324000.0,4,1
+133919.0,Aksesoris Buku,2.0,4/7/2013,Heather Price,60000.0,0,0
+133920.0,Alat Tulis,3.0,4/7/2013,Jeffery Newton,117000.0,1,3
+133920.0,Buku Sejarah,5.0,4/7/2013,Jeffery Newton,225000.0,5,3
+133920.0,Buku Anak-Anak,7.0,5/30/2013,Jeffery Newton,98000.0,2,0
+133920.0,Buku Fiksi,8.0,5/30/2013,Jeffery Newton,768000.0,4,2
+133920.0,Buku Biografi,1.0,5/30/2013,Jeffery Newton,5000.0,3,0
+133921.0,Alat Tulis,5.0,5/30/2013,Michael Buchanan,300000.0,1,1
+133921.0,Buku Anak-Anak,4.0,5/30/2013,Michael Buchanan,192000.0,2,3
+133921.0,Majalah Fashion,7.0,5/30/2013,Michael Buchanan,490000.0,7,1
+133921.0,Majalah Seni,4.0,5/30/2013,Michael Buchanan,192000.0,8,3
+133921.0,Novel Misteri,4.0,5/30/2013,Michael Buchanan,8000.0,10,0
+133921.0,Novel Romansa,7.0,5/30/2013,Michael Buchanan,245000.0,11,3
+133921.0,Aksesoris Buku,2.0,5/30/2013,Michael Buchanan,4000.0,0,0
+133922.0,Alat Tulis,1.0,5/30/2013,Raymond Ruiz,9000.0,1,0
+133922.0,Buku Sejarah,8.0,5/30/2013,Raymond Ruiz,160000.0,5,3
+133922.0,Buku Anak-Anak,4.0,5/30/2013,Raymond Ruiz,40000.0,2,0
+133922.0,Majalah Fashion,7.0,7/17/2013,Raymond Ruiz,441000.0,7,1
+133922.0,Majalah Seni,3.0,7/17/2013,Raymond Ruiz,45000.0,8,0
+133922.0,Buku Biografi,6.0,7/17/2013,Raymond Ruiz,12000.0,3,0
+133923.0,Majalah Fashion,9.0,7/17/2013,Angela Conway,162000.0,7,3
+133923.0,Majalah Seni,1.0,7/17/2013,Angela Conway,15000.0,8,0
+133923.0,Buku Fiksi,4.0,7/17/2013,Angela Conway,32000.0,4,0
+133923.0,Buku Biografi,8.0,7/17/2013,Angela Conway,16000.0,3,0
+133924.0,Alat Tulis,8.0,7/17/2013,Laura Hoover,640000.0,1,2
+133924.0,Buku Sejarah,9.0,7/17/2013,Laura Hoover,778750.0,5,2
+133924.0,Buku Anak-Anak,8.0,7/17/2013,Laura Hoover,704000.0,2,2
+133924.0,Majalah Berita,3.0,7/17/2013,Laura Hoover,45000.0,6,0
+133924.0,Novel Misteri,9.0,7/17/2013,Laura Hoover,778750.0,10,2
+133924.0,Novel Romansa,5.0,7/17/2013,Laura Hoover,375000.0,11,1
+133924.0,Aksesoris Buku,1.0,9/24/2013,Laura Hoover,5000.0,0,0
+133925.0,Majalah Fashion,7.0,9/24/2013,Patrick Smith,122500.0,7,3
+133925.0,Majalah Seni,1.0,9/24/2013,Patrick Smith,10000.0,8,0
+133925.0,Majalah Berita,9.0,9/24/2013,Patrick Smith,162000.0,6,3
+133925.0,Novel Fiksi Ilmiah,5.0,9/24/2013,Patrick Smith,150000.0,9,3
+133925.0,Buku Fiksi,5.0,9/24/2013,Patrick Smith,275000.0,4,3
+133925.0,Novel Misteri,9.0,9/24/2013,Patrick Smith,486000.0,10,1
+133926.0,Novel Romansa,8.0,9/24/2013,Dr. Lucas Moore,768000.0,11,2
+133926.0,Majalah Berita,2.0,9/24/2013,Dr. Lucas Moore,44000.0,6,0
+133926.0,Aksesoris Buku,6.0,9/24/2013,Dr. Lucas Moore,360000.0,0,1
+133926.0,Buku Sejarah,4.0,9/24/2013,Dr. Lucas Moore,32000.0,5,0
+133927.0,Alat Tulis,1.0,9/24/2013,Angela Mercer,11000.0,1,0
+133927.0,Buku Anak-Anak,8.0,9/24/2013,Angela Mercer,704000.0,2,2
+133927.0,Majalah Seni,4.0,9/24/2013,Angela Mercer,240000.0,8,3
+133927.0,Buku Fiksi,2.0,9/24/2013,Angela Mercer,8000.0,4,0
+133927.0,Buku Biografi,7.0,9/24/2013,Angela Mercer,588000.0,3,2
+133928.0,Majalah Seni,5.0,9/24/2013,Jill Perez,225000.0,8,3
+133928.0,Alat Tulis,7.0,9/24/2013,Jill Perez,441000.0,1,1
+133928.0,Buku Anak-Anak,5.0,9/24/2013,Jill Perez,275000.0,2,3
+133928.0,Aksesoris Buku,5.0,9/24/2013,Jill Perez,50000.0,0,0
+133929.0,Alat Tulis,9.0,9/24/2013,Cynthia Nash,202500.0,1,3
+133929.0,Buku Sejarah,5.0,9/24/2013,Cynthia Nash,225000.0,5,3
+133929.0,Majalah Fashion,3.0,9/24/2013,Cynthia Nash,108000.0,7,3
+133929.0,Majalah Seni,1.0,9/24/2013,Cynthia Nash,2000.0,8,0
+133929.0,Buku Fiksi,1.0,12/29/2013,Cynthia Nash,5000.0,4,0
+133929.0,Novel Misteri,2.0,12/29/2013,Cynthia Nash,20000.0,10,0
+133929.0,Buku Biografi,4.0,12/29/2013,Cynthia Nash,240000.0,3,3
+133929.0,Novel Romansa,2.0,12/29/2013,Cynthia Nash,8000.0,11,0
+133930.0,Buku Sejarah,3.0,12/29/2013,Kelly Sanchez,54000.0,5,0
+133930.0,Alat Tulis,4.0,12/29/2013,Kelly Sanchez,240000.0,1,3
+133930.0,Majalah Fashion,9.0,12/29/2013,Kelly Sanchez,202500.0,7,3
+133930.0,Majalah Seni,2.0,12/29/2013,Kelly Sanchez,4000.0,8,0
+133930.0,Majalah Berita,9.0,12/29/2013,Kelly Sanchez,162000.0,6,3
+133930.0,Novel Romansa,4.0,12/29/2013,Kelly Sanchez,80000.0,11,0
+133931.0,Alat Tulis,2.0,1/12/2014,Jaclyn Atkinson,60000.0,1,0
+133931.0,Buku Sejarah,8.0,1/27/2014,Jaclyn Atkinson,16000.0,5,0
+133931.0,Majalah Fashion,2.0,1/27/2014,Jaclyn Atkinson,8000.0,7,0
+133931.0,Buku Biografi,7.0,1/27/2014,Jaclyn Atkinson,14000.0,3,0
+133932.0,Alat Tulis,8.0,1/27/2014,Chad Harrington,128000.0,1,3
+133932.0,Buku Anak-Anak,6.0,1/27/2014,Chad Harrington,396000.0,2,1
+133932.0,Novel Fiksi Ilmiah,7.0,1/27/2014,Chad Harrington,14000.0,9,0
+133932.0,Buku Fiksi,4.0,1/27/2014,Chad Harrington,240000.0,4,3
+133932.0,Buku Biografi,1.0,1/27/2014,Chad Harrington,2000.0,3,0
+133932.0,Aksesoris Buku,6.0,2/12/2014,Chad Harrington,432000.0,0,1
+133933.0,Novel Romansa,4.0,2/12/2014,Tina Alexander,160000.0,11,3
+133933.0,Majalah Seni,9.0,2/12/2014,Tina Alexander,778750.0,8,2
+133933.0,Aksesoris Buku,4.0,2/12/2014,Tina Alexander,32000.0,0,0
+133933.0,Majalah Fashion,9.0,2/12/2014,Tina Alexander,162000.0,7,3
+133934.0,Alat Tulis,7.0,2/12/2014,Perry Morse,14000.0,1,0
+133934.0,Majalah Seni,9.0,2/12/2014,Perry Morse,778750.0,8,2
+133934.0,Majalah Berita,9.0,2/12/2014,Perry Morse,486000.0,6,1
+133934.0,Buku Biografi,5.0,2/12/2014,Perry Morse,10000.0,3,0
+133934.0,Aksesoris Buku,1.0,2/12/2014,Perry Morse,2000.0,0,0
+133935.0,Alat Tulis,1.0,2/12/2014,Monica Mccoy,12000.0,1,0
+133935.0,Majalah Fashion,1.0,2/12/2014,Monica Mccoy,12000.0,7,0
+133935.0,Majalah Seni,4.0,2/12/2014,Monica Mccoy,192000.0,8,3
+133935.0,Novel Misteri,2.0,2/12/2014,Monica Mccoy,20000.0,10,0
+133935.0,Buku Biografi,8.0,4/13/2014,Monica Mccoy,768000.0,3,2
+133935.0,Novel Romansa,8.0,4/13/2014,Monica Mccoy,128000.0,11,3
+133936.0,Alat Tulis,8.0,4/13/2014,Benjamin Johnson,320000.0,1,1
+133936.0,Buku Sejarah,9.0,4/13/2014,Benjamin Johnson,486000.0,5,1
+133936.0,Buku Anak-Anak,1.0,4/13/2014,Benjamin Johnson,2000.0,2,0
+133936.0,Majalah Seni,9.0,4/13/2014,Benjamin Johnson,778750.0,8,2
+133936.0,Novel Misteri,6.0,4/13/2014,Benjamin Johnson,432000.0,10,1
+133936.0,Aksesoris Buku,5.0,4/13/2014,Benjamin Johnson,375000.0,0,1
+133937.0,Alat Tulis,9.0,4/13/2014,Charles Lee,162000.0,1,3
+133937.0,Majalah Seni,5.0,4/13/2014,Charles Lee,125000.0,8,3
+133937.0,Majalah Berita,9.0,4/13/2014,Charles Lee,162000.0,6,3
+133937.0,Novel Misteri,3.0,4/13/2014,Charles Lee,90000.0,10,0
+133937.0,Novel Romansa,2.0,4/13/2014,Charles Lee,48000.0,11,0
+133937.0,Aksesoris Buku,2.0,4/13/2014,Charles Lee,8000.0,0,0
+133938.0,Majalah Berita,5.0,4/13/2014,Douglas Davenport,300000.0,6,1
+133938.0,Buku Fiksi,7.0,4/13/2014,Douglas Davenport,122500.0,4,3
+133938.0,Buku Sejarah,5.0,4/13/2014,Douglas Davenport,300000.0,5,1
+133938.0,Aksesoris Buku,5.0,4/13/2014,Douglas Davenport,275000.0,0,3
+133939.0,Alat Tulis,5.0,7/10/2014,Jasmine English,225000.0,1,3
+133939.0,Buku Sejarah,3.0,7/10/2014,Jasmine English,117000.0,5,3
+133939.0,Buku Anak-Anak,2.0,10/11/2014,Jasmine English,52000.0,2,0
+133939.0,Novel Fiksi Ilmiah,2.0,10/11/2014,Jasmine English,24000.0,9,0
+133939.0,Novel Romansa,8.0,10/11/2014,Jasmine English,576000.0,11,2
+133939.0,Aksesoris Buku,5.0,10/11/2014,Jasmine English,50000.0,0,0
+133940.0,Alat Tulis,4.0,10/11/2014,Michael Barrera,192000.0,1,3
+133940.0,Buku Anak-Anak,6.0,10/11/2014,Michael Barrera,90000.0,2,0
+133940.0,Majalah Seni,8.0,10/11/2014,Michael Barrera,768000.0,8,2
+133940.0,Buku Fiksi,8.0,10/11/2014,Michael Barrera,576000.0,4,2
+133940.0,Buku Biografi,7.0,10/11/2014,Michael Barrera,294000.0,3,1
+133940.0,Novel Misteri,2.0,10/11/2014,Michael Barrera,44000.0,10,0
+133940.0,Novel Romansa,9.0,10/11/2014,Michael Barrera,778750.0,11,2
+133941.0,Buku Fiksi,9.0,10/11/2014,Bryan Powell,778750.0,4,2
+133941.0,Buku Sejarah,6.0,10/11/2014,Bryan Powell,72000.0,5,0
+133941.0,Novel Misteri,4.0,10/11/2014,Bryan Powell,192000.0,10,3
+133941.0,Novel Fiksi Ilmiah,4.0,10/11/2014,Bryan Powell,32000.0,9,0
+133942.0,Alat Tulis,1.0,10/11/2014,Bobby Nelson,5000.0,1,0
+133942.0,Buku Fiksi,6.0,10/11/2014,Bobby Nelson,396000.0,4,1
+133942.0,Buku Sejarah,5.0,11/19/2014,Bobby Nelson,375000.0,5,1
+133942.0,Buku Anak-Anak,8.0,11/19/2014,Bobby Nelson,778750.0,2,2
+133943.0,Alat Tulis,9.0,1/1/2015,Ronald Mcneil,778750.0,1,2
+133943.0,Buku Anak-Anak,3.0,1/13/2015,Ronald Mcneil,18000.0,2,0
+133943.0,Majalah Seni,8.0,1/13/2015,Ronald Mcneil,160000.0,8,3
+133943.0,Novel Fiksi Ilmiah,9.0,1/13/2015,Ronald Mcneil,778750.0,9,2
+133943.0,Buku Fiksi,2.0,1/13/2015,Ronald Mcneil,8000.0,4,0
+133943.0,Novel Misteri,6.0,1/13/2015,Ronald Mcneil,90000.0,10,0
+133943.0,Aksesoris Buku,2.0,1/13/2015,Ronald Mcneil,8000.0,0,0
+133944.0,Alat Tulis,6.0,1/13/2015,Christopher Hughes,360000.0,1,1
+133944.0,Buku Sejarah,9.0,1/13/2015,Christopher Hughes,778750.0,5,2
+133944.0,Buku Anak-Anak,6.0,1/13/2015,Christopher Hughes,72000.0,2,0
+133944.0,Novel Fiksi Ilmiah,3.0,1/13/2015,Christopher Hughes,18000.0,9,0
+133944.0,Buku Fiksi,7.0,1/13/2015,Christopher Hughes,98000.0,4,0
+133944.0,Buku Biografi,4.0,1/13/2015,Christopher Hughes,144000.0,3,3
+133944.0,Novel Romansa,1.0,1/13/2015,Christopher Hughes,5000.0,11,0
+133944.0,Aksesoris Buku,8.0,1/13/2015,Christopher Hughes,128000.0,0,3
+133945.0,Alat Tulis,5.0,1/13/2015,Jerome Mayo,225000.0,1,3
+133945.0,Buku Anak-Anak,9.0,1/13/2015,Jerome Mayo,18000.0,2,0
+133945.0,Majalah Seni,9.0,1/13/2015,Jerome Mayo,729000.0,8,2
+133945.0,Majalah Berita,9.0,1/13/2015,Jerome Mayo,778750.0,6,2
+133945.0,Novel Fiksi Ilmiah,2.0,1/13/2015,Jerome Mayo,24000.0,9,0
+133945.0,Novel Misteri,7.0,1/13/2015,Jerome Mayo,490000.0,10,1
+133945.0,Aksesoris Buku,8.0,1/13/2015,Jerome Mayo,640000.0,0,2
+133946.0,Majalah Fashion,6.0,1/13/2015,Krista Jones,180000.0,7,3
+133946.0,Majalah Seni,2.0,1/13/2015,Krista Jones,24000.0,8,0
+133946.0,Novel Misteri,9.0,1/13/2015,Krista Jones,162000.0,10,3
+133946.0,Novel Romansa,6.0,1/13/2015,Krista Jones,180000.0,11,3
+133946.0,Aksesoris Buku,1.0,1/13/2015,Krista Jones,6000.0,0,0
+133947.0,Buku Sejarah,6.0,1/13/2015,Michael Wells,432000.0,5,1
+133947.0,Alat Tulis,2.0,1/13/2015,Michael Wells,44000.0,1,0
+133947.0,Majalah Fashion,5.0,1/13/2015,Michael Wells,62500.0,7,0
+133947.0,Novel Fiksi Ilmiah,7.0,1/13/2015,Michael Wells,122500.0,9,3
+133947.0,Novel Misteri,8.0,1/13/2015,Michael Wells,704000.0,10,2
+133947.0,Buku Biografi,6.0,1/13/2015,Michael Wells,12000.0,3,0
+133947.0,Novel Romansa,3.0,1/13/2015,Michael Wells,108000.0,11,3
+133947.0,Aksesoris Buku,5.0,1/13/2015,Michael Wells,250000.0,0,3
+133948.0,Alat Tulis,4.0,1/13/2015,Ryan Buchanan,80000.0,1,0
+133948.0,Buku Anak-Anak,8.0,1/13/2015,Ryan Buchanan,320000.0,2,1
+133948.0,Majalah Fashion,2.0,1/13/2015,Ryan Buchanan,10000.0,7,0
+133948.0,Majalah Seni,1.0,1/13/2015,Ryan Buchanan,10000.0,8,0
+133948.0,Majalah Berita,7.0,1/13/2015,Ryan Buchanan,490000.0,6,1
+133948.0,Buku Fiksi,3.0,1/13/2015,Ryan Buchanan,117000.0,4,3
+133948.0,Buku Biografi,3.0,1/13/2015,Ryan Buchanan,22500.0,3,0
+133948.0,Aksesoris Buku,7.0,1/13/2015,Ryan Buchanan,441000.0,0,1
+133949.0,Novel Romansa,2.0,1/13/2015,James Mcintosh,60000.0,11,0
+133949.0,Alat Tulis,1.0,1/13/2015,James Mcintosh,2000.0,1,0
+133949.0,Buku Anak-Anak,9.0,1/13/2015,James Mcintosh,486000.0,2,1
+133949.0,Buku Sejarah,1.0,1/13/2015,James Mcintosh,2500.0,5,0
+133950.0,Buku Sejarah,4.0,1/13/2015,Sharon Rivera,40000.0,5,0
+133950.0,Alat Tulis,2.0,1/13/2015,Sharon Rivera,4000.0,1,0
+133950.0,Novel Fiksi Ilmiah,7.0,1/13/2015,Sharon Rivera,294000.0,9,1
+133950.0,Buku Fiksi,5.0,1/13/2015,Sharon Rivera,275000.0,4,3
+133950.0,Novel Misteri,4.0,1/13/2015,Sharon Rivera,8000.0,10,0
+133950.0,Novel Romansa,5.0,1/13/2015,Sharon Rivera,300000.0,11,1
+133950.0,Aksesoris Buku,6.0,1/13/2015,Sharon Rivera,360000.0,0,1
+133951.0,Alat Tulis,4.0,1/13/2015,Jamie Bennett,80000.0,1,0
+133951.0,Buku Sejarah,3.0,1/13/2015,Jamie Bennett,45000.0,5,0
+133951.0,Buku Anak-Anak,5.0,1/13/2015,Jamie Bennett,300000.0,2,1
+133951.0,Buku Biografi,3.0,1/13/2015,Jamie Bennett,108000.0,3,3
+133951.0,Novel Romansa,5.0,1/13/2015,Jamie Bennett,50000.0,11,0
+133951.0,Aksesoris Buku,4.0,1/13/2015,Jamie Bennett,32000.0,0,0
+133952.0,Buku Sejarah,3.0,1/13/2015,Dylan Ward,90000.0,5,0
+133952.0,Alat Tulis,3.0,1/13/2015,Dylan Ward,99000.0,1,0
+133952.0,Buku Anak-Anak,5.0,1/13/2015,Dylan Ward,375000.0,2,1
+133952.0,Majalah Fashion,8.0,1/13/2015,Dylan Ward,128000.0,7,3
+133952.0,Majalah Berita,1.0,1/13/2015,Dylan Ward,6000.0,6,0
+133952.0,Buku Fiksi,8.0,2/1/2015,Dylan Ward,128000.0,4,3
+133952.0,Buku Biografi,1.0,2/1/2015,Dylan Ward,15000.0,3,0
+133952.0,Novel Misteri,8.0,2/1/2015,Dylan Ward,384000.0,10,1
+133953.0,Buku Sejarah,8.0,2/16/2015,Jason Patterson,320000.0,5,1
+133953.0,Majalah Fashion,2.0,2/16/2015,Jason Patterson,36000.0,7,0
+133953.0,Majalah Berita,9.0,5/17/2015,Jason Patterson,162000.0,6,3
+133953.0,Buku Fiksi,1.0,5/17/2015,Jason Patterson,6000.0,4,0
+133953.0,Novel Misteri,1.0,5/17/2015,Jason Patterson,2000.0,10,0
+133953.0,Buku Biografi,8.0,5/17/2015,Jason Patterson,778750.0,3,2
+133954.0,Alat Tulis,4.0,5/17/2015,Kyle Webb,32000.0,1,0
+133954.0,Buku Sejarah,5.0,5/17/2015,Kyle Webb,150000.0,5,3
+133954.0,Majalah Fashion,2.0,5/17/2015,Kyle Webb,60000.0,7,0
+133954.0,Majalah Seni,9.0,5/17/2015,Kyle Webb,486000.0,8,1
+133954.0,Buku Fiksi,5.0,5/17/2015,Kyle Webb,150000.0,4,3
+133954.0,Aksesoris Buku,4.0,5/17/2015,Kyle Webb,160000.0,0,3
+133955.0,Alat Tulis,1.0,5/17/2015,Martin Christian,2000.0,1,0
+133955.0,Buku Anak-Anak,9.0,5/17/2015,Martin Christian,778750.0,2,2
+133955.0,Majalah Berita,7.0,5/17/2015,Martin Christian,735000.0,6,2
+133955.0,Novel Fiksi Ilmiah,6.0,5/17/2015,Martin Christian,90000.0,9,0
+133955.0,Buku Fiksi,2.0,5/17/2015,Martin Christian,10000.0,4,0
+133955.0,Buku Biografi,3.0,5/17/2015,Martin Christian,81000.0,3,0
+133955.0,Novel Misteri,7.0,5/17/2015,Martin Christian,441000.0,10,1
+133955.0,Aksesoris Buku,3.0,5/17/2015,Martin Christian,18000.0,0,0
+133956.0,Alat Tulis,4.0,5/17/2015,Jeffrey Lin DVM,160000.0,1,3
+133956.0,Buku Anak-Anak,7.0,5/17/2015,Jeffrey Lin DVM,735000.0,2,2
+133956.0,Majalah Seni,5.0,5/17/2015,Jeffrey Lin DVM,50000.0,8,0
+133956.0,Buku Fiksi,9.0,5/17/2015,Jeffrey Lin DVM,778750.0,4,2
+133956.0,Buku Biografi,5.0,5/17/2015,Jeffrey Lin DVM,225000.0,3,3
+133956.0,Novel Misteri,2.0,5/17/2015,Jeffrey Lin DVM,8000.0,10,0
+133956.0,Novel Romansa,8.0,5/17/2015,Jeffrey Lin DVM,16000.0,11,0
+133956.0,Aksesoris Buku,4.0,5/17/2015,Jeffrey Lin DVM,80000.0,0,0
+133957.0,Buku Sejarah,9.0,5/17/2015,Mr. Anthony Elliott MD,778750.0,5,2
+133957.0,Alat Tulis,4.0,5/17/2015,Mr. Anthony Elliott MD,208000.0,1,3
+133957.0,Buku Anak-Anak,4.0,8/22/2015,Mr. Anthony Elliott MD,144000.0,2,3
+133957.0,Majalah Fashion,2.0,9/25/2015,Mr. Anthony Elliott MD,44000.0,7,0
+133957.0,Majalah Berita,9.0,9/25/2015,Mr. Anthony Elliott MD,162000.0,6,3
+133957.0,Novel Misteri,5.0,9/25/2015,Mr. Anthony Elliott MD,50000.0,10,0
+133957.0,Novel Romansa,9.0,9/25/2015,Mr. Anthony Elliott MD,778750.0,11,2
+133957.0,Aksesoris Buku,3.0,9/25/2015,Mr. Anthony Elliott MD,6000.0,0,0
+133958.0,Alat Tulis,9.0,9/25/2015,Laura Skinner MD,729000.0,1,2
+133958.0,Buku Sejarah,1.0,9/25/2015,Laura Skinner MD,2500.0,5,0
+133958.0,Majalah Fashion,7.0,9/25/2015,Laura Skinner MD,441000.0,7,1
+133958.0,Majalah Berita,4.0,9/25/2015,Laura Skinner MD,40000.0,6,0
+133958.0,Buku Fiksi,3.0,9/25/2015,Laura Skinner MD,108000.0,4,3
+133958.0,Novel Misteri,3.0,9/25/2015,Laura Skinner MD,22500.0,10,0
+133958.0,Buku Biografi,6.0,9/25/2015,Laura Skinner MD,72000.0,3,0
+133958.0,Aksesoris Buku,4.0,9/25/2015,Laura Skinner MD,32000.0,0,0
+133959.0,Novel Romansa,2.0,9/25/2015,Nicholas Martinez,10000.0,11,0
+133959.0,Majalah Berita,2.0,9/25/2015,Nicholas Martinez,8000.0,6,0
+133959.0,Novel Misteri,6.0,9/25/2015,Nicholas Martinez,468000.0,10,1
+133959.0,Majalah Fashion,3.0,9/25/2015,Nicholas Martinez,22500.0,7,0
+133960.0,Alat Tulis,3.0,11/25/2015,James Anderson,54000.0,1,0
+133960.0,Buku Anak-Anak,4.0,11/25/2015,James Anderson,240000.0,2,3
+133960.0,Majalah Fashion,4.0,12/15/2015,James Anderson,160000.0,7,3
+133960.0,Majalah Seni,4.0,12/15/2015,James Anderson,96000.0,8,0
+133960.0,Buku Biografi,9.0,12/15/2015,James Anderson,729000.0,3,2
+133960.0,Novel Romansa,6.0,12/15/2015,James Anderson,468000.0,11,1
+133960.0,Aksesoris Buku,5.0,12/15/2015,James Anderson,125000.0,0,3
+133961.0,Buku Sejarah,8.0,12/15/2015,Catherine Shaffer,320000.0,5,1
+133961.0,Majalah Seni,7.0,12/15/2015,Catherine Shaffer,588000.0,8,2
+133961.0,Buku Fiksi,9.0,12/15/2015,Catherine Shaffer,778750.0,4,2
+133961.0,Novel Misteri,1.0,12/15/2015,Catherine Shaffer,2000.0,10,0
+133961.0,Aksesoris Buku,7.0,12/15/2015,Catherine Shaffer,245000.0,0,3
+133962.0,Alat Tulis,5.0,12/15/2015,Jennifer Morris,62500.0,1,0
+133962.0,Buku Sejarah,1.0,12/15/2015,Jennifer Morris,2000.0,5,0
+133962.0,Buku Anak-Anak,6.0,12/15/2015,Jennifer Morris,432000.0,2,1
+133962.0,Majalah Berita,2.0,12/15/2015,Jennifer Morris,8000.0,6,0
+133962.0,Novel Misteri,2.0,12/15/2015,Jennifer Morris,8000.0,10,0
+133962.0,Novel Romansa,1.0,12/15/2015,Jennifer Morris,12000.0,11,0
+133963.0,Novel Romansa,1.0,12/15/2015,Margaret Bradshaw,5000.0,11,0
+133963.0,Majalah Fashion,2.0,12/15/2015,Margaret Bradshaw,20000.0,7,0
+133963.0,Majalah Berita,3.0,12/15/2015,Margaret Bradshaw,108000.0,6,3
+133963.0,Buku Sejarah,3.0,12/15/2015,Margaret Bradshaw,54000.0,5,0
+133964.0,Buku Anak-Anak,6.0,12/15/2015,Brandon Howard,324000.0,2,1
+133964.0,Majalah Fashion,1.0,12/15/2015,Brandon Howard,11000.0,7,0
+133964.0,Majalah Seni,7.0,12/15/2015,Brandon Howard,441000.0,8,1
+133964.0,Majalah Berita,3.0,12/15/2015,Brandon Howard,99000.0,6,0
+133964.0,Novel Misteri,1.0,12/15/2015,Brandon Howard,13000.0,10,0
+133964.0,Buku Biografi,6.0,12/15/2015,Brandon Howard,12000.0,3,0
+133964.0,Aksesoris Buku,4.0,12/15/2015,Brandon Howard,32000.0,0,0
+133965.0,Buku Sejarah,4.0,12/15/2015,Miguel Castro,160000.0,5,3
+133965.0,Majalah Fashion,1.0,12/15/2015,Miguel Castro,9000.0,7,0
+133965.0,Majalah Seni,2.0,12/15/2015,Miguel Castro,8000.0,8,0
+133965.0,Novel Romansa,1.0,12/15/2015,Miguel Castro,10000.0,11,0
+133965.0,Aksesoris Buku,2.0,12/15/2015,Miguel Castro,20000.0,0,0
+133966.0,Majalah Fashion,9.0,12/15/2015,Brian Rogers,729000.0,7,2
+133966.0,Majalah Seni,3.0,12/15/2015,Brian Rogers,6000.0,8,0
+133966.0,Majalah Berita,1.0,12/15/2015,Brian Rogers,13000.0,6,0
+133966.0,Buku Fiksi,2.0,12/15/2015,Brian Rogers,24000.0,4,0
+133966.0,Buku Biografi,8.0,12/15/2015,Brian Rogers,778750.0,3,2
+133966.0,Novel Romansa,9.0,12/15/2015,Brian Rogers,778750.0,11,2
+133966.0,Aksesoris Buku,3.0,12/15/2015,Brian Rogers,22500.0,0,0
+133967.0,Alat Tulis,1.0,12/15/2015,Connie Yang,12000.0,1,0
+133967.0,Buku Anak-Anak,8.0,12/15/2015,Connie Yang,778750.0,2,2
+133967.0,Novel Fiksi Ilmiah,8.0,12/15/2015,Connie Yang,778750.0,9,2
+133967.0,Buku Fiksi,8.0,12/15/2015,Connie Yang,704000.0,4,2
+133967.0,Novel Misteri,5.0,12/15/2015,Connie Yang,325000.0,10,1
+133967.0,Buku Biografi,2.0,12/15/2015,Connie Yang,8000.0,3,0
+133968.0,Buku Sejarah,9.0,12/15/2015,Tara Lopez,729000.0,5,2
+133968.0,Alat Tulis,7.0,12/15/2015,Tara Lopez,490000.0,1,1
+133968.0,Majalah Fashion,2.0,12/15/2015,Tara Lopez,48000.0,7,0
+133968.0,Majalah Berita,3.0,2/16/2016,Tara Lopez,45000.0,6,0
+133968.0,Novel Fiksi Ilmiah,3.0,2/16/2016,Tara Lopez,81000.0,9,0
+133968.0,Buku Fiksi,5.0,2/16/2016,Tara Lopez,125000.0,4,3
+133968.0,Buku Biografi,4.0,2/16/2016,Tara Lopez,192000.0,3,3
+133968.0,Aksesoris Buku,8.0,2/16/2016,Tara Lopez,778750.0,0,2
+133969.0,Majalah Seni,3.0,2/16/2016,John Turner,99000.0,8,0
+133969.0,Alat Tulis,1.0,2/16/2016,John Turner,2500.0,1,0
+133969.0,Buku Biografi,4.0,2/16/2016,John Turner,8000.0,3,0
+133969.0,Majalah Fashion,8.0,2/16/2016,John Turner,384000.0,7,1
+133970.0,Buku Sejarah,5.0,2/16/2016,Elizabeth Lee,125000.0,5,3
+133970.0,Alat Tulis,1.0,2/16/2016,Elizabeth Lee,2000.0,1,0
+133970.0,Majalah Fashion,2.0,2/16/2016,Elizabeth Lee,40000.0,7,0
+133970.0,Majalah Seni,9.0,2/16/2016,Elizabeth Lee,778750.0,8,2
+133970.0,Majalah Berita,5.0,2/16/2016,Elizabeth Lee,62500.0,6,0
+133970.0,Buku Fiksi,1.0,2/16/2016,Elizabeth Lee,2500.0,4,0
+133971.0,Majalah Fashion,4.0,2/16/2016,Kirsten Cox,192000.0,7,3
+133971.0,Majalah Seni,5.0,2/16/2016,Kirsten Cox,50000.0,8,0
+133971.0,Majalah Berita,5.0,2/16/2016,Kirsten Cox,375000.0,6,1
+133971.0,Novel Fiksi Ilmiah,5.0,2/16/2016,Kirsten Cox,125000.0,9,3
+133971.0,Novel Misteri,9.0,2/16/2016,Kirsten Cox,778750.0,10,2
+133971.0,Buku Biografi,9.0,2/16/2016,Kirsten Cox,162000.0,3,3
+133972.0,Alat Tulis,7.0,2/16/2016,Summer Hill,588000.0,1,2
+133972.0,Buku Anak-Anak,7.0,2/16/2016,Summer Hill,98000.0,2,0
+133972.0,Buku Fiksi,9.0,2/16/2016,Summer Hill,778750.0,4,2
+133972.0,Novel Romansa,4.0,2/16/2016,Summer Hill,160000.0,11,3
+133972.0,Aksesoris Buku,6.0,2/16/2016,Summer Hill,396000.0,0,1
+133973.0,Alat Tulis,4.0,2/16/2016,Andrew Arnold,8000.0,1,0
+133973.0,Buku Anak-Anak,2.0,2/16/2016,Andrew Arnold,44000.0,2,0
+133973.0,Majalah Seni,2.0,2/16/2016,Andrew Arnold,8000.0,8,0
+133973.0,Novel Fiksi Ilmiah,7.0,2/16/2016,Andrew Arnold,637000.0,9,2
+133973.0,Novel Misteri,4.0,2/16/2016,Andrew Arnold,80000.0,10,0
+133973.0,Buku Biografi,2.0,2/16/2016,Andrew Arnold,4000.0,3,0
+133973.0,Aksesoris Buku,5.0,2/16/2016,Andrew Arnold,375000.0,0,1
+133974.0,Buku Sejarah,5.0,2/16/2016,Maria Benson,62500.0,5,0
+133974.0,Buku Anak-Anak,4.0,2/16/2016,Maria Benson,208000.0,2,3
+133974.0,Novel Fiksi Ilmiah,1.0,2/16/2016,Maria Benson,9000.0,9,0
+133974.0,Novel Romansa,8.0,2/16/2016,Maria Benson,778750.0,11,2
+133974.0,Aksesoris Buku,8.0,2/16/2016,Maria Benson,778750.0,0,2
+133975.0,Majalah Fashion,1.0,2/16/2016,Robert Weaver,12000.0,7,0
+133975.0,Majalah Seni,2.0,2/16/2016,Robert Weaver,4000.0,8,0
+133975.0,Novel Fiksi Ilmiah,1.0,2/16/2016,Robert Weaver,13000.0,9,0
+133975.0,Buku Fiksi,1.0,2/16/2016,Robert Weaver,10000.0,4,0
+133975.0,Novel Misteri,3.0,2/16/2016,Robert Weaver,117000.0,10,3
+133975.0,Buku Biografi,9.0,2/16/2016,Robert Weaver,778750.0,3,2
+133975.0,Novel Romansa,9.0,2/16/2016,Robert Weaver,162000.0,11,3
+133976.0,Buku Anak-Anak,6.0,2/16/2016,Gregory Pope,432000.0,2,1
+133976.0,Majalah Seni,4.0,2/16/2016,Gregory Pope,8000.0,8,0
+133976.0,Novel Misteri,2.0,2/16/2016,Gregory Pope,52000.0,10,0
+133976.0,Buku Biografi,8.0,2/16/2016,Gregory Pope,576000.0,3,2
+133976.0,Novel Romansa,5.0,2/16/2016,Gregory Pope,50000.0,11,0
+133976.0,Aksesoris Buku,4.0,2/16/2016,Gregory Pope,96000.0,0,0
+133977.0,Alat Tulis,4.0,2/16/2016,Catherine Wallace,160000.0,1,3
+133977.0,Buku Anak-Anak,7.0,2/16/2016,Catherine Wallace,588000.0,2,2
+133977.0,Majalah Fashion,7.0,2/16/2016,Catherine Wallace,98000.0,7,0
+133977.0,Majalah Berita,9.0,2/16/2016,Catherine Wallace,778750.0,6,2
+133977.0,Buku Fiksi,2.0,2/16/2016,Catherine Wallace,20000.0,4,0
+133977.0,Aksesoris Buku,3.0,2/16/2016,Catherine Wallace,18000.0,0,0
+133978.0,Alat Tulis,8.0,2/16/2016,Nancy Gomez,384000.0,1,1
+133978.0,Buku Anak-Anak,8.0,5/21/2016,Nancy Gomez,128000.0,2,3
+133978.0,Majalah Fashion,7.0,5/21/2016,Nancy Gomez,98000.0,7,0
+133978.0,Majalah Berita,8.0,5/21/2016,Nancy Gomez,384000.0,6,1
+133978.0,Buku Fiksi,9.0,5/21/2016,Nancy Gomez,778750.0,4,2
+133978.0,Buku Biografi,6.0,5/21/2016,Nancy Gomez,396000.0,3,1
+133978.0,Novel Misteri,6.0,5/21/2016,Nancy Gomez,360000.0,10,1
+133978.0,Aksesoris Buku,8.0,5/21/2016,Nancy Gomez,704000.0,0,2
+133979.0,Alat Tulis,4.0,5/21/2016,Kelly Munoz,240000.0,1,3
+133979.0,Buku Sejarah,3.0,5/21/2016,Kelly Munoz,18000.0,5,0
+133979.0,Majalah Seni,1.0,5/21/2016,Kelly Munoz,12000.0,8,0
+133979.0,Novel Fiksi Ilmiah,6.0,5/21/2016,Kelly Munoz,90000.0,9,0
+133979.0,Buku Biografi,5.0,5/21/2016,Kelly Munoz,125000.0,3,3
+133979.0,Novel Romansa,8.0,5/21/2016,Kelly Munoz,768000.0,11,2
+133979.0,Aksesoris Buku,9.0,5/21/2016,Kelly Munoz,778750.0,0,2
+133980.0,Majalah Fashion,3.0,5/21/2016,Matthew Pratt,22500.0,7,0
+133980.0,Majalah Berita,2.0,5/21/2016,Matthew Pratt,48000.0,6,0
+133980.0,Novel Fiksi Ilmiah,8.0,5/21/2016,Matthew Pratt,128000.0,9,3
+133980.0,Novel Misteri,6.0,5/21/2016,Matthew Pratt,180000.0,10,3
+133980.0,Buku Biografi,9.0,5/21/2016,Matthew Pratt,778750.0,3,2
+133980.0,Novel Romansa,7.0,5/21/2016,Matthew Pratt,637000.0,11,2
+133981.0,Alat Tulis,1.0,5/21/2016,Renee Ruiz,12000.0,1,0
+133981.0,Majalah Fashion,3.0,5/21/2016,Renee Ruiz,6000.0,7,0
+133981.0,Majalah Seni,1.0,5/21/2016,Renee Ruiz,2500.0,8,0
+133981.0,Novel Fiksi Ilmiah,2.0,5/21/2016,Renee Ruiz,48000.0,9,0
+133981.0,Buku Fiksi,7.0,5/21/2016,Renee Ruiz,245000.0,4,3
+133981.0,Novel Misteri,4.0,5/21/2016,Renee Ruiz,96000.0,10,0
+133982.0,Buku Sejarah,9.0,5/21/2016,Sabrina Hebert,405000.0,5,1
+133982.0,Majalah Fashion,7.0,5/21/2016,Sabrina Hebert,441000.0,7,1
+133982.0,Majalah Seni,3.0,5/21/2016,Sabrina Hebert,22500.0,8,0
+133982.0,Buku Fiksi,8.0,5/21/2016,Sabrina Hebert,16000.0,4,0
+133982.0,Buku Biografi,7.0,5/21/2016,Sabrina Hebert,441000.0,3,1
+133983.0,Buku Fiksi,8.0,5/21/2016,Benjamin Romero,778750.0,4,2
+133983.0,Majalah Berita,9.0,5/21/2016,Benjamin Romero,729000.0,6,2
+133983.0,Buku Biografi,2.0,5/21/2016,Benjamin Romero,44000.0,3,0
+133983.0,Majalah Fashion,6.0,5/21/2016,Benjamin Romero,360000.0,7,1
+133984.0,Alat Tulis,7.0,5/21/2016,Jacqueline Cabrera,490000.0,1,1
+133984.0,Buku Anak-Anak,8.0,5/21/2016,Jacqueline Cabrera,320000.0,2,1
+133984.0,Majalah Fashion,2.0,5/21/2016,Jacqueline Cabrera,52000.0,7,0
+133984.0,Majalah Berita,3.0,5/21/2016,Jacqueline Cabrera,81000.0,6,0
+133984.0,Novel Fiksi Ilmiah,9.0,5/21/2016,Jacqueline Cabrera,202500.0,9,3
+133984.0,Buku Biografi,6.0,5/21/2016,Jacqueline Cabrera,180000.0,3,3
+133984.0,Novel Romansa,8.0,5/21/2016,Jacqueline Cabrera,640000.0,11,2
+133985.0,Alat Tulis,3.0,5/21/2016,Alyssa Mason,90000.0,1,0
+133985.0,Buku Sejarah,9.0,5/21/2016,Alyssa Mason,202500.0,5,3
+133985.0,Buku Anak-Anak,6.0,5/21/2016,Alyssa Mason,432000.0,2,1
+133985.0,Majalah Seni,7.0,5/21/2016,Alyssa Mason,98000.0,8,0
+133985.0,Novel Misteri,8.0,5/21/2016,Alyssa Mason,128000.0,10,3
+133985.0,Buku Biografi,8.0,5/21/2016,Alyssa Mason,778750.0,3,2
+133985.0,Novel Romansa,9.0,5/21/2016,Alyssa Mason,778750.0,11,2
+133985.0,Aksesoris Buku,1.0,5/21/2016,Alyssa Mason,9000.0,0,0
+133986.0,Alat Tulis,9.0,5/21/2016,Kathleen Jensen,162000.0,1,3
+133986.0,Buku Sejarah,9.0,5/21/2016,Kathleen Jensen,162000.0,5,3
+133986.0,Majalah Fashion,6.0,5/21/2016,Kathleen Jensen,432000.0,7,1
+133986.0,Majalah Seni,3.0,5/21/2016,Kathleen Jensen,22500.0,8,0
+133986.0,Novel Misteri,1.0,5/21/2016,Kathleen Jensen,2500.0,10,0
+133987.0,Majalah Fashion,9.0,5/21/2016,Eric Lopez,778750.0,7,2
+133987.0,Novel Fiksi Ilmiah,4.0,5/21/2016,Eric Lopez,96000.0,9,0
+133987.0,Buku Fiksi,6.0,5/21/2016,Eric Lopez,12000.0,4,0
+133987.0,Novel Misteri,5.0,5/21/2016,Eric Lopez,125000.0,10,3
+133987.0,Buku Biografi,7.0,5/21/2016,Eric Lopez,245000.0,3,3
+133988.0,Alat Tulis,7.0,5/21/2016,Dylan Weiss,14000.0,1,0
+133988.0,Buku Anak-Anak,1.0,5/21/2016,Dylan Weiss,13000.0,2,0
+133988.0,Majalah Fashion,4.0,5/21/2016,Dylan Weiss,32000.0,7,0
+133988.0,Buku Fiksi,7.0,5/21/2016,Dylan Weiss,14000.0,4,0
+133988.0,Novel Misteri,9.0,5/21/2016,Dylan Weiss,405000.0,10,1
+133988.0,Buku Biografi,7.0,5/21/2016,Dylan Weiss,539000.0,3,1
+133988.0,Novel Romansa,5.0,5/21/2016,Dylan Weiss,62500.0,11,0
+133988.0,Aksesoris Buku,2.0,5/21/2016,Dylan Weiss,48000.0,0,0
+133989.0,Alat Tulis,4.0,5/21/2016,Lauren Miller,144000.0,1,3
+133989.0,Buku Sejarah,4.0,5/21/2016,Lauren Miller,176000.0,5,3
+133989.0,Majalah Seni,5.0,5/21/2016,Lauren Miller,375000.0,8,1
+133989.0,Majalah Berita,4.0,5/21/2016,Lauren Miller,160000.0,6,3
+133989.0,Novel Romansa,5.0,5/21/2016,Lauren Miller,375000.0,11,1
+133989.0,Aksesoris Buku,6.0,5/21/2016,Lauren Miller,396000.0,0,1
+133990.0,Alat Tulis,6.0,5/21/2016,Sharon Johnson,72000.0,1,0
+133990.0,Majalah Fashion,7.0,5/21/2016,Sharon Johnson,588000.0,7,2
+133990.0,Novel Fiksi Ilmiah,1.0,5/21/2016,Sharon Johnson,2000.0,9,0
+133990.0,Buku Fiksi,3.0,5/21/2016,Sharon Johnson,99000.0,4,0
+133990.0,Novel Romansa,8.0,5/21/2016,Sharon Johnson,128000.0,11,3
+133991.0,Alat Tulis,7.0,5/21/2016,Tyler Roberts,98000.0,1,0
+133991.0,Buku Anak-Anak,7.0,5/21/2016,Tyler Roberts,441000.0,2,1
+133991.0,Aksesoris Buku,2.0,8/8/2016,Tyler Roberts,24000.0,0,0
+133991.0,Buku Sejarah,8.0,8/18/2016,Tyler Roberts,778750.0,5,2
+133992.0,Buku Sejarah,1.0,8/18/2016,Denise Davies,11000.0,5,0
+133992.0,Alat Tulis,4.0,8/18/2016,Denise Davies,144000.0,1,3
+133992.0,Buku Anak-Anak,2.0,8/18/2016,Denise Davies,60000.0,2,0
+133992.0,Majalah Berita,1.0,8/18/2016,Denise Davies,15000.0,6,0
+133992.0,Buku Fiksi,8.0,8/18/2016,Denise Davies,778750.0,4,2
+133992.0,Novel Misteri,7.0,8/18/2016,Denise Davies,98000.0,10,0
+133992.0,Novel Romansa,2.0,8/18/2016,Denise Davies,24000.0,11,0
+133992.0,Aksesoris Buku,5.0,8/18/2016,Denise Davies,225000.0,0,3
+133993.0,Alat Tulis,8.0,8/18/2016,Brandon Reed,16000.0,1,0
+133993.0,Buku Anak-Anak,7.0,8/18/2016,Brandon Reed,245000.0,2,3
+133993.0,Majalah Berita,8.0,8/18/2016,Brandon Reed,128000.0,6,3
+133993.0,Novel Fiksi Ilmiah,7.0,8/18/2016,Brandon Reed,14000.0,9,0
+133993.0,Buku Fiksi,8.0,8/18/2016,Brandon Reed,778750.0,4,2
+133993.0,Aksesoris Buku,5.0,8/18/2016,Brandon Reed,50000.0,0,0
+133994.0,Buku Anak-Anak,2.0,8/18/2016,Angela Martin,10000.0,2,0
+133994.0,Majalah Seni,1.0,8/18/2016,Angela Martin,10000.0,8,0
+133994.0,Majalah Berita,2.0,8/18/2016,Angela Martin,10000.0,6,0
+133994.0,Novel Fiksi Ilmiah,7.0,8/18/2016,Angela Martin,735000.0,9,2
+133994.0,Novel Misteri,2.0,8/18/2016,Angela Martin,8000.0,10,0
+133994.0,Buku Biografi,1.0,8/18/2016,Angela Martin,2000.0,3,0
+133994.0,Aksesoris Buku,7.0,8/18/2016,Angela Martin,637000.0,0,2
+133995.0,Alat Tulis,9.0,8/18/2016,Haley Garcia,18000.0,1,0
+133995.0,Buku Sejarah,5.0,8/18/2016,Haley Garcia,50000.0,5,0
+133995.0,Buku Anak-Anak,7.0,8/18/2016,Haley Garcia,294000.0,2,1
+133995.0,Majalah Seni,3.0,8/18/2016,Haley Garcia,90000.0,8,0
+133995.0,Majalah Berita,9.0,8/18/2016,Haley Garcia,162000.0,6,3
+133995.0,Novel Fiksi Ilmiah,7.0,8/18/2016,Haley Garcia,588000.0,9,2
+133995.0,Buku Fiksi,9.0,8/18/2016,Haley Garcia,486000.0,4,1
+133995.0,Aksesoris Buku,7.0,8/18/2016,Haley Garcia,441000.0,0,1
+133996.0,Alat Tulis,4.0,8/18/2016,Hailey Hutchinson,80000.0,1,0
+133996.0,Buku Sejarah,9.0,8/18/2016,Hailey Hutchinson,778750.0,5,2
+133996.0,Buku Anak-Anak,9.0,8/18/2016,Hailey Hutchinson,778750.0,2,2
+133996.0,Majalah Berita,3.0,8/18/2016,Hailey Hutchinson,90000.0,6,0
+133996.0,Buku Fiksi,7.0,8/18/2016,Hailey Hutchinson,490000.0,4,1
+133996.0,Novel Misteri,5.0,8/18/2016,Hailey Hutchinson,50000.0,10,0
+133996.0,Buku Biografi,7.0,8/18/2016,Hailey Hutchinson,245000.0,3,3
+133997.0,Buku Sejarah,7.0,8/18/2016,Jeffrey Chung,637000.0,5,2
+133997.0,Alat Tulis,4.0,8/18/2016,Jeffrey Chung,32000.0,1,0
+133997.0,Buku Anak-Anak,7.0,8/18/2016,Jeffrey Chung,539000.0,2,1
+133997.0,Majalah Berita,5.0,8/18/2016,Jeffrey Chung,375000.0,6,1
+133997.0,Novel Misteri,3.0,8/18/2016,Jeffrey Chung,108000.0,10,3
+133997.0,Aksesoris Buku,9.0,8/18/2016,Jeffrey Chung,405000.0,0,1
+133998.0,Buku Sejarah,2.0,8/18/2016,Bradley Daniels,24000.0,5,0
+133998.0,Novel Fiksi Ilmiah,2.0,8/18/2016,Bradley Daniels,60000.0,9,0
+133998.0,Buku Fiksi,1.0,8/18/2016,Bradley Daniels,15000.0,4,0
+133998.0,Buku Biografi,8.0,8/18/2016,Bradley Daniels,778750.0,3,2
+133998.0,Novel Romansa,4.0,8/18/2016,Bradley Daniels,80000.0,11,0
+133998.0,Aksesoris Buku,8.0,8/18/2016,Bradley Daniels,16000.0,0,0
+133999.0,Buku Sejarah,9.0,8/18/2016,Kathy Oneal,778750.0,5,2
+133999.0,Majalah Fashion,7.0,8/18/2016,Kathy Oneal,441000.0,7,1
+133999.0,Majalah Berita,9.0,8/18/2016,Kathy Oneal,18000.0,6,0
+133999.0,Novel Fiksi Ilmiah,4.0,8/18/2016,Kathy Oneal,176000.0,9,3
+133999.0,Novel Misteri,9.0,8/18/2016,Kathy Oneal,778750.0,10,2
+133999.0,Aksesoris Buku,5.0,8/18/2016,Kathy Oneal,325000.0,0,1
+134000.0,Alat Tulis,3.0,8/18/2016,Laura Carr,117000.0,1,3
+134000.0,Majalah Seni,1.0,8/18/2016,Laura Carr,13000.0,8,0
+134000.0,Majalah Berita,5.0,8/18/2016,Laura Carr,250000.0,6,3
+134000.0,Novel Fiksi Ilmiah,4.0,8/18/2016,Laura Carr,192000.0,9,3
+134000.0,Novel Misteri,5.0,10/17/2016,Laura Carr,50000.0,10,0
+134001.0,Buku Sejarah,4.0,10/17/2016,Tasha Jensen,160000.0,5,3
+134001.0,Majalah Seni,4.0,10/17/2016,Tasha Jensen,8000.0,8,0
+134001.0,Majalah Berita,2.0,10/17/2016,Tasha Jensen,60000.0,6,0
+134001.0,Novel Misteri,5.0,10/17/2016,Tasha Jensen,125000.0,10,3
+134001.0,Novel Romansa,5.0,10/17/2016,Tasha Jensen,10000.0,11,0
+134001.0,Aksesoris Buku,6.0,12/28/2016,Tasha Jensen,468000.0,0,1
+134002.0,Alat Tulis,1.0,12/28/2016,Carl Parker,9000.0,1,0
+134002.0,Buku Anak-Anak,3.0,12/28/2016,Carl Parker,135000.0,2,3
+134002.0,Novel Misteri,6.0,12/28/2016,Carl Parker,180000.0,10,3
+134002.0,Buku Biografi,3.0,12/28/2016,Carl Parker,99000.0,3,0
+134002.0,Novel Romansa,5.0,12/28/2016,Carl Parker,50000.0,11,0
+134002.0,Aksesoris Buku,9.0,12/28/2016,Carl Parker,162000.0,0,3
+134003.0,Buku Sejarah,6.0,12/28/2016,Grace Johnson,216000.0,5,3
+134003.0,Alat Tulis,6.0,12/28/2016,Grace Johnson,72000.0,1,0
+134003.0,Majalah Fashion,8.0,12/28/2016,Grace Johnson,778750.0,7,2
+134003.0,Majalah Seni,2.0,12/28/2016,Grace Johnson,8000.0,8,0
+134003.0,Majalah Berita,2.0,12/28/2016,Grace Johnson,52000.0,6,0
+134003.0,Buku Fiksi,6.0,12/28/2016,Grace Johnson,396000.0,4,1
+134003.0,Novel Misteri,7.0,12/28/2016,Grace Johnson,637000.0,10,2
+134004.0,Alat Tulis,5.0,1/20/2017,Renee Hood,250000.0,1,3
+134004.0,Buku Anak-Anak,5.0,1/20/2017,Renee Hood,325000.0,2,1
+134004.0,Majalah Seni,9.0,1/20/2017,Renee Hood,778750.0,8,2
+134004.0,Novel Fiksi Ilmiah,7.0,1/20/2017,Renee Hood,294000.0,9,1
+134004.0,Buku Fiksi,5.0,1/20/2017,Renee Hood,50000.0,4,0
+134004.0,Buku Biografi,3.0,1/20/2017,Renee Hood,99000.0,3,0
+134004.0,Novel Misteri,5.0,1/20/2017,Renee Hood,300000.0,10,1
+134004.0,Novel Romansa,1.0,1/20/2017,Renee Hood,11000.0,11,0
+134005.0,Alat Tulis,5.0,1/20/2017,James Roy,375000.0,1,1
+134005.0,Majalah Seni,6.0,3/13/2017,James Roy,324000.0,8,1
+134005.0,Majalah Berita,7.0,3/13/2017,James Roy,122500.0,6,3
+134005.0,Novel Fiksi Ilmiah,7.0,3/13/2017,James Roy,637000.0,9,2
+134005.0,Buku Fiksi,7.0,3/13/2017,James Roy,735000.0,4,2
+134005.0,Buku Biografi,9.0,3/13/2017,James Roy,202500.0,3,3
+134005.0,Aksesoris Buku,3.0,3/13/2017,James Roy,45000.0,0,0
+134006.0,Alat Tulis,1.0,3/13/2017,Morgan Lee,12000.0,1,0
+134006.0,Buku Sejarah,5.0,3/13/2017,Morgan Lee,375000.0,5,1
+134006.0,Majalah Seni,5.0,3/13/2017,Morgan Lee,325000.0,8,1
+134006.0,Majalah Berita,3.0,3/13/2017,Morgan Lee,18000.0,6,0
+134006.0,Buku Fiksi,7.0,3/13/2017,Morgan Lee,637000.0,4,2
+134006.0,Buku Biografi,5.0,3/13/2017,Morgan Lee,10000.0,3,0
+134006.0,Novel Romansa,3.0,3/13/2017,Morgan Lee,90000.0,11,0
+134007.0,Buku Sejarah,5.0,3/13/2017,Lori Glass,10000.0,5,0
+134007.0,Majalah Fashion,8.0,3/13/2017,Lori Glass,778750.0,7,2
+134007.0,Majalah Seni,9.0,3/13/2017,Lori Glass,729000.0,8,2
+134007.0,Majalah Berita,6.0,3/13/2017,Lori Glass,90000.0,6,0
+134007.0,Novel Fiksi Ilmiah,4.0,4/5/2017,Lori Glass,144000.0,9,3
+134007.0,Buku Fiksi,4.0,4/5/2017,Lori Glass,144000.0,4,3
+134007.0,Novel Misteri,4.0,4/5/2017,Lori Glass,192000.0,10,3
+134007.0,Aksesoris Buku,7.0,4/5/2017,Lori Glass,490000.0,0,1
+134008.0,Novel Fiksi Ilmiah,7.0,4/5/2017,Zachary Morrison,294000.0,9,1
+134008.0,Majalah Seni,2.0,4/5/2017,Zachary Morrison,4000.0,8,0
+134008.0,Novel Misteri,5.0,4/19/2017,Zachary Morrison,250000.0,10,3
+134008.0,Majalah Fashion,2.0,4/19/2017,Zachary Morrison,8000.0,7,0
+134009.0,Alat Tulis,4.0,4/19/2017,Paige Dixon,160000.0,1,3
+134009.0,Buku Anak-Anak,9.0,4/19/2017,Paige Dixon,778750.0,2,2
+134009.0,Novel Misteri,4.0,4/19/2017,Paige Dixon,240000.0,10,3
+134009.0,Buku Biografi,4.0,4/19/2017,Paige Dixon,240000.0,3,3
+134009.0,Novel Romansa,5.0,4/19/2017,Paige Dixon,10000.0,11,0
+134010.0,Alat Tulis,4.0,4/19/2017,David Villarreal,192000.0,1,3
+134010.0,Buku Anak-Anak,6.0,4/19/2017,David Villarreal,540000.0,2,1
+134010.0,Majalah Fashion,1.0,4/19/2017,David Villarreal,2000.0,7,0
+134010.0,Novel Fiksi Ilmiah,7.0,4/19/2017,David Villarreal,245000.0,9,3
+134010.0,Buku Fiksi,1.0,4/19/2017,David Villarreal,2000.0,4,0
+134010.0,Buku Biografi,1.0,4/19/2017,David Villarreal,10000.0,3,0
+134010.0,Novel Romansa,1.0,4/19/2017,David Villarreal,5000.0,11,0
+134010.0,Aksesoris Buku,6.0,4/19/2017,David Villarreal,324000.0,0,1
+134011.0,Alat Tulis,1.0,4/19/2017,Kenneth Ortiz,2500.0,1,0
+134011.0,Buku Anak-Anak,7.0,4/19/2017,Kenneth Ortiz,490000.0,2,1
+134011.0,Majalah Fashion,9.0,4/19/2017,Kenneth Ortiz,729000.0,7,2
+134011.0,Buku Fiksi,4.0,4/19/2017,Kenneth Ortiz,32000.0,4,0
+134011.0,Novel Misteri,9.0,4/19/2017,Kenneth Ortiz,162000.0,10,3
+134011.0,Buku Biografi,8.0,4/19/2017,Kenneth Ortiz,768000.0,3,2
+134011.0,Aksesoris Buku,7.0,4/19/2017,Kenneth Ortiz,122500.0,0,3
+134012.0,Buku Sejarah,5.0,4/19/2017,Barbara Baker,250000.0,5,3
+134012.0,Alat Tulis,6.0,4/19/2017,Barbara Baker,432000.0,1,1
+134012.0,Majalah Seni,9.0,4/19/2017,Barbara Baker,18000.0,8,0
+134012.0,Majalah Berita,3.0,4/19/2017,Barbara Baker,135000.0,6,3
+134012.0,Buku Biografi,9.0,4/19/2017,Barbara Baker,729000.0,3,2
+134012.0,Novel Romansa,7.0,4/19/2017,Barbara Baker,490000.0,11,1
+134013.0,Novel Romansa,5.0,4/19/2017,Angel Ward,325000.0,11,1
+134013.0,Majalah Seni,2.0,4/19/2017,Angel Ward,20000.0,8,0
+134013.0,Buku Sejarah,2.0,4/19/2017,Angel Ward,4000.0,5,0
+134013.0,Buku Fiksi,5.0,4/19/2017,Angel Ward,150000.0,4,3
+134014.0,Buku Sejarah,7.0,7/26/2017,Tina Spencer,539000.0,5,1
+134014.0,Majalah Fashion,7.0,7/26/2017,Tina Spencer,122500.0,7,3
+134014.0,Majalah Seni,9.0,7/26/2017,Tina Spencer,162000.0,8,3
+134014.0,Majalah Berita,4.0,7/26/2017,Tina Spencer,40000.0,6,0
+134014.0,Buku Fiksi,5.0,7/26/2017,Tina Spencer,150000.0,4,3
+134014.0,Buku Biografi,8.0,7/26/2017,Tina Spencer,576000.0,3,2
+134014.0,Novel Misteri,5.0,7/26/2017,Tina Spencer,275000.0,10,3
+134014.0,Novel Romansa,2.0,7/26/2017,Tina Spencer,4000.0,11,0
+134015.0,Novel Romansa,1.0,7/26/2017,Elizabeth Mahoney,2500.0,11,0
+134015.0,Majalah Berita,5.0,7/26/2017,Elizabeth Mahoney,375000.0,6,1
+134015.0,Novel Misteri,6.0,7/26/2017,Elizabeth Mahoney,360000.0,10,1
+134015.0,Buku Sejarah,5.0,7/26/2017,Elizabeth Mahoney,62500.0,5,0
+134016.0,Majalah Seni,6.0,7/26/2017,Kimberly Harris,540000.0,8,1
+134016.0,Majalah Berita,9.0,7/26/2017,Kimberly Harris,778750.0,6,2
+134016.0,Novel Fiksi Ilmiah,7.0,10/18/2017,Kimberly Harris,588000.0,9,2
+134016.0,Buku Fiksi,7.0,1/16/2018,Kimberly Harris,98000.0,4,0
+134016.0,Buku Biografi,9.0,1/16/2018,Kimberly Harris,202500.0,3,3
+134016.0,Novel Misteri,2.0,1/16/2018,Kimberly Harris,60000.0,10,0
+134017.0,Alat Tulis,7.0,1/16/2018,Rachel Haas,294000.0,1,1
+134017.0,Buku Anak-Anak,8.0,1/16/2018,Rachel Haas,576000.0,2,2
+134017.0,Majalah Fashion,9.0,1/16/2018,Rachel Haas,162000.0,7,3
+134017.0,Majalah Seni,2.0,1/16/2018,Rachel Haas,20000.0,8,0
+134017.0,Majalah Berita,4.0,1/16/2018,Rachel Haas,8000.0,6,0
+134017.0,Novel Fiksi Ilmiah,3.0,1/16/2018,Rachel Haas,54000.0,9,0
+134017.0,Buku Biografi,2.0,1/16/2018,Rachel Haas,8000.0,3,0
+134017.0,Aksesoris Buku,1.0,1/16/2018,Rachel Haas,12000.0,0,0
+134018.0,Novel Romansa,2.0,1/16/2018,Tracey Hernandez,36000.0,11,0
+134018.0,Buku Fiksi,7.0,1/16/2018,Tracey Hernandez,588000.0,4,2
+134018.0,Alat Tulis,7.0,1/16/2018,Tracey Hernandez,245000.0,1,3
+134018.0,Aksesoris Buku,3.0,1/16/2018,Tracey Hernandez,18000.0,0,0
+134019.0,Alat Tulis,7.0,1/16/2018,Madeline Hall,122500.0,1,3
+134019.0,Buku Sejarah,1.0,1/16/2018,Madeline Hall,2000.0,5,0
+134019.0,Buku Anak-Anak,3.0,1/16/2018,Madeline Hall,6000.0,2,0
+134019.0,Majalah Berita,6.0,1/16/2018,Madeline Hall,12000.0,6,0
+134019.0,Novel Misteri,7.0,1/16/2018,Madeline Hall,637000.0,10,2
+134019.0,Buku Biografi,9.0,1/16/2018,Madeline Hall,202500.0,3,3
+134019.0,Novel Romansa,2.0,1/16/2018,Madeline Hall,8000.0,11,0
+134020.0,Buku Anak-Anak,5.0,1/16/2018,Kayla Bailey,375000.0,2,1
+134020.0,Majalah Fashion,2.0,1/16/2018,Kayla Bailey,24000.0,7,0
+134020.0,Novel Fiksi Ilmiah,4.0,1/16/2018,Kayla Bailey,192000.0,9,3
+134020.0,Buku Biografi,7.0,1/16/2018,Kayla Bailey,122500.0,3,3
+134020.0,Aksesoris Buku,1.0,1/16/2018,Kayla Bailey,13000.0,0,0
+134021.0,Alat Tulis,2.0,1/16/2018,Derek Anderson,44000.0,1,0
+134021.0,Buku Sejarah,6.0,1/16/2018,Derek Anderson,360000.0,5,1
+134021.0,Majalah Fashion,4.0,1/16/2018,Derek Anderson,160000.0,7,3
+134021.0,Majalah Seni,7.0,1/16/2018,Derek Anderson,98000.0,8,0
+134021.0,Novel Misteri,9.0,1/16/2018,Derek Anderson,162000.0,10,3
+134021.0,Aksesoris Buku,2.0,1/16/2018,Derek Anderson,4000.0,0,0
+134022.0,Buku Sejarah,8.0,1/16/2018,Michael Stephens,128000.0,5,3
+134022.0,Alat Tulis,1.0,1/16/2018,Michael Stephens,9000.0,1,0
+134022.0,Buku Anak-Anak,6.0,1/16/2018,Michael Stephens,540000.0,2,1
+134022.0,Majalah Seni,4.0,1/16/2018,Michael Stephens,240000.0,8,3
+134022.0,Novel Misteri,3.0,1/16/2018,Michael Stephens,117000.0,10,3
+134022.0,Buku Biografi,3.0,1/16/2018,Michael Stephens,22500.0,3,0
+134022.0,Novel Romansa,4.0,1/16/2018,Michael Stephens,240000.0,11,3
+134023.0,Alat Tulis,8.0,1/16/2018,Michael Flores,576000.0,1,2
+134023.0,Buku Anak-Anak,9.0,1/16/2018,Michael Flores,778750.0,2,2
+134023.0,Majalah Seni,2.0,1/16/2018,Michael Flores,40000.0,8,0
+134023.0,Novel Romansa,9.0,1/16/2018,Michael Flores,162000.0,11,3
+134023.0,Aksesoris Buku,8.0,1/16/2018,Michael Flores,128000.0,0,3
+134024.0,Majalah Berita,3.0,1/16/2018,David Watkins,54000.0,6,0
+134024.0,Buku Sejarah,1.0,1/16/2018,David Watkins,2000.0,5,0
+134024.0,Buku Biografi,7.0,1/16/2018,David Watkins,245000.0,3,3
+134024.0,Novel Fiksi Ilmiah,8.0,1/16/2018,David Watkins,576000.0,9,2
+134025.0,Alat Tulis,5.0,1/16/2018,Richard Harrison,125000.0,1,3
+134025.0,Buku Sejarah,9.0,1/16/2018,Richard Harrison,162000.0,5,3
+134025.0,Majalah Berita,8.0,1/16/2018,Richard Harrison,778750.0,6,2
+134025.0,Novel Fiksi Ilmiah,1.0,1/16/2018,Richard Harrison,2500.0,9,0
+134025.0,Buku Fiksi,5.0,1/16/2018,Richard Harrison,150000.0,4,3
+134025.0,Novel Misteri,8.0,1/16/2018,Richard Harrison,160000.0,10,3
+134025.0,Novel Romansa,9.0,1/16/2018,Richard Harrison,486000.0,11,1
+134026.0,Alat Tulis,7.0,1/16/2018,Matthew Kelley,588000.0,1,2
+134026.0,Buku Anak-Anak,3.0,1/16/2018,Matthew Kelley,108000.0,2,3
+134026.0,Majalah Fashion,1.0,1/16/2018,Matthew Kelley,2000.0,7,0
+134026.0,Novel Misteri,5.0,1/16/2018,Matthew Kelley,300000.0,10,1
+134026.0,Buku Biografi,3.0,1/16/2018,Matthew Kelley,18000.0,3,0
+134027.0,Buku Sejarah,9.0,1/16/2018,Christy Parrish,778750.0,5,2
+134027.0,Alat Tulis,9.0,1/16/2018,Christy Parrish,778750.0,1,2
+134027.0,Buku Anak-Anak,9.0,1/16/2018,Christy Parrish,778750.0,2,2
+134027.0,Majalah Fashion,4.0,1/16/2018,Christy Parrish,96000.0,7,0
+134027.0,Majalah Seni,4.0,1/16/2018,Christy Parrish,144000.0,8,3
+134027.0,Majalah Berita,5.0,1/16/2018,Christy Parrish,50000.0,6,0
+134027.0,Buku Fiksi,1.0,1/16/2018,Christy Parrish,10000.0,4,0
+134027.0,Buku Biografi,1.0,1/16/2018,Christy Parrish,9000.0,3,0
+134028.0,Buku Sejarah,2.0,1/16/2018,Zachary Ruiz,52000.0,5,0
+134028.0,Majalah Fashion,5.0,1/16/2018,Zachary Ruiz,50000.0,7,0
+134028.0,Majalah Seni,9.0,1/16/2018,Zachary Ruiz,202500.0,8,3
+134028.0,Majalah Berita,7.0,1/16/2018,Zachary Ruiz,735000.0,6,2
+134028.0,Buku Biografi,6.0,1/16/2018,Zachary Ruiz,324000.0,3,1
+134028.0,Aksesoris Buku,9.0,1/16/2018,Zachary Ruiz,778750.0,0,2
+134029.0,Alat Tulis,7.0,1/16/2018,Anthony Gaines,637000.0,1,2
+134029.0,Buku Anak-Anak,1.0,1/16/2018,Anthony Gaines,12000.0,2,0
+134029.0,Majalah Seni,5.0,1/16/2018,Anthony Gaines,50000.0,8,0
+134029.0,Majalah Berita,1.0,1/16/2018,Anthony Gaines,12000.0,6,0
+134029.0,Buku Fiksi,7.0,1/16/2018,Anthony Gaines,98000.0,4,0
+134029.0,Novel Romansa,5.0,1/16/2018,Anthony Gaines,50000.0,11,0
+134029.0,Aksesoris Buku,1.0,1/16/2018,Anthony Gaines,2000.0,0,0
+134030.0,Alat Tulis,1.0,1/16/2018,Lindsey Kramer,11000.0,1,0
+134030.0,Buku Anak-Anak,6.0,1/16/2018,Lindsey Kramer,360000.0,2,1
+134030.0,Majalah Berita,6.0,1/16/2018,Lindsey Kramer,72000.0,6,0
+134030.0,Novel Fiksi Ilmiah,6.0,2/19/2018,Lindsey Kramer,72000.0,9,0
+134030.0,Aksesoris Buku,1.0,2/19/2018,Lindsey Kramer,6000.0,0,0
+134031.0,Alat Tulis,3.0,4/25/2018,Rachel Hart,54000.0,1,0
+134031.0,Buku Sejarah,2.0,4/25/2018,Rachel Hart,24000.0,5,0
+134031.0,Majalah Seni,4.0,4/25/2018,Rachel Hart,8000.0,8,0
+134031.0,Majalah Berita,7.0,4/25/2018,Rachel Hart,637000.0,6,2
+134031.0,Novel Fiksi Ilmiah,1.0,4/25/2018,Rachel Hart,13000.0,9,0
+134031.0,Buku Fiksi,5.0,4/25/2018,Rachel Hart,275000.0,4,3
+134032.0,Buku Sejarah,8.0,4/25/2018,Bruce Jensen,640000.0,5,2
+134032.0,Majalah Seni,2.0,4/25/2018,Bruce Jensen,48000.0,8,0
+134032.0,Buku Biografi,4.0,4/25/2018,Bruce Jensen,208000.0,3,3
+134032.0,Novel Romansa,4.0,4/25/2018,Bruce Jensen,176000.0,11,3
+134032.0,Aksesoris Buku,6.0,4/25/2018,Bruce Jensen,90000.0,0,0
+134033.0,Buku Sejarah,3.0,4/25/2018,Cynthia Perez,81000.0,5,0
+134033.0,Majalah Seni,6.0,4/25/2018,Cynthia Perez,360000.0,8,1
+134033.0,Novel Fiksi Ilmiah,5.0,4/25/2018,Cynthia Perez,325000.0,9,1
+134033.0,Buku Fiksi,2.0,7/27/2018,Cynthia Perez,40000.0,4,0
+134033.0,Novel Romansa,6.0,7/27/2018,Cynthia Perez,72000.0,11,0
+134034.0,Buku Anak-Anak,3.0,7/27/2018,Dr. Gary Ayers,18000.0,2,0
+134034.0,Majalah Fashion,1.0,7/27/2018,Dr. Gary Ayers,2000.0,7,0
+134034.0,Majalah Seni,9.0,7/27/2018,Dr. Gary Ayers,162000.0,8,3
+134034.0,Novel Fiksi Ilmiah,6.0,7/27/2018,Dr. Gary Ayers,468000.0,9,1
+134034.0,Aksesoris Buku,1.0,7/27/2018,Dr. Gary Ayers,2000.0,0,0
+134035.0,Alat Tulis,4.0,7/27/2018,Donald Bauer,240000.0,1,3
+134035.0,Majalah Seni,7.0,7/27/2018,Donald Bauer,637000.0,8,2
+134035.0,Majalah Berita,2.0,7/27/2018,Donald Bauer,20000.0,6,0
+134035.0,Buku Fiksi,2.0,7/27/2018,Donald Bauer,4000.0,4,0
+134035.0,Novel Romansa,5.0,7/27/2018,Donald Bauer,50000.0,11,0
+134035.0,Aksesoris Buku,7.0,7/27/2018,Donald Bauer,14000.0,0,0
+134036.0,Buku Sejarah,7.0,7/27/2018,Karen Ramirez,539000.0,5,1
+134036.0,Alat Tulis,2.0,7/27/2018,Karen Ramirez,60000.0,1,0
+134036.0,Buku Anak-Anak,2.0,7/27/2018,Karen Ramirez,40000.0,2,0
+134036.0,Majalah Seni,5.0,7/27/2018,Karen Ramirez,125000.0,8,3
+134036.0,Buku Biografi,1.0,7/27/2018,Karen Ramirez,5000.0,3,0
+134036.0,Novel Misteri,3.0,7/27/2018,Karen Ramirez,81000.0,10,0
+134036.0,Novel Romansa,2.0,7/27/2018,Karen Ramirez,10000.0,11,0
+134036.0,Aksesoris Buku,4.0,7/27/2018,Karen Ramirez,208000.0,0,3
+134037.0,Majalah Berita,7.0,7/27/2018,Danny Hickman,245000.0,6,3
+134037.0,Novel Misteri,3.0,7/27/2018,Danny Hickman,18000.0,10,0
+134037.0,Aksesoris Buku,8.0,7/27/2018,Danny Hickman,384000.0,0,1
+134037.0,Novel Fiksi Ilmiah,9.0,7/27/2018,Danny Hickman,778750.0,9,2
+134038.0,Buku Fiksi,5.0,7/27/2018,Kara Howard,62500.0,4,0
+134038.0,Buku Biografi,1.0,7/27/2018,Kara Howard,6000.0,3,0
+134038.0,Aksesoris Buku,8.0,7/27/2018,Kara Howard,128000.0,0,3
+134038.0,Majalah Fashion,8.0,7/27/2018,Kara Howard,128000.0,7,3
+134039.0,Majalah Seni,5.0,7/27/2018,Scott Thompson,10000.0,8,0
+134039.0,Majalah Berita,2.0,7/27/2018,Scott Thompson,44000.0,6,0
+134039.0,Novel Fiksi Ilmiah,5.0,7/27/2018,Scott Thompson,62500.0,9,0
+134039.0,Buku Fiksi,2.0,7/27/2018,Scott Thompson,8000.0,4,0
+134039.0,Novel Misteri,3.0,7/27/2018,Scott Thompson,18000.0,10,0
+134039.0,Buku Biografi,7.0,7/27/2018,Scott Thompson,122500.0,3,3
+134039.0,Novel Romansa,1.0,10/23/2018,Scott Thompson,6000.0,11,0
+134039.0,Aksesoris Buku,1.0,10/23/2018,Scott Thompson,9000.0,0,0
+134040.0,Alat Tulis,3.0,10/23/2018,Cynthia Ward,108000.0,1,3
+134040.0,Majalah Fashion,2.0,10/23/2018,Cynthia Ward,40000.0,7,0
+134040.0,Majalah Seni,7.0,10/23/2018,Cynthia Ward,98000.0,8,0
+134040.0,Majalah Berita,2.0,10/23/2018,Cynthia Ward,52000.0,6,0
+134040.0,Buku Fiksi,8.0,10/23/2018,Cynthia Ward,160000.0,4,3
+134040.0,Novel Misteri,4.0,10/23/2018,Cynthia Ward,96000.0,10,0
+134040.0,Novel Romansa,5.0,10/23/2018,Cynthia Ward,50000.0,11,0
+134040.0,Aksesoris Buku,3.0,10/23/2018,Cynthia Ward,22500.0,0,0
+134041.0,Majalah Seni,8.0,10/23/2018,Thomas Sanchez,160000.0,8,3
+134041.0,Majalah Berita,1.0,10/23/2018,Thomas Sanchez,2500.0,6,0
+134041.0,Buku Anak-Anak,8.0,10/23/2018,Thomas Sanchez,384000.0,2,1
+134041.0,Majalah Fashion,2.0,10/23/2018,Thomas Sanchez,60000.0,7,0
+134042.0,Alat Tulis,9.0,10/23/2018,Aaron Salinas,202500.0,1,3
+134042.0,Buku Sejarah,8.0,11/27/2018,Aaron Salinas,778750.0,5,2
+134042.0,Majalah Fashion,4.0,11/27/2018,Aaron Salinas,240000.0,7,3
+134042.0,Majalah Berita,9.0,11/27/2018,Aaron Salinas,486000.0,6,1
+134042.0,Novel Misteri,4.0,11/27/2018,Aaron Salinas,144000.0,10,3
+134042.0,Buku Biografi,2.0,11/27/2018,Aaron Salinas,36000.0,3,0
+134042.0,Novel Romansa,9.0,1/29/2019,Aaron Salinas,729000.0,11,2
+134043.0,Buku Sejarah,2.0,1/29/2019,Sherri Johnson,40000.0,5,0
+134043.0,Alat Tulis,7.0,4/25/2019,Sherri Johnson,490000.0,1,1
+134043.0,Buku Anak-Anak,2.0,4/25/2019,Sherri Johnson,20000.0,2,0
+134043.0,Novel Fiksi Ilmiah,9.0,4/25/2019,Sherri Johnson,405000.0,9,1
+134043.0,Novel Romansa,5.0,4/25/2019,Sherri Johnson,225000.0,11,3
+134044.0,Buku Sejarah,6.0,4/25/2019,Victoria Thomas,180000.0,5,3
+134044.0,Alat Tulis,3.0,7/22/2019,Victoria Thomas,81000.0,1,0
+134044.0,Buku Anak-Anak,5.0,7/22/2019,Victoria Thomas,225000.0,2,3
+134044.0,Majalah Fashion,6.0,7/22/2019,Victoria Thomas,72000.0,7,0
+134044.0,Majalah Berita,3.0,7/22/2019,Victoria Thomas,108000.0,6,3
+134044.0,Novel Fiksi Ilmiah,5.0,7/22/2019,Victoria Thomas,325000.0,9,1
+134044.0,Buku Biografi,9.0,7/22/2019,Victoria Thomas,778750.0,3,2
+134044.0,Aksesoris Buku,2.0,7/22/2019,Victoria Thomas,10000.0,0,0
+134045.0,Alat Tulis,9.0,7/22/2019,Barry French,778750.0,1,2
+134045.0,Buku Anak-Anak,1.0,7/22/2019,Barry French,10000.0,2,0
+134045.0,Majalah Fashion,5.0,7/22/2019,Barry French,375000.0,7,1
+134045.0,Majalah Berita,6.0,7/22/2019,Barry French,216000.0,6,3
+134045.0,Novel Fiksi Ilmiah,3.0,7/22/2019,Barry French,54000.0,9,0
+134045.0,Buku Biografi,8.0,7/22/2019,Barry French,778750.0,3,2
+134045.0,Novel Romansa,9.0,7/22/2019,Barry French,202500.0,11,3
+134046.0,Novel Fiksi Ilmiah,8.0,7/22/2019,Jim Martinez,16000.0,9,0
+134046.0,Alat Tulis,3.0,7/22/2019,Jim Martinez,135000.0,1,3
+134046.0,Buku Anak-Anak,7.0,7/22/2019,Jim Martinez,98000.0,2,0
+134046.0,Buku Sejarah,8.0,7/22/2019,Jim Martinez,704000.0,5,2
+134047.0,Novel Romansa,5.0,7/22/2019,Stuart Hawkins,50000.0,11,0
+134047.0,Buku Fiksi,2.0,7/22/2019,Stuart Hawkins,44000.0,4,0
+134047.0,Buku Sejarah,3.0,7/22/2019,Stuart Hawkins,135000.0,5,3
+134047.0,Buku Biografi,6.0,7/22/2019,Stuart Hawkins,72000.0,3,0
+134048.0,Buku Sejarah,6.0,7/22/2019,Christopher Soto,432000.0,5,1
+134048.0,Majalah Berita,2.0,7/22/2019,Christopher Soto,44000.0,6,0
+134048.0,Novel Fiksi Ilmiah,5.0,7/22/2019,Christopher Soto,125000.0,9,3
+134048.0,Buku Fiksi,8.0,7/22/2019,Christopher Soto,160000.0,4,3
+134048.0,Novel Misteri,1.0,7/22/2019,Christopher Soto,12000.0,10,0
+134048.0,Buku Biografi,2.0,7/22/2019,Christopher Soto,44000.0,3,0
+134048.0,Aksesoris Buku,7.0,7/22/2019,Christopher Soto,98000.0,0,0
+134049.0,Alat Tulis,6.0,7/22/2019,Alyssa Madden,324000.0,1,1
+134049.0,Buku Sejarah,4.0,7/22/2019,Alyssa Madden,96000.0,5,0
+134049.0,Majalah Fashion,4.0,7/22/2019,Alyssa Madden,192000.0,7,3
+134049.0,Majalah Seni,1.0,7/22/2019,Alyssa Madden,12000.0,8,0
+134049.0,Novel Fiksi Ilmiah,3.0,7/22/2019,Alyssa Madden,54000.0,9,0
+134049.0,Buku Fiksi,5.0,7/22/2019,Alyssa Madden,125000.0,4,3
+134049.0,Novel Romansa,4.0,7/22/2019,Alyssa Madden,208000.0,11,3
+134049.0,Aksesoris Buku,2.0,7/22/2019,Alyssa Madden,52000.0,0,0
+134050.0,Alat Tulis,8.0,7/22/2019,Dylan Foster,576000.0,1,2
+134050.0,Buku Anak-Anak,5.0,7/22/2019,Dylan Foster,325000.0,2,1
+134050.0,Novel Fiksi Ilmiah,2.0,7/22/2019,Dylan Foster,40000.0,9,0
+134050.0,Buku Fiksi,6.0,7/22/2019,Dylan Foster,90000.0,4,0
+134050.0,Novel Misteri,8.0,7/22/2019,Dylan Foster,128000.0,10,3
+134050.0,Buku Biografi,3.0,7/22/2019,Dylan Foster,90000.0,3,0
+134050.0,Novel Romansa,9.0,7/22/2019,Dylan Foster,729000.0,11,2
+134050.0,Aksesoris Buku,2.0,7/22/2019,Dylan Foster,40000.0,0,0
+134051.0,Buku Sejarah,6.0,7/22/2019,John Harvey,72000.0,5,0
+134051.0,Alat Tulis,5.0,7/22/2019,John Harvey,150000.0,1,3
+134051.0,Majalah Fashion,4.0,7/22/2019,John Harvey,80000.0,7,0
+134051.0,Novel Fiksi Ilmiah,5.0,7/22/2019,John Harvey,125000.0,9,3
+134051.0,Buku Biografi,6.0,7/22/2019,John Harvey,396000.0,3,1
+134052.0,Alat Tulis,9.0,7/22/2019,Barry Aguilar,162000.0,1,3
+134052.0,Buku Sejarah,1.0,7/22/2019,Barry Aguilar,2000.0,5,0
+134052.0,Buku Anak-Anak,1.0,7/22/2019,Barry Aguilar,15000.0,2,0
+134052.0,Buku Fiksi,2.0,7/22/2019,Barry Aguilar,48000.0,4,0
+134052.0,Buku Biografi,4.0,7/22/2019,Barry Aguilar,192000.0,3,3
+134052.0,Novel Romansa,3.0,7/22/2019,Barry Aguilar,6000.0,11,0
+134052.0,Aksesoris Buku,7.0,7/22/2019,Barry Aguilar,245000.0,0,3
+134053.0,Novel Romansa,9.0,7/22/2019,Lindsey Mccoy,778750.0,11,2
+134053.0,Majalah Seni,8.0,7/22/2019,Lindsey Mccoy,16000.0,8,0
+134053.0,Buku Anak-Anak,8.0,7/22/2019,Lindsey Mccoy,16000.0,2,0
+134053.0,Aksesoris Buku,9.0,7/22/2019,Lindsey Mccoy,162000.0,0,3
+134054.0,Alat Tulis,4.0,7/22/2019,Gregory Carter,80000.0,1,0
+134054.0,Buku Sejarah,2.0,7/22/2019,Gregory Carter,24000.0,5,0
+134054.0,Buku Anak-Anak,8.0,7/22/2019,Gregory Carter,704000.0,2,2
+134054.0,Majalah Fashion,9.0,7/22/2019,Gregory Carter,405000.0,7,1
+134054.0,Buku Fiksi,7.0,7/22/2019,Gregory Carter,490000.0,4,1
+134054.0,Novel Misteri,5.0,7/22/2019,Gregory Carter,10000.0,10,0
+134054.0,Novel Romansa,6.0,7/22/2019,Gregory Carter,12000.0,11,0
+134054.0,Aksesoris Buku,9.0,7/22/2019,Gregory Carter,162000.0,0,3
+134055.0,Alat Tulis,2.0,7/22/2019,Angela Gordon,44000.0,1,0
+134055.0,Buku Anak-Anak,7.0,7/22/2019,Angela Gordon,245000.0,2,3
+134055.0,Majalah Berita,3.0,10/23/2019,Angela Gordon,135000.0,6,3
+134055.0,Novel Fiksi Ilmiah,7.0,12/24/2019,Angela Gordon,122500.0,9,3
+134055.0,Buku Fiksi,7.0,12/24/2019,Angela Gordon,588000.0,4,2
+134055.0,Novel Romansa,6.0,12/24/2019,Angela Gordon,180000.0,11,3
+134055.0,Aksesoris Buku,7.0,12/24/2019,Angela Gordon,98000.0,0,0
+134056.0,Majalah Fashion,2.0,12/24/2019,Joy Cohen,4000.0,7,0
+134056.0,Majalah Berita,5.0,12/24/2019,Joy Cohen,50000.0,6,0
+134056.0,Novel Fiksi Ilmiah,8.0,12/24/2019,Joy Cohen,16000.0,9,0
+134056.0,Buku Fiksi,8.0,12/24/2019,Joy Cohen,160000.0,4,3
+134056.0,Buku Biografi,8.0,12/24/2019,Joy Cohen,778750.0,3,2
+134056.0,Novel Misteri,8.0,12/24/2019,Joy Cohen,128000.0,10,3
+134056.0,Novel Romansa,5.0,12/24/2019,Joy Cohen,275000.0,11,3
+134057.0,Buku Sejarah,9.0,12/24/2019,Brett Branch,778750.0,5,2
+134057.0,Majalah Berita,4.0,12/24/2019,Brett Branch,40000.0,6,0
+134057.0,Novel Fiksi Ilmiah,2.0,12/24/2019,Brett Branch,8000.0,9,0
+134057.0,Novel Misteri,6.0,12/24/2019,Brett Branch,396000.0,10,1
+134057.0,Buku Biografi,5.0,12/24/2019,Brett Branch,10000.0,3,0
+134057.0,Novel Romansa,9.0,12/24/2019,Brett Branch,162000.0,11,3
+134057.0,Aksesoris Buku,2.0,12/24/2019,Brett Branch,60000.0,0,0
+134058.0,Alat Tulis,8.0,12/24/2019,Rodney Kennedy,778750.0,1,2
+134058.0,Buku Sejarah,3.0,12/24/2019,Rodney Kennedy,54000.0,5,0
+134058.0,Majalah Fashion,5.0,12/24/2019,Rodney Kennedy,10000.0,7,0
+134058.0,Majalah Seni,7.0,12/24/2019,Rodney Kennedy,98000.0,8,0
+134058.0,Novel Fiksi Ilmiah,4.0,12/24/2019,Rodney Kennedy,160000.0,9,3
+134058.0,Novel Misteri,8.0,12/24/2019,Rodney Kennedy,778750.0,10,2
+134058.0,Novel Romansa,8.0,12/24/2019,Rodney Kennedy,128000.0,11,3
+134058.0,Aksesoris Buku,9.0,12/24/2019,Rodney Kennedy,18000.0,0,0
+134059.0,Majalah Fashion,9.0,12/24/2019,Scott Howell,18000.0,7,0
+134059.0,Majalah Seni,4.0,12/24/2019,Scott Howell,160000.0,8,3
+134059.0,Buku Fiksi,8.0,12/24/2019,Scott Howell,768000.0,4,2
+134059.0,Buku Biografi,7.0,12/24/2019,Scott Howell,14000.0,3,0
+134059.0,Novel Misteri,4.0,12/24/2019,Scott Howell,240000.0,10,3
+134059.0,Aksesoris Buku,9.0,12/24/2019,Scott Howell,778750.0,0,2
+134060.0,Buku Sejarah,1.0,12/24/2019,Ann Johnston,11000.0,5,0
+134060.0,Majalah Fashion,2.0,12/24/2019,Ann Johnston,52000.0,7,0
+134060.0,Novel Fiksi Ilmiah,1.0,12/24/2019,Ann Johnston,15000.0,9,0
+134060.0,Buku Fiksi,2.0,12/24/2019,Ann Johnston,4000.0,4,0
+134060.0,Novel Misteri,2.0,12/24/2019,Ann Johnston,24000.0,10,0
+134060.0,Buku Biografi,2.0,12/24/2019,Ann Johnston,44000.0,3,0
+134061.0,Alat Tulis,5.0,12/24/2019,Cristina White,125000.0,1,3
+134061.0,Buku Anak-Anak,8.0,12/24/2019,Cristina White,128000.0,2,3
+134061.0,Majalah Fashion,3.0,12/24/2019,Cristina White,108000.0,7,3
+134061.0,Majalah Seni,5.0,12/24/2019,Cristina White,325000.0,8,1
+134061.0,Novel Romansa,8.0,12/24/2019,Cristina White,576000.0,11,2
+134061.0,Aksesoris Buku,7.0,12/24/2019,Cristina White,98000.0,0,0
+134062.0,Alat Tulis,9.0,12/24/2019,Jason Adams,202500.0,1,3
+134062.0,Buku Anak-Anak,1.0,12/24/2019,Jason Adams,2000.0,2,0
+134062.0,Majalah Fashion,2.0,12/24/2019,Jason Adams,10000.0,7,0
+134062.0,Majalah Seni,7.0,12/24/2019,Jason Adams,539000.0,8,1
+134062.0,Novel Misteri,6.0,12/24/2019,Jason Adams,468000.0,10,1
+134062.0,Buku Biografi,5.0,12/24/2019,Jason Adams,10000.0,3,0
+134062.0,Aksesoris Buku,3.0,12/24/2019,Jason Adams,6000.0,0,0
+134063.0,Alat Tulis,3.0,12/24/2019,Linda Daniel,117000.0,1,3
+134063.0,Buku Sejarah,6.0,12/24/2019,Linda Daniel,12000.0,5,0
+134063.0,Buku Anak-Anak,4.0,12/24/2019,Linda Daniel,160000.0,2,3
+134063.0,Majalah Fashion,6.0,2/3/2020,Linda Daniel,360000.0,7,1
+134063.0,Majalah Berita,4.0,2/3/2020,Linda Daniel,208000.0,6,3
+134063.0,Novel Fiksi Ilmiah,2.0,2/3/2020,Linda Daniel,4000.0,9,0
+134063.0,Novel Misteri,8.0,2/3/2020,Linda Daniel,778750.0,10,2
+134063.0,Aksesoris Buku,5.0,2/3/2020,Linda Daniel,225000.0,0,3
+134064.0,Alat Tulis,4.0,2/3/2020,Jeffrey Burgess,40000.0,1,0
+134064.0,Majalah Fashion,7.0,2/3/2020,Jeffrey Burgess,490000.0,7,1
+134064.0,Majalah Berita,9.0,2/3/2020,Jeffrey Burgess,778750.0,6,2
+134064.0,Buku Fiksi,4.0,2/3/2020,Jeffrey Burgess,176000.0,4,3
+134064.0,Novel Misteri,6.0,2/3/2020,Jeffrey Burgess,540000.0,10,1
+134064.0,Novel Romansa,1.0,2/3/2020,Jeffrey Burgess,15000.0,11,0
+134064.0,Aksesoris Buku,3.0,2/3/2020,Jeffrey Burgess,6000.0,0,0
+134065.0,Alat Tulis,8.0,4/4/2020,Christopher West,128000.0,1,3
+134065.0,Buku Sejarah,6.0,4/4/2020,Christopher West,72000.0,5,0
+134065.0,Buku Anak-Anak,3.0,4/4/2020,Christopher West,99000.0,2,0
+134065.0,Majalah Berita,2.0,4/4/2020,Christopher West,44000.0,6,0
+134065.0,Buku Fiksi,1.0,6/2/2020,Christopher West,15000.0,4,0
+134065.0,Novel Misteri,9.0,6/2/2020,Christopher West,405000.0,10,1
+134065.0,Buku Biografi,8.0,6/2/2020,Christopher West,320000.0,3,1
+134065.0,Aksesoris Buku,9.0,6/2/2020,Christopher West,778750.0,0,2
+134066.0,Buku Anak-Anak,4.0,6/2/2020,Alyssa Berg,208000.0,2,3
+134066.0,Majalah Fashion,4.0,6/2/2020,Alyssa Berg,144000.0,7,3
+134066.0,Majalah Berita,5.0,6/2/2020,Alyssa Berg,50000.0,6,0
+134066.0,Novel Fiksi Ilmiah,4.0,6/2/2020,Alyssa Berg,208000.0,9,3
+134066.0,Aksesoris Buku,7.0,6/2/2020,Alyssa Berg,98000.0,0,0
+134067.0,Majalah Fashion,2.0,6/2/2020,Dana Hernandez,40000.0,7,0
+134067.0,Alat Tulis,7.0,6/2/2020,Dana Hernandez,14000.0,1,0
+134067.0,Buku Biografi,9.0,6/2/2020,Dana Hernandez,162000.0,3,3
+134067.0,Novel Fiksi Ilmiah,3.0,6/2/2020,Dana Hernandez,108000.0,9,3
+134068.0,Alat Tulis,3.0,9/4/2020,John Roberts,117000.0,1,3
+134068.0,Buku Sejarah,7.0,9/4/2020,John Roberts,637000.0,5,2
+134068.0,Buku Anak-Anak,9.0,9/4/2020,John Roberts,778750.0,2,2
+134068.0,Majalah Seni,5.0,9/4/2020,John Roberts,375000.0,8,1
+134068.0,Buku Fiksi,6.0,9/4/2020,John Roberts,90000.0,4,0
+134068.0,Novel Romansa,8.0,9/4/2020,John Roberts,778750.0,11,2
+134068.0,Aksesoris Buku,6.0,9/4/2020,John Roberts,360000.0,0,1
+134069.0,Alat Tulis,4.0,9/4/2020,Maureen Mueller,176000.0,1,3
+134069.0,Majalah Seni,3.0,9/4/2020,Maureen Mueller,54000.0,8,0
+134069.0,Majalah Berita,2.0,10/26/2020,Maureen Mueller,48000.0,6,0
+134069.0,Novel Fiksi Ilmiah,5.0,10/26/2020,Maureen Mueller,225000.0,9,3
+134069.0,Buku Fiksi,7.0,10/26/2020,Maureen Mueller,245000.0,4,3
+134069.0,Novel Romansa,6.0,10/26/2020,Maureen Mueller,324000.0,11,1
+134070.0,Alat Tulis,9.0,10/26/2020,James Brown,778750.0,1,2
+134070.0,Majalah Fashion,4.0,10/26/2020,James Brown,32000.0,7,0
+134070.0,Majalah Seni,2.0,10/26/2020,James Brown,60000.0,8,0
+134070.0,Majalah Berita,7.0,10/26/2020,James Brown,735000.0,6,2
+134070.0,Novel Fiksi Ilmiah,5.0,10/26/2020,James Brown,125000.0,9,3
+134070.0,Buku Fiksi,4.0,10/26/2020,James Brown,8000.0,4,0
+134070.0,Buku Biografi,7.0,10/26/2020,James Brown,98000.0,3,0
+134070.0,Aksesoris Buku,7.0,10/26/2020,James Brown,441000.0,0,1
+134071.0,Novel Romansa,5.0,10/26/2020,April Richard,50000.0,11,0
+134071.0,Alat Tulis,8.0,10/26/2020,April Richard,704000.0,1,2
+134071.0,Buku Biografi,4.0,10/26/2020,April Richard,80000.0,3,0
+134071.0,Aksesoris Buku,9.0,1/16/2021,April Richard,778750.0,0,2
+134072.0,Alat Tulis,8.0,1/16/2021,Angela Oconnor,768000.0,1,2
+134072.0,Buku Anak-Anak,5.0,1/16/2021,Angela Oconnor,150000.0,2,3
+134072.0,Majalah Fashion,7.0,1/16/2021,Angela Oconnor,245000.0,7,3
+134072.0,Majalah Seni,2.0,1/16/2021,Angela Oconnor,8000.0,8,0
+134072.0,Majalah Berita,5.0,1/16/2021,Angela Oconnor,150000.0,6,3
+134072.0,Novel Fiksi Ilmiah,7.0,1/16/2021,Angela Oconnor,98000.0,9,0
+134072.0,Buku Biografi,6.0,1/16/2021,Angela Oconnor,72000.0,3,0
+134072.0,Aksesoris Buku,5.0,1/16/2021,Angela Oconnor,125000.0,0,3
+134073.0,Majalah Seni,7.0,1/16/2021,Edward Castillo,294000.0,8,1
+134073.0,Alat Tulis,3.0,1/16/2021,Edward Castillo,22500.0,1,0
+134073.0,Buku Biografi,2.0,1/16/2021,Edward Castillo,44000.0,3,0
+134073.0,Buku Sejarah,3.0,1/16/2021,Edward Castillo,6000.0,5,0
+134074.0,Buku Sejarah,8.0,1/16/2021,Eric Owen,768000.0,5,2
+134074.0,Majalah Fashion,2.0,1/16/2021,Eric Owen,40000.0,7,0
+134074.0,Majalah Seni,8.0,1/16/2021,Eric Owen,16000.0,8,0
+134074.0,Majalah Berita,5.0,1/16/2021,Eric Owen,125000.0,6,3
+134074.0,Buku Fiksi,8.0,1/16/2021,Eric Owen,768000.0,4,2
+134074.0,Novel Misteri,8.0,1/16/2021,Eric Owen,384000.0,10,1
+134074.0,Novel Romansa,7.0,1/16/2021,Eric Owen,588000.0,11,2
+134075.0,Alat Tulis,5.0,1/16/2021,Melissa Moore,62500.0,1,0
+134075.0,Buku Sejarah,4.0,1/16/2021,Melissa Moore,192000.0,5,3
+134075.0,Majalah Seni,1.0,1/16/2021,Melissa Moore,15000.0,8,0
+134075.0,Novel Fiksi Ilmiah,3.0,1/16/2021,Melissa Moore,45000.0,9,0
+134075.0,Buku Fiksi,3.0,1/16/2021,Melissa Moore,22500.0,4,0
+134075.0,Buku Biografi,6.0,1/16/2021,Melissa Moore,12000.0,3,0
+134075.0,Novel Romansa,9.0,1/16/2021,Melissa Moore,202500.0,11,3
+134075.0,Aksesoris Buku,5.0,1/16/2021,Melissa Moore,325000.0,0,1
+134076.0,Buku Sejarah,5.0,1/16/2021,Diane Smith,250000.0,5,3
+134076.0,Majalah Fashion,7.0,1/16/2021,Diane Smith,98000.0,7,0
+134076.0,Majalah Seni,3.0,1/16/2021,Diane Smith,18000.0,8,0
+134076.0,Novel Fiksi Ilmiah,6.0,1/16/2021,Diane Smith,180000.0,9,3
+134076.0,Buku Fiksi,7.0,1/16/2021,Diane Smith,245000.0,4,3
+134076.0,Buku Biografi,1.0,1/16/2021,Diane Smith,6000.0,3,0
+134076.0,Novel Romansa,2.0,1/16/2021,Diane Smith,8000.0,11,0
+134076.0,Aksesoris Buku,3.0,1/16/2021,Diane Smith,6000.0,0,0
+134077.0,Buku Sejarah,4.0,1/16/2021,Jacqueline Lewis,32000.0,5,0
+134077.0,Alat Tulis,7.0,1/16/2021,Jacqueline Lewis,98000.0,1,0
+134077.0,Majalah Fashion,9.0,1/16/2021,Jacqueline Lewis,778750.0,7,2
+134077.0,Majalah Seni,8.0,1/16/2021,Jacqueline Lewis,320000.0,8,1
+134077.0,Novel Fiksi Ilmiah,5.0,1/16/2021,Jacqueline Lewis,225000.0,9,3
+134077.0,Buku Fiksi,6.0,1/16/2021,Jacqueline Lewis,90000.0,4,0
+134077.0,Buku Biografi,6.0,1/16/2021,Jacqueline Lewis,12000.0,3,0
+134077.0,Novel Misteri,2.0,1/16/2021,Jacqueline Lewis,4000.0,10,0
+134078.0,Buku Sejarah,6.0,1/16/2021,Laura Wiley,12000.0,5,0
+134078.0,Alat Tulis,6.0,1/16/2021,Laura Wiley,216000.0,1,3
+134078.0,Majalah Fashion,7.0,1/16/2021,Laura Wiley,637000.0,7,2
+134078.0,Majalah Berita,2.0,1/16/2021,Laura Wiley,44000.0,6,0
+134078.0,Buku Fiksi,3.0,1/16/2021,Laura Wiley,117000.0,4,3
+134079.0,Alat Tulis,7.0,1/16/2021,Mike Marshall,294000.0,1,1
+134079.0,Buku Anak-Anak,8.0,1/16/2021,Mike Marshall,384000.0,2,1
+134079.0,Majalah Seni,7.0,1/16/2021,Mike Marshall,294000.0,8,1
+134079.0,Novel Fiksi Ilmiah,7.0,1/16/2021,Mike Marshall,637000.0,9,2
+134079.0,Buku Fiksi,7.0,1/16/2021,Mike Marshall,735000.0,4,2
+134079.0,Buku Biografi,5.0,1/16/2021,Mike Marshall,225000.0,3,3
+134079.0,Novel Romansa,4.0,1/16/2021,Mike Marshall,80000.0,11,0
+134079.0,Aksesoris Buku,4.0,1/16/2021,Mike Marshall,208000.0,0,3
+134080.0,Buku Sejarah,4.0,2/25/2021,Dr. Cassandra Williams,8000.0,5,0
+134080.0,Alat Tulis,8.0,2/25/2021,Dr. Cassandra Williams,128000.0,1,3
+134080.0,Buku Anak-Anak,4.0,2/25/2021,Dr. Cassandra Williams,96000.0,2,0
+134080.0,Majalah Seni,7.0,2/25/2021,Dr. Cassandra Williams,294000.0,8,1
+134080.0,Majalah Berita,3.0,2/25/2021,Dr. Cassandra Williams,6000.0,6,0
+134080.0,Novel Fiksi Ilmiah,4.0,2/25/2021,Dr. Cassandra Williams,8000.0,9,0
+134080.0,Buku Biografi,6.0,2/25/2021,Dr. Cassandra Williams,90000.0,3,0
+134081.0,Alat Tulis,7.0,2/25/2021,Sandra Guerrero,637000.0,1,2
+134081.0,Majalah Berita,7.0,2/25/2021,Sandra Guerrero,14000.0,6,0
+134081.0,Novel Fiksi Ilmiah,8.0,3/21/2021,Sandra Guerrero,778750.0,9,2
+134081.0,Buku Biografi,5.0,3/21/2021,Sandra Guerrero,300000.0,3,1
+134081.0,Aksesoris Buku,7.0,3/21/2021,Sandra Guerrero,637000.0,0,2
+134082.0,Alat Tulis,2.0,3/21/2021,Carla Prince,48000.0,1,0
+134082.0,Majalah Berita,7.0,3/21/2021,Carla Prince,539000.0,6,1
+134082.0,Novel Fiksi Ilmiah,8.0,3/21/2021,Carla Prince,128000.0,9,3
+134082.0,Buku Fiksi,6.0,3/21/2021,Carla Prince,180000.0,4,3
+134082.0,Novel Misteri,1.0,3/21/2021,Carla Prince,2500.0,10,0
+134082.0,Aksesoris Buku,2.0,3/21/2021,Carla Prince,36000.0,0,0
+134083.0,Majalah Fashion,4.0,3/21/2021,Caitlin Adams,176000.0,7,3
+134083.0,Majalah Berita,8.0,3/21/2021,Caitlin Adams,160000.0,6,3
+134083.0,Novel Fiksi Ilmiah,8.0,3/21/2021,Caitlin Adams,576000.0,9,2
+134083.0,Novel Misteri,4.0,3/21/2021,Caitlin Adams,96000.0,10,0
+134083.0,Aksesoris Buku,6.0,3/21/2021,Caitlin Adams,12000.0,0,0
+134084.0,Majalah Berita,2.0,3/21/2021,Molly Hernandez,8000.0,6,0
+134084.0,Alat Tulis,1.0,3/21/2021,Molly Hernandez,10000.0,1,0
+134084.0,Buku Biografi,8.0,3/21/2021,Molly Hernandez,768000.0,3,2
+134084.0,Majalah Fashion,5.0,3/21/2021,Molly Hernandez,50000.0,7,0
+134085.0,Buku Sejarah,5.0,3/21/2021,Rebecca Nelson,150000.0,5,3
+134085.0,Alat Tulis,9.0,3/21/2021,Rebecca Nelson,778750.0,1,2
+134085.0,Buku Anak-Anak,5.0,3/21/2021,Rebecca Nelson,125000.0,2,3
+134085.0,Majalah Berita,6.0,3/21/2021,Rebecca Nelson,360000.0,6,1
+134085.0,Novel Fiksi Ilmiah,1.0,3/21/2021,Rebecca Nelson,2000.0,9,0
+134085.0,Buku Fiksi,5.0,4/19/2021,Rebecca Nelson,10000.0,4,0
+134085.0,Buku Biografi,4.0,4/19/2021,Rebecca Nelson,96000.0,3,0
+134086.0,Majalah Fashion,8.0,4/19/2021,Larry Osborne,778750.0,7,2
+134086.0,Majalah Seni,8.0,4/19/2021,Larry Osborne,160000.0,8,3
+134086.0,Buku Fiksi,8.0,4/19/2021,Larry Osborne,704000.0,4,2
+134086.0,Novel Misteri,6.0,4/19/2021,Larry Osborne,360000.0,10,1
+134086.0,Buku Biografi,8.0,4/19/2021,Larry Osborne,778750.0,3,2
+134086.0,Novel Romansa,1.0,4/19/2021,Larry Osborne,15000.0,11,0
+134087.0,Buku Sejarah,6.0,4/19/2021,Heather Valentine,396000.0,5,1
+134087.0,Alat Tulis,7.0,4/19/2021,Heather Valentine,637000.0,1,2
+134087.0,Majalah Seni,2.0,4/19/2021,Heather Valentine,44000.0,8,0
+134087.0,Buku Fiksi,8.0,4/19/2021,Heather Valentine,704000.0,4,2
+134087.0,Novel Misteri,8.0,4/19/2021,Heather Valentine,160000.0,10,3
+134087.0,Buku Biografi,9.0,4/19/2021,Heather Valentine,202500.0,3,3
+134087.0,Novel Romansa,5.0,4/19/2021,Heather Valentine,150000.0,11,3
+134088.0,Majalah Fashion,3.0,4/19/2021,Mr. Brett Williams,117000.0,7,3
+134088.0,Majalah Seni,2.0,4/19/2021,Mr. Brett Williams,60000.0,8,0
+134088.0,Novel Fiksi Ilmiah,4.0,4/19/2021,Mr. Brett Williams,80000.0,9,0
+134088.0,Buku Fiksi,7.0,4/19/2021,Mr. Brett Williams,490000.0,4,1
+134088.0,Novel Misteri,3.0,4/19/2021,Mr. Brett Williams,18000.0,10,0
+134088.0,Novel Romansa,9.0,4/19/2021,Mr. Brett Williams,778750.0,11,2
+134089.0,Alat Tulis,1.0,4/19/2021,James Brooks,11000.0,1,0
+134089.0,Majalah Seni,8.0,4/19/2021,James Brooks,640000.0,8,2
+134089.0,Majalah Berita,4.0,7/8/2021,James Brooks,240000.0,6,3
+134089.0,Novel Fiksi Ilmiah,3.0,7/8/2021,James Brooks,81000.0,9,0
+134089.0,Buku Biografi,4.0,7/8/2021,James Brooks,176000.0,3,3
+134089.0,Novel Romansa,1.0,7/8/2021,James Brooks,2000.0,11,0
+134090.0,Alat Tulis,7.0,7/8/2021,Patricia Perry,490000.0,1,1
+134090.0,Buku Anak-Anak,9.0,7/8/2021,Patricia Perry,202500.0,2,3
+134090.0,Majalah Berita,7.0,7/8/2021,Patricia Perry,98000.0,6,0
+134090.0,Novel Fiksi Ilmiah,8.0,7/8/2021,Patricia Perry,704000.0,9,2
+134090.0,Buku Fiksi,2.0,7/8/2021,Patricia Perry,4000.0,4,0
+134090.0,Aksesoris Buku,9.0,7/8/2021,Patricia Perry,778750.0,0,2
+134091.0,Alat Tulis,7.0,7/8/2021,Robert Gallagher,539000.0,1,1
+134091.0,Buku Biografi,1.0,7/8/2021,Robert Gallagher,5000.0,3,0
+134091.0,Buku Anak-Anak,2.0,7/8/2021,Robert Gallagher,44000.0,2,0
+134091.0,Aksesoris Buku,1.0,7/8/2021,Robert Gallagher,5000.0,0,0
+134092.0,Buku Sejarah,4.0,7/8/2021,John Bailey,160000.0,5,3
+134092.0,Majalah Fashion,7.0,7/8/2021,John Bailey,122500.0,7,3
+134092.0,Majalah Seni,8.0,7/8/2021,John Bailey,768000.0,8,2
+134092.0,Novel Fiksi Ilmiah,3.0,7/8/2021,John Bailey,6000.0,9,0
+134092.0,Novel Misteri,6.0,7/8/2021,John Bailey,540000.0,10,1
+134092.0,Buku Biografi,5.0,7/8/2021,John Bailey,50000.0,3,0
+134093.0,Alat Tulis,5.0,7/8/2021,Rachel Henderson,125000.0,1,3
+134093.0,Buku Anak-Anak,1.0,7/8/2021,Rachel Henderson,6000.0,2,0
+134093.0,Majalah Fashion,1.0,7/8/2021,Rachel Henderson,15000.0,7,0
+134093.0,Novel Fiksi Ilmiah,9.0,7/8/2021,Rachel Henderson,486000.0,9,1
+134093.0,Buku Fiksi,2.0,7/8/2021,Rachel Henderson,8000.0,4,0
+134093.0,Novel Misteri,5.0,7/8/2021,Rachel Henderson,50000.0,10,0
+134093.0,Aksesoris Buku,9.0,7/8/2021,Rachel Henderson,778750.0,0,2
+134094.0,Alat Tulis,6.0,7/8/2021,Jeffrey Carrillo,12000.0,1,0
+134094.0,Novel Misteri,9.0,7/8/2021,Jeffrey Carrillo,729000.0,10,2
+134094.0,Buku Biografi,9.0,7/8/2021,Jeffrey Carrillo,162000.0,3,3
+134094.0,Novel Romansa,2.0,7/8/2021,Jeffrey Carrillo,52000.0,11,0
+134094.0,Aksesoris Buku,7.0,7/8/2021,Jeffrey Carrillo,245000.0,0,3
+134095.0,Alat Tulis,2.0,7/8/2021,Gloria Ramirez,24000.0,1,0
+134095.0,Buku Sejarah,8.0,7/8/2021,Gloria Ramirez,128000.0,5,3
+134095.0,Buku Anak-Anak,2.0,7/8/2021,Gloria Ramirez,8000.0,2,0
+134095.0,Majalah Fashion,7.0,7/8/2021,Gloria Ramirez,441000.0,7,1
+134095.0,Majalah Berita,6.0,7/8/2021,Gloria Ramirez,432000.0,6,1
+134095.0,Buku Fiksi,6.0,7/8/2021,Gloria Ramirez,324000.0,4,1
+134095.0,Aksesoris Buku,7.0,7/8/2021,Gloria Ramirez,735000.0,0,2
+134096.0,Alat Tulis,2.0,7/8/2021,Richard Castillo,52000.0,1,0
+134096.0,Buku Sejarah,2.0,7/8/2021,Richard Castillo,4000.0,5,0
+134096.0,Buku Anak-Anak,2.0,7/8/2021,Richard Castillo,40000.0,2,0
+134096.0,Majalah Seni,7.0,7/8/2021,Richard Castillo,245000.0,8,3
+134096.0,Majalah Berita,7.0,7/8/2021,Richard Castillo,98000.0,6,0
+134096.0,Novel Fiksi Ilmiah,1.0,7/8/2021,Richard Castillo,2000.0,9,0
+134096.0,Novel Romansa,7.0,7/8/2021,Richard Castillo,14000.0,11,0
+134096.0,Aksesoris Buku,2.0,7/8/2021,Richard Castillo,10000.0,0,0
+134097.0,Alat Tulis,7.0,7/8/2021,Jon Hernandez,294000.0,1,1
+134097.0,Buku Anak-Anak,8.0,7/8/2021,Jon Hernandez,384000.0,2,1
+134097.0,Novel Fiksi Ilmiah,4.0,7/8/2021,Jon Hernandez,32000.0,9,0
+134097.0,Buku Biografi,3.0,7/8/2021,Jon Hernandez,99000.0,3,0
+134097.0,Novel Romansa,5.0,7/8/2021,Jon Hernandez,150000.0,11,3
+134098.0,Alat Tulis,2.0,7/8/2021,Brian Harris,52000.0,1,0
+134098.0,Buku Sejarah,5.0,7/8/2021,Brian Harris,325000.0,5,1
+134098.0,Buku Anak-Anak,2.0,7/8/2021,Brian Harris,20000.0,2,0
+134098.0,Majalah Seni,3.0,7/8/2021,Brian Harris,99000.0,8,0
+134098.0,Novel Misteri,5.0,7/8/2021,Brian Harris,225000.0,10,3
+134099.0,Alat Tulis,9.0,7/8/2021,Brian Thomas,778750.0,1,2
+134099.0,Buku Sejarah,1.0,7/8/2021,Brian Thomas,12000.0,5,0
+134099.0,Buku Anak-Anak,8.0,7/8/2021,Brian Thomas,778750.0,2,2
+134099.0,Majalah Seni,6.0,7/8/2021,Brian Thomas,180000.0,8,3
+134099.0,Majalah Berita,8.0,7/8/2021,Brian Thomas,576000.0,6,2
+134099.0,Novel Fiksi Ilmiah,1.0,7/8/2021,Brian Thomas,12000.0,9,0
+134099.0,Buku Biografi,6.0,7/8/2021,Brian Thomas,180000.0,3,3
+134099.0,Novel Romansa,1.0,7/8/2021,Brian Thomas,12000.0,11,0
+134100.0,Alat Tulis,7.0,7/8/2021,Jeffrey Powell,441000.0,1,1
+134100.0,Buku Sejarah,8.0,7/8/2021,Jeffrey Powell,640000.0,5,2
+134100.0,Majalah Fashion,5.0,7/8/2021,Jeffrey Powell,50000.0,7,0
+134100.0,Majalah Seni,7.0,7/8/2021,Jeffrey Powell,441000.0,8,1
+134100.0,Novel Misteri,6.0,7/8/2021,Jeffrey Powell,72000.0,10,0
+134100.0,Novel Romansa,2.0,7/8/2021,Jeffrey Powell,4000.0,11,0
+134100.0,Aksesoris Buku,5.0,7/8/2021,Jeffrey Powell,150000.0,0,3
+134101.0,Alat Tulis,5.0,7/8/2021,Brandy Henry,125000.0,1,3
+134101.0,Buku Anak-Anak,5.0,8/31/2021,Brandy Henry,50000.0,2,0
+134101.0,Novel Fiksi Ilmiah,4.0,8/31/2021,Brandy Henry,240000.0,9,3
+134101.0,Novel Misteri,9.0,8/31/2021,Brandy Henry,778750.0,10,2
+134101.0,Aksesoris Buku,9.0,8/31/2021,Brandy Henry,778750.0,0,2
+134102.0,Majalah Fashion,4.0,8/31/2021,Mr. Charles Jones,160000.0,7,3
+134102.0,Majalah Seni,4.0,8/31/2021,Mr. Charles Jones,32000.0,8,0
+134102.0,Majalah Berita,2.0,9/21/2021,Mr. Charles Jones,8000.0,6,0
+134102.0,Buku Fiksi,9.0,9/21/2021,Mr. Charles Jones,405000.0,4,1
+134102.0,Novel Misteri,3.0,9/21/2021,Mr. Charles Jones,45000.0,10,0
+134102.0,Novel Romansa,8.0,9/21/2021,Mr. Charles Jones,16000.0,11,0
+134102.0,Aksesoris Buku,5.0,9/21/2021,Mr. Charles Jones,50000.0,0,0
+134103.0,Alat Tulis,4.0,10/17/2021,Shane Cole,32000.0,1,0
+134103.0,Buku Sejarah,4.0,10/17/2021,Shane Cole,96000.0,5,0
+134103.0,Buku Anak-Anak,2.0,10/17/2021,Shane Cole,60000.0,2,0
+134103.0,Majalah Fashion,5.0,10/17/2021,Shane Cole,50000.0,7,0
+134103.0,Majalah Seni,8.0,10/17/2021,Shane Cole,704000.0,8,2
+134103.0,Majalah Berita,2.0,10/17/2021,Shane Cole,48000.0,6,0
+134103.0,Novel Misteri,8.0,10/17/2021,Shane Cole,384000.0,10,1
+134104.0,Alat Tulis,8.0,10/17/2021,Amanda Rodriguez,384000.0,1,1
+134104.0,Buku Sejarah,7.0,10/17/2021,Amanda Rodriguez,98000.0,5,0
+134104.0,Buku Anak-Anak,1.0,10/17/2021,Amanda Rodriguez,2000.0,2,0
+134104.0,Majalah Seni,7.0,10/17/2021,Amanda Rodriguez,539000.0,8,1
+134104.0,Novel Fiksi Ilmiah,3.0,10/17/2021,Amanda Rodriguez,54000.0,9,0
+134104.0,Novel Misteri,1.0,12/31/2021,Amanda Rodriguez,12000.0,10,0
+134104.0,Novel Romansa,7.0,12/31/2021,Amanda Rodriguez,735000.0,11,2
+134104.0,Aksesoris Buku,7.0,12/31/2021,Amanda Rodriguez,98000.0,0,0
+134105.0,Alat Tulis,3.0,1/10/2022,Nathan Green,90000.0,1,0
+134105.0,Buku Anak-Anak,9.0,1/10/2022,Nathan Green,486000.0,2,1
+134105.0,Majalah Fashion,5.0,1/10/2022,Nathan Green,50000.0,7,0
+134105.0,Majalah Seni,3.0,1/10/2022,Nathan Green,99000.0,8,0
+134105.0,Novel Misteri,6.0,1/10/2022,Nathan Green,72000.0,10,0
+134105.0,Aksesoris Buku,6.0,1/10/2022,Nathan Green,72000.0,0,0
+134106.0,Buku Sejarah,6.0,1/10/2022,Steven Barnes,216000.0,5,3
+134106.0,Alat Tulis,8.0,1/10/2022,Steven Barnes,704000.0,1,2
+134106.0,Buku Anak-Anak,9.0,1/10/2022,Steven Barnes,202500.0,2,3
+134106.0,Majalah Fashion,5.0,1/10/2022,Steven Barnes,50000.0,7,0
+134106.0,Novel Fiksi Ilmiah,5.0,1/10/2022,Steven Barnes,62500.0,9,0
+134106.0,Novel Misteri,9.0,3/27/2022,Steven Barnes,162000.0,10,3
+134106.0,Novel Romansa,3.0,3/27/2022,Steven Barnes,18000.0,11,0
+134106.0,Aksesoris Buku,6.0,3/27/2022,Steven Barnes,72000.0,0,0
+134107.0,Alat Tulis,7.0,3/27/2022,Tammy Perez,14000.0,1,0
+134107.0,Buku Anak-Anak,9.0,3/27/2022,Tammy Perez,778750.0,2,2
+134107.0,Majalah Seni,5.0,3/27/2022,Tammy Perez,325000.0,8,1
+134107.0,Majalah Berita,3.0,3/27/2022,Tammy Perez,6000.0,6,0
+134107.0,Buku Fiksi,1.0,3/27/2022,Tammy Perez,12000.0,4,0
+134107.0,Aksesoris Buku,7.0,3/27/2022,Tammy Perez,294000.0,0,1
+134108.0,Majalah Fashion,8.0,3/27/2022,Gerald Griffin PhD,128000.0,7,3
+134108.0,Majalah Seni,6.0,3/27/2022,Gerald Griffin PhD,72000.0,8,0
+134108.0,Majalah Berita,8.0,3/27/2022,Gerald Griffin PhD,576000.0,6,2
+134108.0,Buku Fiksi,1.0,3/27/2022,Gerald Griffin PhD,11000.0,4,0
+134108.0,Aksesoris Buku,1.0,3/27/2022,Gerald Griffin PhD,9000.0,0,0
+134109.0,Buku Sejarah,8.0,3/27/2022,Ashley Odom,160000.0,5,3
+134109.0,Alat Tulis,1.0,3/27/2022,Ashley Odom,2000.0,1,0
+134109.0,Buku Anak-Anak,8.0,3/27/2022,Ashley Odom,128000.0,2,3
+134109.0,Majalah Seni,7.0,3/27/2022,Ashley Odom,122500.0,8,3
+134109.0,Majalah Berita,1.0,3/27/2022,Ashley Odom,2000.0,6,0
+134109.0,Novel Fiksi Ilmiah,6.0,3/27/2022,Ashley Odom,468000.0,9,1
+134109.0,Novel Romansa,6.0,3/27/2022,Ashley Odom,72000.0,11,0
+134110.0,Alat Tulis,6.0,3/27/2022,Kristen Davis,468000.0,1,1
+134110.0,Buku Anak-Anak,7.0,3/27/2022,Kristen Davis,490000.0,2,1
+134110.0,Majalah Berita,7.0,3/27/2022,Kristen Davis,735000.0,6,2
+134110.0,Buku Fiksi,8.0,3/27/2022,Kristen Davis,160000.0,4,3
+134110.0,Buku Biografi,8.0,3/27/2022,Kristen Davis,320000.0,3,1
+134110.0,Novel Romansa,4.0,3/27/2022,Kristen Davis,176000.0,11,3
+134110.0,Aksesoris Buku,1.0,3/27/2022,Kristen Davis,2500.0,0,0
+134111.0,Alat Tulis,7.0,3/27/2022,Tiffany Yates,539000.0,1,1
+134111.0,Buku Anak-Anak,5.0,3/27/2022,Tiffany Yates,250000.0,2,3
+134111.0,Majalah Fashion,3.0,3/27/2022,Tiffany Yates,22500.0,7,0
+134111.0,Buku Biografi,9.0,4/18/2022,Tiffany Yates,729000.0,3,2
+134111.0,Aksesoris Buku,6.0,4/18/2022,Tiffany Yates,324000.0,0,1
+134112.0,Buku Sejarah,1.0,4/18/2022,Jason Wallace,5000.0,5,0
+134112.0,Majalah Fashion,6.0,4/18/2022,Jason Wallace,396000.0,7,1
+134112.0,Majalah Seni,4.0,4/18/2022,Jason Wallace,144000.0,8,3
+134112.0,Majalah Berita,4.0,4/18/2022,Jason Wallace,80000.0,6,0
+134112.0,Buku Fiksi,7.0,4/18/2022,Jason Wallace,245000.0,4,3
+134112.0,Aksesoris Buku,3.0,4/18/2022,Jason Wallace,18000.0,0,0
+134113.0,Buku Fiksi,6.0,4/18/2022,Fred Hall,180000.0,4,3
+134113.0,Alat Tulis,5.0,4/18/2022,Fred Hall,10000.0,1,0
+134113.0,Aksesoris Buku,2.0,4/18/2022,Fred Hall,8000.0,0,0
+134113.0,Buku Sejarah,4.0,4/18/2022,Fred Hall,240000.0,5,3
+134114.0,Alat Tulis,6.0,4/18/2022,Kyle Osborn,72000.0,1,0
+134114.0,Majalah Fashion,5.0,4/18/2022,Kyle Osborn,150000.0,7,3
+134114.0,Majalah Seni,7.0,4/18/2022,Kyle Osborn,637000.0,8,2
+134114.0,Novel Misteri,5.0,4/18/2022,Kyle Osborn,275000.0,10,3
+134114.0,Novel Romansa,9.0,4/18/2022,Kyle Osborn,778750.0,11,2
+134114.0,Aksesoris Buku,3.0,4/18/2022,Kyle Osborn,54000.0,0,0
+134115.0,Alat Tulis,2.0,4/18/2022,Gerald Alvarado,20000.0,1,0
+134115.0,Buku Anak-Anak,9.0,4/18/2022,Gerald Alvarado,202500.0,2,3
+134115.0,Majalah Fashion,2.0,4/18/2022,Gerald Alvarado,44000.0,7,0
+134115.0,Majalah Berita,4.0,4/18/2022,Gerald Alvarado,160000.0,6,3
+134115.0,Novel Fiksi Ilmiah,9.0,4/18/2022,Gerald Alvarado,778750.0,9,2
+134115.0,Novel Misteri,7.0,4/18/2022,Gerald Alvarado,294000.0,10,1
+134115.0,Novel Romansa,1.0,4/18/2022,Gerald Alvarado,5000.0,11,0
+134115.0,Aksesoris Buku,2.0,4/18/2022,Gerald Alvarado,24000.0,0,0
+134116.0,Buku Anak-Anak,5.0,4/18/2022,Brooke Robinson,225000.0,2,3
+134116.0,Majalah Fashion,3.0,4/29/2022,Brooke Robinson,90000.0,7,0
+134116.0,Majalah Seni,9.0,4/29/2022,Brooke Robinson,778750.0,8,2
+134116.0,Novel Fiksi Ilmiah,5.0,4/29/2022,Brooke Robinson,50000.0,9,0
+134116.0,Novel Misteri,9.0,4/29/2022,Brooke Robinson,486000.0,10,1
+134116.0,Buku Biografi,9.0,4/29/2022,Brooke Robinson,778750.0,3,2
+134116.0,Novel Romansa,6.0,4/29/2022,Brooke Robinson,540000.0,11,1
+134116.0,Aksesoris Buku,2.0,4/29/2022,Brooke Robinson,4000.0,0,0
+134117.0,Alat Tulis,8.0,4/29/2022,Martin Conley,778750.0,1,2
+134117.0,Buku Sejarah,1.0,4/29/2022,Martin Conley,12000.0,5,0
+134117.0,Buku Anak-Anak,1.0,4/29/2022,Martin Conley,11000.0,2,0
+134117.0,Novel Misteri,3.0,4/29/2022,Martin Conley,6000.0,10,0
+134117.0,Aksesoris Buku,6.0,4/29/2022,Martin Conley,540000.0,0,1
+134118.0,Alat Tulis,7.0,4/29/2022,Grace Lawrence,735000.0,1,2
+134118.0,Buku Anak-Anak,3.0,4/29/2022,Grace Lawrence,90000.0,2,0
+134118.0,Majalah Seni,1.0,4/29/2022,Grace Lawrence,6000.0,8,0
+134118.0,Majalah Berita,9.0,4/29/2022,Grace Lawrence,405000.0,6,1
+134118.0,Buku Fiksi,8.0,5/30/2022,Grace Lawrence,16000.0,4,0
+134118.0,Novel Romansa,3.0,5/30/2022,Grace Lawrence,117000.0,11,3
+134118.0,Aksesoris Buku,1.0,5/30/2022,Grace Lawrence,2000.0,0,0
+134119.0,Novel Romansa,7.0,5/30/2022,David Jacobs,245000.0,11,3
+134119.0,Buku Sejarah,1.0,5/30/2022,David Jacobs,15000.0,5,0
+134119.0,Alat Tulis,7.0,5/30/2022,David Jacobs,588000.0,1,2
+134119.0,Buku Anak-Anak,5.0,5/30/2022,David Jacobs,275000.0,2,3
+134120.0,Buku Sejarah,5.0,5/30/2022,Barbara Gomez,225000.0,5,3
+134120.0,Alat Tulis,1.0,5/30/2022,Barbara Gomez,13000.0,1,0
+134120.0,Buku Anak-Anak,5.0,5/30/2022,Barbara Gomez,225000.0,2,3
+134120.0,Majalah Fashion,3.0,5/30/2022,Barbara Gomez,135000.0,7,3
+134120.0,Majalah Berita,4.0,5/30/2022,Barbara Gomez,240000.0,6,3
+134120.0,Novel Fiksi Ilmiah,4.0,5/30/2022,Barbara Gomez,32000.0,9,0
+134120.0,Buku Fiksi,8.0,5/30/2022,Barbara Gomez,768000.0,4,2
+134120.0,Aksesoris Buku,1.0,5/30/2022,Barbara Gomez,2500.0,0,0
+134121.0,Alat Tulis,3.0,5/30/2022,Nicole Warner,22500.0,1,0
+134121.0,Majalah Fashion,4.0,5/30/2022,Nicole Warner,160000.0,7,3
+134121.0,Majalah Berita,6.0,5/30/2022,Nicole Warner,216000.0,6,3
+134121.0,Novel Fiksi Ilmiah,3.0,5/30/2022,Nicole Warner,22500.0,9,0
+134122.0,Majalah Seni,1.0,5/30/2022,Jennifer Mcgrath,15000.0,8,0
+134122.0,Alat Tulis,5.0,5/30/2022,Jennifer Mcgrath,62500.0,1,0
+134122.0,Buku Biografi,9.0,5/30/2022,Jennifer Mcgrath,202500.0,3,3
+134122.0,Aksesoris Buku,6.0,5/30/2022,Jennifer Mcgrath,360000.0,0,1
+134123.0,Alat Tulis,5.0,5/30/2022,Daniel Singleton,150000.0,1,3
+134123.0,Majalah Fashion,8.0,5/30/2022,Daniel Singleton,16000.0,7,0
+134123.0,Majalah Berita,1.0,5/30/2022,Daniel Singleton,10000.0,6,0
+134123.0,Novel Fiksi Ilmiah,8.0,5/30/2022,Daniel Singleton,768000.0,9,2
+134123.0,Buku Fiksi,8.0,5/30/2022,Daniel Singleton,640000.0,4,2
+134123.0,Buku Biografi,9.0,5/30/2022,Daniel Singleton,162000.0,3,3
+134123.0,Novel Misteri,9.0,5/30/2022,Daniel Singleton,729000.0,10,2
+134123.0,Novel Romansa,6.0,5/30/2022,Daniel Singleton,396000.0,11,1
+134124.0,Novel Romansa,2.0,5/30/2022,Todd Becker,10000.0,11,0
+134124.0,Majalah Seni,2.0,5/30/2022,Todd Becker,44000.0,8,0
+134124.0,Alat Tulis,4.0,5/30/2022,Todd Becker,96000.0,1,0
+134124.0,Majalah Fashion,4.0,5/30/2022,Todd Becker,40000.0,7,0
+134125.0,Buku Sejarah,6.0,5/30/2022,Richard Ford,540000.0,5,1
+134125.0,Majalah Berita,5.0,5/30/2022,Richard Ford,10000.0,6,0
+134125.0,Buku Fiksi,8.0,5/30/2022,Richard Ford,128000.0,4,3
+134125.0,Buku Biografi,5.0,5/30/2022,Richard Ford,275000.0,3,3
+134125.0,Novel Misteri,1.0,5/30/2022,Richard Ford,13000.0,10,0
+134126.0,Buku Sejarah,4.0,5/30/2022,John Greene,32000.0,5,0
+134126.0,Alat Tulis,9.0,5/30/2022,John Greene,729000.0,1,2
+134126.0,Majalah Seni,4.0,5/30/2022,John Greene,40000.0,8,0
+134126.0,Buku Fiksi,9.0,5/30/2022,John Greene,729000.0,4,2
+134126.0,Buku Biografi,1.0,5/30/2022,John Greene,11000.0,3,0
+134126.0,Aksesoris Buku,9.0,5/30/2022,John Greene,778750.0,0,2
+134127.0,Alat Tulis,1.0,5/30/2022,Jeffrey Campos,2000.0,1,0
+134127.0,Buku Sejarah,7.0,5/30/2022,Jeffrey Campos,490000.0,5,1
+134127.0,Majalah Seni,4.0,5/30/2022,Jeffrey Campos,96000.0,8,0
+134127.0,Majalah Berita,1.0,5/30/2022,Jeffrey Campos,12000.0,6,0
+134127.0,Buku Fiksi,8.0,5/30/2022,Jeffrey Campos,320000.0,4,1
+134127.0,Novel Misteri,4.0,5/30/2022,Jeffrey Campos,80000.0,10,0
+134127.0,Novel Romansa,9.0,5/30/2022,Jeffrey Campos,729000.0,11,2
+134127.0,Aksesoris Buku,5.0,5/30/2022,Jeffrey Campos,125000.0,0,3
+134128.0,Buku Sejarah,3.0,5/30/2022,Michael Love,54000.0,5,0
+134128.0,Alat Tulis,6.0,5/30/2022,Michael Love,72000.0,1,0
+134128.0,Majalah Berita,1.0,5/30/2022,Michael Love,13000.0,6,0
+134128.0,Novel Fiksi Ilmiah,3.0,5/30/2022,Michael Love,45000.0,9,0
+134128.0,Buku Fiksi,5.0,5/30/2022,Michael Love,62500.0,4,0
+134128.0,Novel Romansa,8.0,5/30/2022,Michael Love,768000.0,11,2
+134129.0,Alat Tulis,6.0,5/30/2022,Andrea Bailey,468000.0,1,1
+134129.0,Majalah Fashion,4.0,5/30/2022,Andrea Bailey,40000.0,7,0
+134129.0,Majalah Seni,6.0,5/30/2022,Andrea Bailey,396000.0,8,1
+134129.0,Majalah Berita,8.0,5/30/2022,Andrea Bailey,384000.0,6,1
+134129.0,Novel Fiksi Ilmiah,8.0,5/30/2022,Andrea Bailey,160000.0,9,3
+134129.0,Buku Biografi,8.0,5/30/2022,Andrea Bailey,384000.0,3,1
+134129.0,Novel Misteri,9.0,5/30/2022,Andrea Bailey,778750.0,10,2
+134129.0,Aksesoris Buku,2.0,5/30/2022,Andrea Bailey,44000.0,0,0
+134130.0,Majalah Seni,4.0,5/30/2022,Mary Stephens,40000.0,8,0
+134130.0,Novel Misteri,1.0,5/30/2022,Mary Stephens,6000.0,10,0
+134130.0,Buku Biografi,2.0,5/30/2022,Mary Stephens,4000.0,3,0
+134130.0,Majalah Fashion,2.0,5/30/2022,Mary Stephens,24000.0,7,0
+134131.0,Alat Tulis,1.0,5/30/2022,Wendy May,12000.0,1,0
+134131.0,Buku Anak-Anak,9.0,5/30/2022,Wendy May,778750.0,2,2
+134131.0,Majalah Fashion,3.0,5/30/2022,Wendy May,90000.0,7,0
+134131.0,Majalah Berita,1.0,5/30/2022,Wendy May,13000.0,6,0
+134131.0,Novel Fiksi Ilmiah,5.0,5/30/2022,Wendy May,275000.0,9,3
+134131.0,Novel Misteri,7.0,5/30/2022,Wendy May,490000.0,10,1
+134131.0,Buku Biografi,9.0,5/30/2022,Wendy May,202500.0,3,3
+134132.0,Buku Sejarah,1.0,5/30/2022,Michael Murphy,2000.0,5,0
+134132.0,Majalah Fashion,5.0,5/30/2022,Michael Murphy,325000.0,7,1
+134132.0,Majalah Seni,6.0,5/30/2022,Michael Murphy,72000.0,8,0
+134132.0,Buku Biografi,5.0,5/30/2022,Michael Murphy,50000.0,3,0
+134132.0,Aksesoris Buku,1.0,5/30/2022,Michael Murphy,11000.0,0,0
+134133.0,Alat Tulis,5.0,5/30/2022,Keith Hodges,375000.0,1,1
+134133.0,Buku Anak-Anak,2.0,5/30/2022,Keith Hodges,10000.0,2,0
+134133.0,Majalah Fashion,3.0,5/30/2022,Keith Hodges,108000.0,7,3
+134133.0,Majalah Seni,1.0,5/30/2022,Keith Hodges,6000.0,8,0
+134133.0,Novel Fiksi Ilmiah,2.0,5/30/2022,Keith Hodges,52000.0,9,0
+134133.0,Novel Misteri,2.0,5/30/2022,Keith Hodges,20000.0,10,0
+134133.0,Aksesoris Buku,4.0,5/30/2022,Keith Hodges,40000.0,0,0
+134134.0,Alat Tulis,7.0,5/30/2022,Alice Webster,294000.0,1,1
+134134.0,Buku Sejarah,2.0,5/30/2022,Alice Webster,8000.0,5,0
+134134.0,Majalah Seni,9.0,5/30/2022,Alice Webster,778750.0,8,2
+134134.0,Novel Fiksi Ilmiah,3.0,5/30/2022,Alice Webster,135000.0,9,3
+134134.0,Buku Biografi,8.0,5/30/2022,Alice Webster,128000.0,3,3
+134134.0,Novel Romansa,4.0,5/30/2022,Alice Webster,96000.0,11,0
+134134.0,Aksesoris Buku,9.0,5/30/2022,Alice Webster,162000.0,0,3
+134135.0,Alat Tulis,1.0,5/30/2022,Kenneth Brewer,2500.0,1,0
+134135.0,Majalah Fashion,9.0,5/30/2022,Kenneth Brewer,778750.0,7,2
+134135.0,Majalah Seni,9.0,5/30/2022,Kenneth Brewer,405000.0,8,1
+134135.0,Majalah Berita,4.0,5/30/2022,Kenneth Brewer,96000.0,6,0
+134135.0,Novel Misteri,5.0,5/30/2022,Kenneth Brewer,225000.0,10,3
+134135.0,Novel Romansa,6.0,5/30/2022,Kenneth Brewer,396000.0,11,1
+134136.0,Alat Tulis,3.0,5/30/2022,Miguel Roberts,54000.0,1,0
+134136.0,Buku Anak-Anak,2.0,5/30/2022,Miguel Roberts,24000.0,2,0
+134136.0,Majalah Fashion,6.0,5/30/2022,Miguel Roberts,396000.0,7,1
+134136.0,Majalah Berita,5.0,5/30/2022,Miguel Roberts,10000.0,6,0
+134136.0,Novel Fiksi Ilmiah,4.0,5/30/2022,Miguel Roberts,144000.0,9,3
+134136.0,Aksesoris Buku,8.0,5/30/2022,Miguel Roberts,778750.0,0,2
+134137.0,Buku Sejarah,4.0,5/30/2022,David Booth,96000.0,5,0
+134137.0,Alat Tulis,7.0,5/30/2022,David Booth,98000.0,1,0
+134137.0,Buku Anak-Anak,8.0,5/30/2022,David Booth,384000.0,2,1
+134137.0,Majalah Fashion,6.0,5/30/2022,David Booth,180000.0,7,3
+134137.0,Majalah Seni,7.0,5/30/2022,David Booth,14000.0,8,0
+134137.0,Novel Fiksi Ilmiah,1.0,5/30/2022,David Booth,12000.0,9,0
+134137.0,Buku Fiksi,2.0,5/30/2022,David Booth,10000.0,4,0
+134137.0,Buku Biografi,6.0,5/30/2022,David Booth,90000.0,3,0
+134137.0,Aksesoris Buku,2.0,5/30/2022,David Booth,8000.0,0,0
+134138.0,Alat Tulis,4.0,5/30/2022,Jeremy Myers,176000.0,1,3
+134138.0,Buku Anak-Anak,2.0,5/30/2022,Jeremy Myers,44000.0,2,0
+134138.0,Majalah Seni,3.0,5/30/2022,Jeremy Myers,18000.0,8,0
+134138.0,Majalah Berita,1.0,5/30/2022,Jeremy Myers,2000.0,6,0
+134138.0,Novel Fiksi Ilmiah,7.0,5/30/2022,Jeremy Myers,122500.0,9,3
+134138.0,Novel Misteri,5.0,5/30/2022,Jeremy Myers,300000.0,10,1
+134138.0,Buku Biografi,5.0,5/30/2022,Jeremy Myers,125000.0,3,3
+134138.0,Aksesoris Buku,8.0,5/30/2022,Jeremy Myers,160000.0,0,3
+134139.0,Majalah Berita,2.0,5/30/2022,Ryan Thomas,8000.0,6,0
+134139.0,Majalah Seni,1.0,5/30/2022,Ryan Thomas,2000.0,8,0
+134139.0,Alat Tulis,1.0,5/30/2022,Ryan Thomas,13000.0,1,0
+134139.0,Novel Misteri,2.0,5/30/2022,Ryan Thomas,20000.0,10,0
+134140.0,Alat Tulis,2.0,5/30/2022,Jeremy Walker,48000.0,1,0
+134140.0,Buku Anak-Anak,3.0,5/30/2022,Jeremy Walker,22500.0,2,0
+134140.0,Majalah Fashion,1.0,5/30/2022,Jeremy Walker,12000.0,7,0
+134140.0,Buku Fiksi,9.0,5/30/2022,Jeremy Walker,202500.0,4,3
+134140.0,Novel Romansa,7.0,5/30/2022,Jeremy Walker,294000.0,11,1
+134141.0,Buku Sejarah,7.0,5/30/2022,Larry Carlson,122500.0,5,3
+134141.0,Buku Anak-Anak,8.0,5/30/2022,Larry Carlson,704000.0,2,2
+134141.0,Majalah Fashion,2.0,5/30/2022,Larry Carlson,20000.0,7,0
+134141.0,Majalah Seni,5.0,5/30/2022,Larry Carlson,50000.0,8,0
+134141.0,Novel Romansa,3.0,5/30/2022,Larry Carlson,117000.0,11,3
+134142.0,Majalah Fashion,6.0,5/30/2022,Christina Hall,12000.0,7,0
+134142.0,Majalah Seni,1.0,5/30/2022,Christina Hall,13000.0,8,0
+134142.0,Majalah Berita,6.0,5/30/2022,Christina Hall,360000.0,6,1
+134142.0,Novel Fiksi Ilmiah,2.0,5/30/2022,Christina Hall,48000.0,9,0
+134142.0,Buku Fiksi,2.0,5/30/2022,Christina Hall,20000.0,4,0
+134142.0,Buku Biografi,8.0,5/30/2022,Christina Hall,320000.0,3,1
+134142.0,Novel Romansa,6.0,5/30/2022,Christina Hall,216000.0,11,3
+134143.0,Alat Tulis,5.0,5/30/2022,James Byrd,50000.0,1,0
+134143.0,Majalah Fashion,8.0,5/30/2022,James Byrd,704000.0,7,2
+134143.0,Majalah Seni,3.0,5/30/2022,James Byrd,135000.0,8,3
+134143.0,Majalah Berita,2.0,5/30/2022,James Byrd,40000.0,6,0
+134143.0,Buku Biografi,3.0,5/30/2022,James Byrd,18000.0,3,0
+134144.0,Buku Sejarah,8.0,5/30/2022,Kimberly Patel,160000.0,5,3
+134144.0,Buku Fiksi,3.0,5/30/2022,Kimberly Patel,22500.0,4,0
+134144.0,Novel Misteri,9.0,5/30/2022,Kimberly Patel,729000.0,10,2
+134144.0,Novel Romansa,6.0,5/30/2022,Kimberly Patel,540000.0,11,1
+134144.0,Aksesoris Buku,5.0,5/30/2022,Kimberly Patel,275000.0,0,3
+134145.0,Alat Tulis,8.0,5/30/2022,Brian Velez,704000.0,1,2
+134145.0,Buku Anak-Anak,9.0,5/30/2022,Brian Velez,778750.0,2,2
+134145.0,Majalah Seni,2.0,5/30/2022,Brian Velez,10000.0,8,0
+134145.0,Novel Fiksi Ilmiah,5.0,5/30/2022,Brian Velez,150000.0,9,3
+134145.0,Buku Biografi,5.0,5/30/2022,Brian Velez,275000.0,3,3
+134145.0,Novel Misteri,1.0,5/30/2022,Brian Velez,5000.0,10,0
+134146.0,Alat Tulis,6.0,5/30/2022,Samantha Williams,324000.0,1,1
+134146.0,Majalah Fashion,9.0,5/30/2022,Samantha Williams,729000.0,7,2
+134146.0,Novel Misteri,1.0,5/30/2022,Samantha Williams,11000.0,10,0
+134146.0,Buku Biografi,1.0,5/30/2022,Samantha Williams,13000.0,3,0
+134146.0,Novel Romansa,3.0,5/30/2022,Samantha Williams,54000.0,11,0
+134146.0,Aksesoris Buku,5.0,5/30/2022,Samantha Williams,62500.0,0,0
+134147.0,Alat Tulis,5.0,5/30/2022,Eric Waters,250000.0,1,3
+134147.0,Buku Anak-Anak,9.0,5/30/2022,Eric Waters,778750.0,2,2
+134147.0,Majalah Fashion,4.0,5/30/2022,Eric Waters,32000.0,7,0
+134147.0,Majalah Seni,9.0,5/30/2022,Eric Waters,729000.0,8,2
+134147.0,Novel Fiksi Ilmiah,4.0,5/30/2022,Eric Waters,32000.0,9,0
+134147.0,Buku Fiksi,9.0,5/30/2022,Eric Waters,778750.0,4,2
+134147.0,Novel Misteri,6.0,5/30/2022,Eric Waters,360000.0,10,1
+134147.0,Novel Romansa,5.0,5/30/2022,Eric Waters,62500.0,11,0
+134148.0,Majalah Seni,9.0,5/30/2022,Sara Ward,486000.0,8,1
+134148.0,Alat Tulis,4.0,5/30/2022,Sara Ward,32000.0,1,0
+134148.0,Aksesoris Buku,7.0,5/30/2022,Sara Ward,539000.0,0,1
+134148.0,Majalah Fashion,5.0,5/30/2022,Sara Ward,375000.0,7,1
+134149.0,Alat Tulis,4.0,5/30/2022,Mark Rodriguez,208000.0,1,3
+134149.0,Majalah Fashion,7.0,5/30/2022,Mark Rodriguez,441000.0,7,1
+134149.0,Novel Fiksi Ilmiah,9.0,5/30/2022,Mark Rodriguez,778750.0,9,2
+134149.0,Buku Fiksi,7.0,5/30/2022,Mark Rodriguez,588000.0,4,2
+134149.0,Buku Biografi,5.0,5/30/2022,Mark Rodriguez,375000.0,3,1
+134149.0,Novel Romansa,2.0,5/30/2022,Mark Rodriguez,8000.0,11,0
+134149.0,Aksesoris Buku,1.0,5/30/2022,Mark Rodriguez,2000.0,0,0
+134150.0,Alat Tulis,3.0,5/30/2022,William Bond,81000.0,1,0
+134150.0,Buku Anak-Anak,3.0,5/30/2022,William Bond,45000.0,2,0
+134150.0,Majalah Seni,5.0,5/30/2022,William Bond,125000.0,8,3
+134150.0,Buku Biografi,5.0,5/30/2022,William Bond,275000.0,3,3
+134150.0,Aksesoris Buku,9.0,5/30/2022,William Bond,162000.0,0,3
+134151.0,Alat Tulis,6.0,5/30/2022,Christine Smith,396000.0,1,1
+134151.0,Buku Sejarah,6.0,5/30/2022,Christine Smith,216000.0,5,3
+134151.0,Majalah Seni,2.0,5/30/2022,Christine Smith,52000.0,8,0
+134151.0,Majalah Berita,9.0,5/30/2022,Christine Smith,486000.0,6,1
+134151.0,Buku Fiksi,9.0,5/30/2022,Christine Smith,162000.0,4,3
+134151.0,Novel Misteri,3.0,5/30/2022,Christine Smith,18000.0,10,0
+134151.0,Buku Biografi,6.0,5/30/2022,Christine Smith,396000.0,3,1
+134151.0,Novel Romansa,5.0,5/30/2022,Christine Smith,150000.0,11,3
+134152.0,Buku Sejarah,4.0,5/30/2022,Joseph Morales,8000.0,5,0
+134152.0,Majalah Fashion,5.0,5/30/2022,Joseph Morales,275000.0,7,3
+134152.0,Majalah Seni,6.0,5/30/2022,Joseph Morales,216000.0,8,3
+134152.0,Majalah Berita,3.0,5/30/2022,Joseph Morales,6000.0,6,0
+134152.0,Buku Fiksi,9.0,5/30/2022,Joseph Morales,486000.0,4,1
+134152.0,Buku Biografi,1.0,5/30/2022,Joseph Morales,13000.0,3,0
+134152.0,Aksesoris Buku,8.0,5/30/2022,Joseph Morales,16000.0,0,0
+134153.0,Buku Sejarah,8.0,5/30/2022,Shelly Murphy,768000.0,5,2
+134153.0,Alat Tulis,2.0,5/30/2022,Shelly Murphy,60000.0,1,0
+134153.0,Buku Anak-Anak,9.0,5/30/2022,Shelly Murphy,405000.0,2,1
+134153.0,Majalah Fashion,2.0,5/30/2022,Shelly Murphy,44000.0,7,0
+134153.0,Majalah Seni,4.0,5/30/2022,Shelly Murphy,240000.0,8,3
+134153.0,Buku Biografi,6.0,5/30/2022,Shelly Murphy,360000.0,3,1
+134154.0,Buku Sejarah,6.0,5/30/2022,Alexander Ramos,90000.0,5,0
+134154.0,Alat Tulis,7.0,5/30/2022,Alexander Ramos,735000.0,1,2
+134154.0,Majalah Seni,3.0,5/30/2022,Alexander Ramos,22500.0,8,0
+134154.0,Buku Fiksi,1.0,5/30/2022,Alexander Ramos,2000.0,4,0
+134154.0,Novel Misteri,4.0,5/30/2022,Alexander Ramos,32000.0,10,0
+134154.0,Novel Romansa,3.0,5/30/2022,Alexander Ramos,117000.0,11,3
+134155.0,Novel Romansa,1.0,5/30/2022,Travis Fox,2000.0,11,0
+134155.0,Majalah Seni,2.0,5/30/2022,Travis Fox,10000.0,8,0
+134155.0,Aksesoris Buku,4.0,5/30/2022,Travis Fox,144000.0,0,3
+134155.0,Majalah Fashion,3.0,5/30/2022,Travis Fox,108000.0,7,3
+134156.0,Alat Tulis,8.0,5/30/2022,Christy Roman,16000.0,1,0
+134156.0,Buku Sejarah,8.0,5/30/2022,Christy Roman,128000.0,5,3
+134156.0,Buku Anak-Anak,4.0,5/30/2022,Christy Roman,96000.0,2,0
+134156.0,Majalah Berita,7.0,5/30/2022,Christy Roman,294000.0,6,1
+134156.0,Aksesoris Buku,5.0,5/30/2022,Christy Roman,50000.0,0,0
+134157.0,Alat Tulis,8.0,5/30/2022,Sherry Ross,640000.0,1,2
+134157.0,Buku Sejarah,5.0,5/30/2022,Sherry Ross,225000.0,5,3
+134157.0,Buku Anak-Anak,7.0,5/30/2022,Sherry Ross,294000.0,2,1
+134157.0,Majalah Fashion,4.0,5/30/2022,Sherry Ross,96000.0,7,0
+134157.0,Majalah Seni,4.0,5/30/2022,Sherry Ross,176000.0,8,3
+134157.0,Buku Fiksi,3.0,5/30/2022,Sherry Ross,18000.0,4,0
+134157.0,Novel Romansa,9.0,5/30/2022,Sherry Ross,18000.0,11,0
+134157.0,Aksesoris Buku,7.0,5/30/2022,Sherry Ross,539000.0,0,1
+134158.0,Buku Sejarah,5.0,5/30/2022,Cynthia Foster,250000.0,5,3
+134158.0,Majalah Fashion,7.0,5/30/2022,Cynthia Foster,122500.0,7,3
+134158.0,Majalah Seni,5.0,5/30/2022,Cynthia Foster,10000.0,8,0
+134158.0,Buku Fiksi,9.0,5/30/2022,Cynthia Foster,778750.0,4,2
+134158.0,Buku Biografi,2.0,5/30/2022,Cynthia Foster,52000.0,3,0
+134158.0,Novel Romansa,9.0,5/30/2022,Cynthia Foster,18000.0,11,0
+134159.0,Buku Anak-Anak,9.0,5/30/2022,Deborah West,202500.0,2,3
+134159.0,Majalah Seni,1.0,5/30/2022,Deborah West,12000.0,8,0
+134159.0,Majalah Berita,2.0,5/30/2022,Deborah West,52000.0,6,0
+134159.0,Novel Fiksi Ilmiah,8.0,5/30/2022,Deborah West,128000.0,9,3
+134159.0,Buku Biografi,1.0,5/30/2022,Deborah West,15000.0,3,0
+134160.0,Majalah Seni,8.0,5/30/2022,Krista Simmons,778750.0,8,2
+134160.0,Majalah Berita,3.0,5/30/2022,Krista Simmons,90000.0,6,0
+134160.0,Buku Anak-Anak,5.0,5/30/2022,Krista Simmons,275000.0,2,3
+134160.0,Aksesoris Buku,7.0,5/30/2022,Krista Simmons,294000.0,0,1
+134161.0,Alat Tulis,3.0,5/30/2022,Barbara Livingston,90000.0,1,0
+134161.0,Buku Anak-Anak,5.0,5/30/2022,Barbara Livingston,10000.0,2,0
+134161.0,Majalah Fashion,8.0,5/30/2022,Barbara Livingston,128000.0,7,3
+134161.0,Majalah Seni,8.0,5/30/2022,Barbara Livingston,768000.0,8,2
+134161.0,Buku Fiksi,9.0,5/30/2022,Barbara Livingston,18000.0,4,0
+134161.0,Novel Misteri,1.0,5/30/2022,Barbara Livingston,2500.0,10,0
+134161.0,Aksesoris Buku,6.0,5/30/2022,Barbara Livingston,360000.0,0,1
+134162.0,Buku Sejarah,7.0,5/30/2022,William Lewis,539000.0,5,1
+134162.0,Alat Tulis,3.0,5/30/2022,William Lewis,108000.0,1,3
+134162.0,Majalah Seni,4.0,5/30/2022,William Lewis,40000.0,8,0
+134162.0,Majalah Berita,4.0,5/30/2022,William Lewis,160000.0,6,3
+134162.0,Novel Fiksi Ilmiah,9.0,5/30/2022,William Lewis,778750.0,9,2
+134162.0,Novel Misteri,2.0,5/30/2022,William Lewis,60000.0,10,0
+134162.0,Buku Biografi,5.0,5/30/2022,William Lewis,375000.0,3,1
+134162.0,Novel Romansa,1.0,5/30/2022,William Lewis,5000.0,11,0
+134163.0,Alat Tulis,1.0,5/30/2022,Leslie Martinez,12000.0,1,0
+134163.0,Buku Sejarah,1.0,5/30/2022,Leslie Martinez,5000.0,5,0
+134163.0,Majalah Fashion,7.0,5/30/2022,Leslie Martinez,98000.0,7,0
+134163.0,Majalah Seni,8.0,5/30/2022,Leslie Martinez,128000.0,8,3
+134163.0,Buku Biografi,1.0,5/30/2022,Leslie Martinez,6000.0,3,0
+134163.0,Novel Romansa,1.0,5/30/2022,Leslie Martinez,2500.0,11,0
+134164.0,Alat Tulis,2.0,5/30/2022,Joshua Jackson,8000.0,1,0
+134164.0,Buku Anak-Anak,6.0,5/30/2022,Joshua Jackson,72000.0,2,0
+134164.0,Majalah Fashion,5.0,5/30/2022,Joshua Jackson,150000.0,7,3
+134164.0,Majalah Berita,3.0,5/30/2022,Joshua Jackson,117000.0,6,3
+134164.0,Novel Fiksi Ilmiah,4.0,5/30/2022,Joshua Jackson,8000.0,9,0
+134164.0,Buku Fiksi,9.0,5/30/2022,Joshua Jackson,162000.0,4,3
+134164.0,Novel Misteri,2.0,5/30/2022,Joshua Jackson,48000.0,10,0
+134164.0,Novel Romansa,3.0,5/30/2022,Joshua Jackson,18000.0,11,0
+134165.0,Buku Sejarah,5.0,5/30/2022,Jodi Mills,125000.0,5,3
+134165.0,Majalah Fashion,2.0,5/30/2022,Jodi Mills,8000.0,7,0
+134165.0,Novel Fiksi Ilmiah,5.0,5/30/2022,Jodi Mills,300000.0,9,1
+134165.0,Novel Romansa,2.0,5/30/2022,Jodi Mills,8000.0,11,0
+134165.0,Aksesoris Buku,9.0,5/30/2022,Jodi Mills,778750.0,0,2
+134166.0,Majalah Berita,3.0,5/30/2022,Kathleen Obrien,108000.0,6,3
+134166.0,Novel Fiksi Ilmiah,6.0,5/30/2022,Kathleen Obrien,468000.0,9,1
+134166.0,Buku Fiksi,3.0,5/30/2022,Kathleen Obrien,108000.0,4,3
+134166.0,Novel Romansa,7.0,5/30/2022,Kathleen Obrien,441000.0,11,1
+134166.0,Aksesoris Buku,4.0,5/30/2022,Kathleen Obrien,144000.0,0,3
+134167.0,Buku Fiksi,3.0,5/30/2022,David Wilson,6000.0,4,0
+134167.0,Alat Tulis,3.0,5/30/2022,David Wilson,22500.0,1,0
+134167.0,Novel Misteri,3.0,5/30/2022,David Wilson,6000.0,10,0
+134167.0,Buku Biografi,4.0,5/30/2022,David Wilson,208000.0,3,3
+134168.0,Alat Tulis,8.0,5/30/2022,Margaret Mccormick,160000.0,1,3
+134168.0,Buku Sejarah,1.0,5/30/2022,Margaret Mccormick,2000.0,5,0
+134168.0,Buku Anak-Anak,8.0,5/30/2022,Margaret Mccormick,768000.0,2,2
+134168.0,Novel Fiksi Ilmiah,3.0,5/30/2022,Margaret Mccormick,18000.0,9,0
+134168.0,Buku Fiksi,9.0,5/30/2022,Margaret Mccormick,778750.0,4,2
+134168.0,Aksesoris Buku,5.0,5/30/2022,Margaret Mccormick,150000.0,0,3
+134169.0,Buku Fiksi,4.0,5/30/2022,Katie Martinez,80000.0,4,0
+134169.0,Majalah Berita,1.0,5/30/2022,Katie Martinez,2500.0,6,0
+134169.0,Buku Anak-Anak,9.0,5/30/2022,Katie Martinez,405000.0,2,1
+134169.0,Majalah Fashion,7.0,5/30/2022,Katie Martinez,588000.0,7,2
+134170.0,Alat Tulis,9.0,5/30/2022,Lee Williams,18000.0,1,0
+134170.0,Buku Anak-Anak,4.0,5/30/2022,Lee Williams,192000.0,2,3
+134170.0,Majalah Fashion,9.0,5/30/2022,Lee Williams,162000.0,7,3
+134170.0,Majalah Seni,2.0,5/30/2022,Lee Williams,52000.0,8,0
+134170.0,Majalah Berita,8.0,5/30/2022,Lee Williams,16000.0,6,0
+134170.0,Novel Fiksi Ilmiah,3.0,5/30/2022,Lee Williams,117000.0,9,3
+134170.0,Novel Misteri,8.0,5/30/2022,Lee Williams,640000.0,10,2
+134170.0,Novel Romansa,7.0,5/30/2022,Lee Williams,637000.0,11,2
+134171.0,Alat Tulis,5.0,5/30/2022,William Williams,10000.0,1,0
+134171.0,Buku Anak-Anak,9.0,5/30/2022,William Williams,729000.0,2,2
+134171.0,Majalah Fashion,3.0,5/30/2022,William Williams,108000.0,7,3
+134171.0,Majalah Berita,2.0,5/30/2022,William Williams,24000.0,6,0
+134171.0,Novel Fiksi Ilmiah,6.0,5/30/2022,William Williams,12000.0,9,0
+134171.0,Novel Misteri,4.0,5/30/2022,William Williams,160000.0,10,3
+134171.0,Novel Romansa,3.0,5/30/2022,William Williams,45000.0,11,0
+134172.0,Alat Tulis,7.0,5/30/2022,William Johnson,14000.0,1,0
+134172.0,Buku Sejarah,2.0,5/30/2022,William Johnson,44000.0,5,0
+134172.0,Majalah Seni,6.0,5/30/2022,William Johnson,216000.0,8,3
+134172.0,Buku Biografi,2.0,5/30/2022,William Johnson,24000.0,3,0
+134172.0,Aksesoris Buku,3.0,5/30/2022,William Johnson,135000.0,0,3
+134173.0,Buku Sejarah,8.0,5/30/2022,Gregory Cook,640000.0,5,2
+134173.0,Majalah Fashion,3.0,5/30/2022,Gregory Cook,135000.0,7,3
+134173.0,Novel Fiksi Ilmiah,3.0,5/30/2022,Gregory Cook,90000.0,9,0
+134173.0,Novel Misteri,9.0,5/30/2022,Gregory Cook,162000.0,10,3
+134173.0,Novel Romansa,7.0,5/30/2022,Gregory Cook,588000.0,11,2
+134174.0,Alat Tulis,9.0,5/30/2022,Sandra Grant,202500.0,1,3
+134174.0,Buku Anak-Anak,8.0,5/30/2022,Sandra Grant,320000.0,2,1
+134174.0,Majalah Seni,3.0,5/30/2022,Sandra Grant,99000.0,8,0
+134174.0,Buku Fiksi,7.0,5/30/2022,Sandra Grant,122500.0,4,3
+134174.0,Buku Biografi,4.0,5/30/2022,Sandra Grant,8000.0,3,0
+134174.0,Novel Misteri,4.0,5/30/2022,Sandra Grant,32000.0,10,0
+134174.0,Novel Romansa,5.0,5/30/2022,Sandra Grant,275000.0,11,3
+134174.0,Aksesoris Buku,8.0,5/30/2022,Sandra Grant,704000.0,0,2
+134175.0,Alat Tulis,4.0,5/30/2022,Sean Waters,208000.0,1,3
+134175.0,Buku Anak-Anak,6.0,5/30/2022,Sean Waters,12000.0,2,0
+134175.0,Buku Fiksi,1.0,5/30/2022,Sean Waters,10000.0,4,0
+134175.0,Novel Romansa,4.0,5/30/2022,Sean Waters,192000.0,11,3
+134175.0,Aksesoris Buku,6.0,5/30/2022,Sean Waters,72000.0,0,0
+134176.0,Alat Tulis,4.0,5/30/2022,Jill Jones,8000.0,1,0
+134176.0,Buku Anak-Anak,2.0,5/30/2022,Jill Jones,48000.0,2,0
+134176.0,Buku Biografi,1.0,5/30/2022,Jill Jones,10000.0,3,0
+134176.0,Novel Romansa,3.0,5/30/2022,Jill Jones,18000.0,11,0
+134176.0,Aksesoris Buku,8.0,5/30/2022,Jill Jones,640000.0,0,2
+134177.0,Buku Sejarah,5.0,5/30/2022,Ann Guzman,275000.0,5,3
+134177.0,Majalah Fashion,5.0,5/30/2022,Ann Guzman,275000.0,7,3
+134177.0,Majalah Seni,8.0,5/30/2022,Ann Guzman,704000.0,8,2
+134177.0,Novel Misteri,1.0,5/30/2022,Ann Guzman,11000.0,10,0
+134177.0,Buku Biografi,9.0,5/30/2022,Ann Guzman,778750.0,3,2
+134177.0,Novel Romansa,1.0,5/30/2022,Ann Guzman,2000.0,11,0
+134177.0,Aksesoris Buku,6.0,5/30/2022,Ann Guzman,72000.0,0,0
+134178.0,Alat Tulis,1.0,5/30/2022,Katie Webb,15000.0,1,0
+134178.0,Buku Sejarah,6.0,5/30/2022,Katie Webb,180000.0,5,3
+134178.0,Buku Anak-Anak,1.0,5/30/2022,Katie Webb,13000.0,2,0
+134178.0,Majalah Fashion,5.0,5/30/2022,Katie Webb,62500.0,7,0
+134178.0,Buku Fiksi,9.0,5/30/2022,Katie Webb,18000.0,4,0
+134178.0,Novel Misteri,7.0,5/30/2022,Katie Webb,14000.0,10,0
+134178.0,Aksesoris Buku,2.0,5/30/2022,Katie Webb,8000.0,0,0
+134179.0,Alat Tulis,1.0,5/30/2022,Jessica Casey,2500.0,1,0
+134179.0,Buku Anak-Anak,7.0,5/30/2022,Jessica Casey,98000.0,2,0
+134179.0,Majalah Seni,4.0,5/30/2022,Jessica Casey,192000.0,8,3
+134179.0,Majalah Berita,5.0,5/30/2022,Jessica Casey,50000.0,6,0
+134179.0,Buku Fiksi,8.0,5/30/2022,Jessica Casey,768000.0,4,2
+134179.0,Novel Romansa,6.0,5/30/2022,Jessica Casey,432000.0,11,1
+134179.0,Aksesoris Buku,5.0,5/30/2022,Jessica Casey,375000.0,0,1
+134180.0,Novel Fiksi Ilmiah,9.0,5/30/2022,Robin Robbins,778750.0,9,2
+134180.0,Buku Anak-Anak,9.0,5/30/2022,Robin Robbins,202500.0,2,3
+134180.0,Aksesoris Buku,5.0,5/30/2022,Robin Robbins,300000.0,0,1
+134180.0,Majalah Fashion,1.0,5/30/2022,Robin Robbins,9000.0,7,0
+134181.0,Alat Tulis,6.0,5/30/2022,Jennifer Jones,90000.0,1,0
+134181.0,Novel Fiksi Ilmiah,2.0,5/30/2022,Jennifer Jones,10000.0,9,0
+134181.0,Novel Misteri,5.0,5/30/2022,Jennifer Jones,62500.0,10,0
+134181.0,Buku Biografi,9.0,5/30/2022,Jennifer Jones,778750.0,3,2
+134181.0,Aksesoris Buku,4.0,5/30/2022,Jennifer Jones,144000.0,0,3
+134182.0,Buku Sejarah,5.0,5/30/2022,Jessica Miller,225000.0,5,3
+134182.0,Alat Tulis,8.0,5/30/2022,Jessica Miller,778750.0,1,2
+134182.0,Buku Anak-Anak,3.0,5/30/2022,Jessica Miller,6000.0,2,0
+134182.0,Majalah Berita,6.0,5/30/2022,Jessica Miller,12000.0,6,0
+134182.0,Buku Biografi,2.0,5/30/2022,Jessica Miller,20000.0,3,0
+134182.0,Novel Romansa,4.0,5/30/2022,Jessica Miller,32000.0,11,0
+134182.0,Aksesoris Buku,5.0,5/30/2022,Jessica Miller,225000.0,0,3
+134183.0,Buku Sejarah,8.0,5/30/2022,Charles Parker DDS,704000.0,5,2
+134183.0,Majalah Seni,2.0,5/30/2022,Charles Parker DDS,40000.0,8,0
+134183.0,Majalah Berita,8.0,5/30/2022,Charles Parker DDS,384000.0,6,1
+134183.0,Novel Misteri,8.0,5/30/2022,Charles Parker DDS,16000.0,10,0
+134183.0,Buku Biografi,6.0,5/30/2022,Charles Parker DDS,432000.0,3,1
+134183.0,Novel Romansa,5.0,5/30/2022,Charles Parker DDS,50000.0,11,0
+134183.0,Aksesoris Buku,8.0,5/30/2022,Charles Parker DDS,778750.0,0,2
+134184.0,Buku Sejarah,3.0,5/30/2022,Mary Mcdonald,22500.0,5,0
+134184.0,Majalah Fashion,2.0,5/30/2022,Mary Mcdonald,48000.0,7,0
+134184.0,Majalah Berita,9.0,5/30/2022,Mary Mcdonald,202500.0,6,3
+134184.0,Novel Misteri,3.0,5/30/2022,Mary Mcdonald,108000.0,10,3
+134184.0,Buku Biografi,4.0,5/30/2022,Mary Mcdonald,80000.0,3,0
+134184.0,Aksesoris Buku,6.0,5/30/2022,Mary Mcdonald,180000.0,0,3
+134185.0,Buku Fiksi,2.0,5/30/2022,Jodi Curry,4000.0,4,0
+134185.0,Buku Biografi,8.0,5/30/2022,Jodi Curry,768000.0,3,2
+134185.0,Novel Misteri,8.0,5/30/2022,Jodi Curry,320000.0,10,1
+134185.0,Novel Fiksi Ilmiah,8.0,5/30/2022,Jodi Curry,778750.0,9,2
+134186.0,Alat Tulis,6.0,5/30/2022,Jack Powell,396000.0,1,1
+134186.0,Buku Anak-Anak,7.0,5/30/2022,Jack Powell,735000.0,2,2
+134186.0,Majalah Fashion,1.0,5/30/2022,Jack Powell,12000.0,7,0
+134186.0,Majalah Berita,3.0,5/30/2022,Jack Powell,135000.0,6,3
+134186.0,Buku Fiksi,6.0,5/30/2022,Jack Powell,72000.0,4,0
+134186.0,Novel Misteri,7.0,5/30/2022,Jack Powell,735000.0,10,2
+134187.0,Alat Tulis,7.0,5/30/2022,Brandon Kramer,539000.0,1,1
+134187.0,Buku Anak-Anak,3.0,5/30/2022,Brandon Kramer,18000.0,2,0
+134187.0,Majalah Seni,6.0,5/30/2022,Brandon Kramer,90000.0,8,0
+134187.0,Majalah Berita,2.0,5/30/2022,Brandon Kramer,8000.0,6,0
+134187.0,Buku Fiksi,9.0,5/30/2022,Brandon Kramer,778750.0,4,2
+134187.0,Novel Misteri,6.0,5/30/2022,Brandon Kramer,180000.0,10,3
+134187.0,Novel Romansa,6.0,5/30/2022,Brandon Kramer,396000.0,11,1
+134187.0,Aksesoris Buku,3.0,5/30/2022,Brandon Kramer,90000.0,0,0
+134188.0,Alat Tulis,2.0,5/30/2022,Christina Krueger,36000.0,1,0
+134188.0,Buku Sejarah,2.0,5/30/2022,Christina Krueger,44000.0,5,0
+134188.0,Buku Anak-Anak,7.0,5/30/2022,Christina Krueger,294000.0,2,1
+134188.0,Majalah Berita,6.0,5/30/2022,Christina Krueger,468000.0,6,1
+134188.0,Novel Fiksi Ilmiah,3.0,5/30/2022,Christina Krueger,99000.0,9,0
+134188.0,Novel Misteri,8.0,5/30/2022,Christina Krueger,128000.0,10,3
+134188.0,Buku Biografi,4.0,5/30/2022,Christina Krueger,32000.0,3,0
+134188.0,Novel Romansa,8.0,5/30/2022,Christina Krueger,576000.0,11,2
+134189.0,Majalah Berita,6.0,5/30/2022,Brian Black,12000.0,6,0
+134189.0,Alat Tulis,3.0,5/30/2022,Brian Black,90000.0,1,0
+134189.0,Novel Misteri,2.0,5/30/2022,Brian Black,20000.0,10,0
+134189.0,Buku Biografi,5.0,5/30/2022,Brian Black,50000.0,3,0
+134190.0,Majalah Seni,5.0,5/30/2022,Joshua Moore,375000.0,8,1
+134190.0,Majalah Berita,4.0,5/30/2022,Joshua Moore,240000.0,6,3
+134190.0,Novel Misteri,7.0,5/30/2022,Joshua Moore,490000.0,10,1
+134190.0,Novel Fiksi Ilmiah,9.0,5/30/2022,Joshua Moore,778750.0,9,2
+134191.0,Alat Tulis,5.0,5/30/2022,Karen Moore,225000.0,1,3
+134191.0,Buku Sejarah,9.0,5/30/2022,Karen Moore,729000.0,5,2
+134191.0,Buku Anak-Anak,1.0,5/30/2022,Karen Moore,11000.0,2,0
+134191.0,Novel Misteri,5.0,5/30/2022,Karen Moore,150000.0,10,3
+134191.0,Buku Biografi,8.0,5/30/2022,Karen Moore,704000.0,3,2
+134192.0,Alat Tulis,4.0,5/30/2022,Jason Hess,8000.0,1,0
+134192.0,Buku Anak-Anak,1.0,5/30/2022,Jason Hess,2500.0,2,0
+134192.0,Majalah Fashion,2.0,5/30/2022,Jason Hess,10000.0,7,0
+134192.0,Majalah Seni,4.0,5/30/2022,Jason Hess,8000.0,8,0
+134192.0,Novel Fiksi Ilmiah,8.0,5/30/2022,Jason Hess,704000.0,9,2
+134192.0,Buku Fiksi,3.0,5/30/2022,Jason Hess,135000.0,4,3
+134192.0,Novel Misteri,9.0,5/30/2022,Jason Hess,202500.0,10,3
+134192.0,Aksesoris Buku,2.0,5/30/2022,Jason Hess,8000.0,0,0
+134193.0,Alat Tulis,3.0,5/30/2022,Kelly Green,90000.0,1,0
+134193.0,Buku Anak-Anak,2.0,5/30/2022,Kelly Green,36000.0,2,0
+134193.0,Buku Biografi,2.0,5/30/2022,Kelly Green,36000.0,3,0
+134193.0,Novel Misteri,1.0,5/30/2022,Kelly Green,5000.0,10,0
+134193.0,Novel Romansa,5.0,5/30/2022,Kelly Green,300000.0,11,1
+134193.0,Aksesoris Buku,2.0,5/30/2022,Kelly Green,10000.0,0,0
+134194.0,Novel Romansa,3.0,5/30/2022,Lynn Horton,108000.0,11,3
+134194.0,Buku Sejarah,3.0,5/30/2022,Lynn Horton,135000.0,5,3
+134194.0,Buku Biografi,8.0,5/30/2022,Lynn Horton,16000.0,3,0
+134194.0,Novel Fiksi Ilmiah,1.0,5/30/2022,Lynn Horton,10000.0,9,0
+134195.0,Buku Sejarah,7.0,5/30/2022,Becky Edwards,441000.0,5,1
+134195.0,Majalah Fashion,7.0,5/30/2022,Becky Edwards,441000.0,7,1
+134195.0,Majalah Seni,8.0,5/30/2022,Becky Edwards,576000.0,8,2
+134195.0,Buku Biografi,9.0,5/30/2022,Becky Edwards,778750.0,3,2
+134195.0,Novel Romansa,3.0,5/30/2022,Becky Edwards,117000.0,11,3
+134196.0,Buku Sejarah,7.0,5/30/2022,Patrick Morris,735000.0,5,2
+134196.0,Alat Tulis,1.0,5/30/2022,Patrick Morris,2000.0,1,0
+134196.0,Buku Anak-Anak,4.0,5/30/2022,Patrick Morris,80000.0,2,0
+134196.0,Majalah Fashion,5.0,5/30/2022,Patrick Morris,50000.0,7,0
+134196.0,Majalah Seni,9.0,5/30/2022,Patrick Morris,778750.0,8,2
+134196.0,Novel Fiksi Ilmiah,3.0,5/30/2022,Patrick Morris,99000.0,9,0
+134196.0,Aksesoris Buku,3.0,5/30/2022,Patrick Morris,54000.0,0,0
+134197.0,Buku Anak-Anak,3.0,5/30/2022,Angela Garrison,108000.0,2,3
+134197.0,Majalah Seni,5.0,5/30/2022,Angela Garrison,250000.0,8,3
+134197.0,Majalah Berita,6.0,5/30/2022,Angela Garrison,72000.0,6,0
+134197.0,Buku Fiksi,3.0,5/30/2022,Angela Garrison,18000.0,4,0
+134197.0,Novel Misteri,4.0,5/30/2022,Angela Garrison,32000.0,10,0
+134197.0,Buku Biografi,8.0,5/30/2022,Angela Garrison,384000.0,3,1
+134197.0,Novel Romansa,7.0,5/30/2022,Angela Garrison,98000.0,11,0
+134197.0,Aksesoris Buku,6.0,5/30/2022,Angela Garrison,90000.0,0,0
+134198.0,Alat Tulis,4.0,5/30/2022,Raven Collins,8000.0,1,0
+134198.0,Buku Anak-Anak,8.0,5/30/2022,Raven Collins,160000.0,2,3
+134198.0,Majalah Fashion,7.0,5/30/2022,Raven Collins,98000.0,7,0
+134198.0,Majalah Seni,7.0,5/30/2022,Raven Collins,539000.0,8,1
+134198.0,Majalah Berita,9.0,5/30/2022,Raven Collins,778750.0,6,2
+134198.0,Buku Fiksi,2.0,5/30/2022,Raven Collins,52000.0,4,0
+134198.0,Buku Biografi,2.0,5/30/2022,Raven Collins,4000.0,3,0
+134198.0,Aksesoris Buku,6.0,5/30/2022,Raven Collins,216000.0,0,3
+134199.0,Alat Tulis,9.0,5/30/2022,Matthew Bryant,162000.0,1,3
+134199.0,Buku Anak-Anak,8.0,5/30/2022,Matthew Bryant,16000.0,2,0
+134199.0,Majalah Fashion,1.0,5/30/2022,Matthew Bryant,11000.0,7,0
+134199.0,Novel Misteri,9.0,5/30/2022,Matthew Bryant,729000.0,10,2
+134199.0,Novel Romansa,4.0,5/30/2022,Matthew Bryant,32000.0,11,0
+134199.0,Aksesoris Buku,6.0,5/30/2022,Matthew Bryant,468000.0,0,1
+134200.0,Buku Anak-Anak,6.0,5/30/2022,Jennifer Martinez,12000.0,2,0
+134200.0,Majalah Fashion,1.0,5/30/2022,Jennifer Martinez,10000.0,7,0
+134200.0,Majalah Seni,6.0,5/30/2022,Jennifer Martinez,468000.0,8,1
+134200.0,Buku Biografi,3.0,5/30/2022,Jennifer Martinez,81000.0,3,0
+134200.0,Novel Romansa,3.0,5/30/2022,Jennifer Martinez,18000.0,11,0
+134200.0,Aksesoris Buku,4.0,5/30/2022,Jennifer Martinez,8000.0,0,0
+134201.0,Buku Sejarah,1.0,5/30/2022,Brett Hunt,10000.0,5,0
+134201.0,Majalah Seni,5.0,5/30/2022,Brett Hunt,150000.0,8,3
+134201.0,Novel Fiksi Ilmiah,2.0,5/30/2022,Brett Hunt,20000.0,9,0
+134201.0,Buku Fiksi,1.0,5/30/2022,Brett Hunt,15000.0,4,0
+134201.0,Novel Misteri,5.0,5/30/2022,Brett Hunt,10000.0,10,0
+134201.0,Buku Biografi,1.0,5/30/2022,Brett Hunt,10000.0,3,0
+134202.0,Alat Tulis,4.0,5/30/2022,Justin Williams,176000.0,1,3
+134202.0,Buku Sejarah,3.0,5/30/2022,Justin Williams,117000.0,5,3
+134202.0,Buku Anak-Anak,8.0,5/30/2022,Justin Williams,640000.0,2,2
+134202.0,Buku Fiksi,9.0,5/30/2022,Justin Williams,162000.0,4,3
+134202.0,Novel Misteri,9.0,5/30/2022,Justin Williams,162000.0,10,3
+134202.0,Buku Biografi,5.0,5/30/2022,Justin Williams,10000.0,3,0
+134202.0,Aksesoris Buku,9.0,5/30/2022,Justin Williams,729000.0,0,2
+134203.0,Novel Misteri,8.0,5/30/2022,John Hicks,640000.0,10,2
+134203.0,Buku Biografi,7.0,5/30/2022,John Hicks,294000.0,3,1
+134203.0,Aksesoris Buku,6.0,5/30/2022,John Hicks,432000.0,0,1
+134203.0,Novel Fiksi Ilmiah,1.0,5/30/2022,John Hicks,2000.0,9,0
+134204.0,Alat Tulis,7.0,5/30/2022,Peter Lopez,735000.0,1,2
+134204.0,Majalah Fashion,4.0,5/30/2022,Peter Lopez,40000.0,7,0
+134204.0,Majalah Berita,2.0,5/30/2022,Peter Lopez,36000.0,6,0
+134204.0,Novel Fiksi Ilmiah,1.0,5/30/2022,Peter Lopez,2000.0,9,0
+134204.0,Buku Biografi,1.0,5/30/2022,Peter Lopez,2000.0,3,0
+134204.0,Novel Misteri,1.0,5/30/2022,Peter Lopez,15000.0,10,0
+134204.0,Aksesoris Buku,5.0,5/30/2022,Peter Lopez,225000.0,0,3
+134205.0,Alat Tulis,3.0,5/30/2022,Antonio Owens,18000.0,1,0
+134205.0,Majalah Fashion,7.0,5/30/2022,Antonio Owens,98000.0,7,0
+134205.0,Novel Fiksi Ilmiah,9.0,5/30/2022,Antonio Owens,778750.0,9,2
+134205.0,Buku Fiksi,3.0,5/30/2022,Antonio Owens,135000.0,4,3
+134205.0,Buku Biografi,3.0,5/30/2022,Antonio Owens,90000.0,3,0
+134205.0,Novel Romansa,2.0,5/30/2022,Antonio Owens,36000.0,11,0
+134205.0,Aksesoris Buku,3.0,5/30/2022,Antonio Owens,18000.0,0,0
+134206.0,Buku Sejarah,3.0,8/26/2022,Stephanie Lindsey,99000.0,5,0
+134206.0,Alat Tulis,4.0,10/4/2022,Stephanie Lindsey,32000.0,1,0
+134206.0,Majalah Fashion,8.0,11/16/2022,Stephanie Lindsey,384000.0,7,1
+134206.0,Majalah Seni,1.0,2/4/2023,Stephanie Lindsey,2500.0,8,0
+134206.0,Novel Fiksi Ilmiah,2.0,5/14/2023,Stephanie Lindsey,44000.0,9,0
+134206.0,Novel Misteri,1.0,8/4/2023,Stephanie Lindsey,5000.0,10,0
+134206.0,Aksesoris Buku,5.0,8/4/2023,Stephanie Lindsey,50000.0,0,0
+134207.0,Alat Tulis,8.0,8/4/2023,John Torres,768000.0,1,2
+134207.0,Buku Anak-Anak,9.0,8/4/2023,John Torres,162000.0,2,3
+134207.0,Majalah Berita,1.0,8/4/2023,John Torres,9000.0,6,0
+134207.0,Buku Fiksi,6.0,8/4/2023,John Torres,396000.0,4,1
+134207.0,Buku Biografi,4.0,8/4/2023,John Torres,144000.0,3,3
+134207.0,Aksesoris Buku,3.0,8/4/2023,John Torres,108000.0,0,3
+134208.0,Buku Fiksi,9.0,8/4/2023,Taylor Brooks,202500.0,4,3
+134208.0,Alat Tulis,7.0,8/4/2023,Taylor Brooks,245000.0,1,3
+134208.0,Novel Misteri,9.0,8/4/2023,Taylor Brooks,778750.0,10,2
+134208.0,Buku Anak-Anak,4.0,8/4/2023,Taylor Brooks,32000.0,2,0
+134209.0,Buku Sejarah,8.0,8/4/2023,Emily Ruiz,768000.0,5,2
+134209.0,Buku Fiksi,5.0,8/4/2023,Emily Ruiz,225000.0,4,3
+134209.0,Novel Misteri,9.0,8/4/2023,Emily Ruiz,162000.0,10,3
+134209.0,Novel Romansa,9.0,8/4/2023,Emily Ruiz,18000.0,11,0
+134209.0,Aksesoris Buku,1.0,8/4/2023,Emily Ruiz,11000.0,0,0
+134210.0,Buku Sejarah,1.0,8/4/2023,Lucas Banks,2000.0,5,0
+134210.0,Alat Tulis,2.0,8/4/2023,Lucas Banks,44000.0,1,0
+134210.0,Majalah Fashion,9.0,8/4/2023,Lucas Banks,778750.0,7,2
+134210.0,Majalah Berita,6.0,8/4/2023,Lucas Banks,216000.0,6,3
+134210.0,Novel Fiksi Ilmiah,7.0,8/4/2023,Lucas Banks,98000.0,9,0
+134210.0,Buku Fiksi,5.0,8/4/2023,Lucas Banks,250000.0,4,3
+134210.0,Novel Misteri,9.0,8/4/2023,Lucas Banks,162000.0,10,3
+134210.0,Aksesoris Buku,5.0,8/4/2023,Lucas Banks,275000.0,0,3
+134211.0,Novel Romansa,4.0,8/4/2023,Jennifer Clark,96000.0,11,0
+134211.0,Alat Tulis,1.0,8/4/2023,Jennifer Clark,2000.0,1,0
+134211.0,Majalah Berita,2.0,8/4/2023,Jennifer Clark,8000.0,6,0
+134211.0,Buku Sejarah,3.0,8/4/2023,Jennifer Clark,22500.0,5,0
+134212.0,Majalah Seni,3.0,8/4/2023,Danielle Brandt,18000.0,8,0
+134212.0,Majalah Berita,4.0,8/4/2023,Danielle Brandt,32000.0,6,0
+134212.0,Novel Misteri,5.0,8/4/2023,Danielle Brandt,10000.0,10,0
+134212.0,Buku Biografi,6.0,8/4/2023,Danielle Brandt,12000.0,3,0
+134212.0,Novel Romansa,5.0,8/4/2023,Danielle Brandt,225000.0,11,3
+134213.0,Alat Tulis,9.0,8/4/2023,Kimberly Webb,778750.0,1,2
+134213.0,Buku Sejarah,1.0,10/19/2023,Kimberly Webb,2000.0,5,0
+134213.0,Buku Anak-Anak,9.0,11/20/2023,Kimberly Webb,778750.0,2,2
+134213.0,Buku Fiksi,3.0,1/18/2024,Kimberly Webb,81000.0,4,0
+134213.0,Novel Misteri,8.0,4/15/2024,Kimberly Webb,576000.0,10,2
+134214.0,Buku Sejarah,6.0,4/15/2024,Robert Mitchell,540000.0,5,1
+134214.0,Alat Tulis,2.0,4/30/2024,Robert Mitchell,44000.0,1,0
+134214.0,Buku Anak-Anak,5.0,4/30/2024,Robert Mitchell,50000.0,2,0
+134214.0,Novel Fiksi Ilmiah,2.0,4/30/2024,Robert Mitchell,8000.0,9,0
+134214.0,Buku Fiksi,5.0,4/30/2024,Robert Mitchell,275000.0,4,3
+134214.0,Novel Romansa,5.0,4/30/2024,Robert Mitchell,50000.0,11,0
+134214.0,Aksesoris Buku,1.0,4/30/2024,Robert Mitchell,2000.0,0,0
+134215.0,Novel Fiksi Ilmiah,8.0,4/30/2024,Kevin Arnold,160000.0,9,3
+134215.0,Buku Sejarah,3.0,4/30/2024,Kevin Arnold,135000.0,5,3
+134215.0,Aksesoris Buku,1.0,4/30/2024,Kevin Arnold,2000.0,0,0
+134215.0,Majalah Fashion,6.0,4/30/2024,Kevin Arnold,396000.0,7,1
+134216.0,Alat Tulis,8.0,4/30/2024,James Johnson,320000.0,1,1
+134216.0,Majalah Fashion,7.0,4/30/2024,James Johnson,98000.0,7,0
+134216.0,Majalah Seni,5.0,4/30/2024,James Johnson,275000.0,8,3
+134216.0,Novel Fiksi Ilmiah,9.0,4/30/2024,James Johnson,486000.0,9,1
+134216.0,Novel Misteri,9.0,4/30/2024,James Johnson,18000.0,10,0
+134217.0,Alat Tulis,3.0,4/30/2024,Daniel Andersen,18000.0,1,0
+134217.0,Majalah Fashion,1.0,4/30/2024,Daniel Andersen,6000.0,7,0
+134217.0,Majalah Seni,2.0,4/30/2024,Daniel Andersen,48000.0,8,0
+134217.0,Majalah Berita,7.0,4/30/2024,Daniel Andersen,122500.0,6,3
+134217.0,Novel Fiksi Ilmiah,5.0,4/30/2024,Daniel Andersen,10000.0,9,0
+134217.0,Novel Misteri,2.0,4/30/2024,Daniel Andersen,40000.0,10,0
+134217.0,Novel Romansa,7.0,4/30/2024,Daniel Andersen,245000.0,11,3
+134218.0,Alat Tulis,1.0,4/30/2024,Jordan Dougherty,15000.0,1,0
+134218.0,Buku Sejarah,6.0,4/30/2024,Jordan Dougherty,180000.0,5,3
+134218.0,Buku Anak-Anak,9.0,4/30/2024,Jordan Dougherty,405000.0,2,1
+134218.0,Buku Fiksi,9.0,4/30/2024,Jordan Dougherty,778750.0,4,2
+134218.0,Novel Misteri,9.0,4/30/2024,Jordan Dougherty,778750.0,10,2
+134218.0,Buku Biografi,5.0,4/30/2024,Jordan Dougherty,325000.0,3,1
+134218.0,Aksesoris Buku,3.0,4/30/2024,Jordan Dougherty,22500.0,0,0
+134219.0,Alat Tulis,6.0,4/30/2024,Cynthia Townsend,540000.0,1,1
+134219.0,Buku Anak-Anak,9.0,4/30/2024,Cynthia Townsend,778750.0,2,2
+134219.0,Majalah Seni,9.0,4/30/2024,Cynthia Townsend,18000.0,8,0
+134219.0,Novel Fiksi Ilmiah,9.0,4/30/2024,Cynthia Townsend,778750.0,9,2
+134219.0,Novel Misteri,5.0,4/30/2024,Cynthia Townsend,62500.0,10,0
+134220.0,Alat Tulis,3.0,4/30/2024,Megan Kramer,99000.0,1,0
+134220.0,Majalah Berita,2.0,4/30/2024,Megan Kramer,24000.0,6,0
+134220.0,Buku Biografi,7.0,4/30/2024,Megan Kramer,441000.0,3,1
+134220.0,Buku Sejarah,1.0,4/30/2024,Megan Kramer,13000.0,5,0
+134221.0,Buku Sejarah,9.0,4/30/2024,Tracy Taylor,778750.0,5,2
+134221.0,Majalah Fashion,5.0,4/30/2024,Tracy Taylor,375000.0,7,1
+134221.0,Majalah Seni,4.0,4/30/2024,Tracy Taylor,192000.0,8,3
+134221.0,Novel Fiksi Ilmiah,1.0,4/30/2024,Tracy Taylor,2000.0,9,0
+134221.0,Buku Fiksi,5.0,4/30/2024,Tracy Taylor,300000.0,4,1
+134222.0,Alat Tulis,3.0,4/30/2024,Stephen Harris,45000.0,1,0
+134222.0,Buku Sejarah,5.0,4/30/2024,Stephen Harris,62500.0,5,0
+134222.0,Majalah Fashion,3.0,4/30/2024,Stephen Harris,90000.0,7,0
+134222.0,Novel Fiksi Ilmiah,8.0,4/30/2024,Stephen Harris,128000.0,9,3
+134222.0,Buku Biografi,1.0,4/30/2024,Stephen Harris,13000.0,3,0
+134222.0,Novel Romansa,3.0,4/30/2024,Stephen Harris,90000.0,11,0
+134223.0,Alat Tulis,2.0,4/30/2024,Mary Clarke,4000.0,1,0
+134223.0,Buku Anak-Anak,6.0,4/30/2024,Mary Clarke,396000.0,2,1
+134223.0,Novel Fiksi Ilmiah,1.0,4/30/2024,Mary Clarke,11000.0,9,0
+134223.0,Buku Fiksi,1.0,4/30/2024,Mary Clarke,2000.0,4,0
+134223.0,Aksesoris Buku,4.0,4/30/2024,Mary Clarke,80000.0,0,0
+134224.0,Alat Tulis,5.0,4/30/2024,Laura Perez,10000.0,1,0
+134224.0,Majalah Fashion,4.0,4/30/2024,Laura Perez,32000.0,7,0
+134224.0,Majalah Seni,2.0,4/30/2024,Laura Perez,8000.0,8,0
+134224.0,Buku Biografi,9.0,4/30/2024,Laura Perez,778750.0,3,2
+134224.0,Aksesoris Buku,3.0,4/30/2024,Laura Perez,22500.0,0,0
+134225.0,Alat Tulis,4.0,4/30/2024,Daniel Stewart,160000.0,1,3
+134225.0,Buku Sejarah,8.0,4/30/2024,Daniel Stewart,704000.0,5,2
+134225.0,Majalah Fashion,2.0,4/30/2024,Daniel Stewart,24000.0,7,0
+134225.0,Majalah Berita,2.0,4/30/2024,Daniel Stewart,10000.0,6,0
+134225.0,Buku Fiksi,9.0,4/30/2024,Daniel Stewart,778750.0,4,2
+134225.0,Buku Biografi,4.0,4/30/2024,Daniel Stewart,192000.0,3,3
+134225.0,Novel Misteri,6.0,4/30/2024,Daniel Stewart,180000.0,10,3
+134225.0,Novel Romansa,6.0,4/30/2024,Daniel Stewart,72000.0,11,0
+134226.0,Novel Romansa,5.0,4/30/2024,Kyle Thomas,62500.0,11,0
+134226.0,Majalah Berita,3.0,4/30/2024,Kyle Thomas,18000.0,6,0
+134226.0,Novel Misteri,5.0,4/30/2024,Kyle Thomas,10000.0,10,0
+134226.0,Novel Fiksi Ilmiah,4.0,4/30/2024,Kyle Thomas,32000.0,9,0
+134227.0,Alat Tulis,2.0,4/30/2024,Kyle Mejia,24000.0,1,0
+134227.0,Novel Misteri,2.0,4/30/2024,Kyle Mejia,48000.0,10,0
+134227.0,Aksesoris Buku,2.0,4/30/2024,Kyle Mejia,36000.0,0,0
+134227.0,Novel Fiksi Ilmiah,3.0,4/30/2024,Kyle Mejia,45000.0,9,0
+134228.0,Alat Tulis,2.0,4/30/2024,James Gaines,8000.0,1,0
+134228.0,Buku Anak-Anak,4.0,4/30/2024,James Gaines,8000.0,2,0
+134228.0,Majalah Seni,8.0,4/30/2024,James Gaines,320000.0,8,1
+134228.0,Majalah Berita,3.0,4/30/2024,James Gaines,54000.0,6,0
+134228.0,Buku Biografi,5.0,4/30/2024,James Gaines,275000.0,3,3
+134228.0,Novel Misteri,8.0,4/30/2024,James Gaines,778750.0,10,2
+134229.0,Buku Sejarah,1.0,4/30/2024,Patricia Knapp,13000.0,5,0
+134229.0,Alat Tulis,3.0,4/30/2024,Patricia Knapp,45000.0,1,0
+134229.0,Buku Anak-Anak,8.0,4/30/2024,Patricia Knapp,320000.0,2,1
+134229.0,Majalah Fashion,5.0,4/30/2024,Patricia Knapp,225000.0,7,3
+134229.0,Majalah Seni,7.0,4/30/2024,Patricia Knapp,14000.0,8,0
+134229.0,Majalah Berita,3.0,4/30/2024,Patricia Knapp,54000.0,6,0
+134229.0,Novel Misteri,4.0,4/30/2024,Patricia Knapp,40000.0,10,0
+134229.0,Novel Romansa,6.0,4/30/2024,Patricia Knapp,72000.0,11,0
+134230.0,Buku Sejarah,8.0,4/30/2024,Jordan Carr,128000.0,5,3
+134230.0,Majalah Berita,7.0,4/30/2024,Jordan Carr,122500.0,6,3
+134230.0,Novel Misteri,1.0,4/30/2024,Jordan Carr,12000.0,10,0
+134230.0,Novel Romansa,3.0,4/30/2024,Jordan Carr,117000.0,11,3
+134230.0,Aksesoris Buku,2.0,4/30/2024,Jordan Carr,8000.0,0,0
+134231.0,Alat Tulis,2.0,4/30/2024,Doris Guerra,48000.0,1,0
+134231.0,Majalah Seni,5.0,4/30/2024,Doris Guerra,62500.0,8,0
+134231.0,Novel Fiksi Ilmiah,3.0,4/30/2024,Doris Guerra,99000.0,9,0
+134231.0,Buku Fiksi,7.0,4/30/2024,Doris Guerra,294000.0,4,1
+134231.0,Novel Misteri,2.0,4/30/2024,Doris Guerra,60000.0,10,0
+134232.0,Alat Tulis,6.0,4/30/2024,Robert James,180000.0,1,3
+134232.0,Buku Anak-Anak,1.0,4/30/2024,Robert James,10000.0,2,0
+134232.0,Majalah Fashion,3.0,4/30/2024,Robert James,54000.0,7,0
+134232.0,Majalah Seni,5.0,4/30/2024,Robert James,62500.0,8,0
+134232.0,Novel Fiksi Ilmiah,5.0,4/30/2024,Robert James,325000.0,9,1
+134232.0,Novel Romansa,1.0,4/30/2024,Robert James,2500.0,11,0
+134232.0,Aksesoris Buku,8.0,4/30/2024,Robert James,768000.0,0,2
+134233.0,Majalah Berita,6.0,4/30/2024,Rebecca Chavez,468000.0,6,1
+134233.0,Alat Tulis,8.0,4/30/2024,Rebecca Chavez,128000.0,1,3
+134233.0,Aksesoris Buku,4.0,4/30/2024,Rebecca Chavez,40000.0,0,0
+134233.0,Novel Romansa,2.0,4/30/2024,Rebecca Chavez,10000.0,11,0
+134234.0,Alat Tulis,6.0,4/30/2024,Patrick Padilla,72000.0,1,0
+134234.0,Buku Sejarah,5.0,4/30/2024,Patrick Padilla,50000.0,5,0
+134234.0,Buku Anak-Anak,3.0,4/30/2024,Patrick Padilla,99000.0,2,0
+134234.0,Novel Romansa,2.0,4/30/2024,Patrick Padilla,48000.0,11,0
+134234.0,Aksesoris Buku,6.0,4/30/2024,Patrick Padilla,432000.0,0,1
+134235.0,Majalah Seni,8.0,4/30/2024,Paul Swanson,16000.0,8,0
+134235.0,Majalah Berita,5.0,4/30/2024,Paul Swanson,275000.0,6,3
+134235.0,Novel Fiksi Ilmiah,6.0,4/30/2024,Paul Swanson,540000.0,9,1
+134235.0,Novel Misteri,1.0,4/30/2024,Paul Swanson,5000.0,10,0
+134235.0,Buku Biografi,1.0,4/30/2024,Paul Swanson,15000.0,3,0
+134236.0,Buku Sejarah,4.0,4/30/2024,Kathryn Munoz,240000.0,5,3
+134236.0,Buku Anak-Anak,1.0,4/30/2024,Kathryn Munoz,9000.0,2,0
+134236.0,Majalah Fashion,6.0,4/30/2024,Kathryn Munoz,72000.0,7,0
+134236.0,Majalah Seni,6.0,4/30/2024,Kathryn Munoz,90000.0,8,0
+134236.0,Majalah Berita,7.0,4/30/2024,Kathryn Munoz,294000.0,6,1
+134236.0,Novel Misteri,3.0,4/30/2024,Kathryn Munoz,90000.0,10,0
+134237.0,Buku Sejarah,4.0,4/30/2024,Jennifer Harper,192000.0,5,3
+134237.0,Alat Tulis,8.0,4/30/2024,Jennifer Harper,128000.0,1,3
+134237.0,Majalah Berita,6.0,4/30/2024,Jennifer Harper,432000.0,6,1
+134237.0,Buku Fiksi,9.0,4/30/2024,Jennifer Harper,778750.0,4,2
+134237.0,Novel Romansa,5.0,4/30/2024,Jennifer Harper,275000.0,11,3
+134237.0,Aksesoris Buku,2.0,4/30/2024,Jennifer Harper,52000.0,0,0
+134238.0,Alat Tulis,5.0,4/30/2024,Jacob Pope,50000.0,1,0
+134238.0,Buku Anak-Anak,9.0,4/30/2024,Jacob Pope,486000.0,2,1
+134238.0,Majalah Berita,4.0,4/30/2024,Jacob Pope,8000.0,6,0
+134238.0,Novel Fiksi Ilmiah,9.0,4/30/2024,Jacob Pope,486000.0,9,1
+134238.0,Buku Fiksi,8.0,4/30/2024,Jacob Pope,320000.0,4,1
+134238.0,Novel Misteri,4.0,4/30/2024,Jacob Pope,96000.0,10,0
+134238.0,Novel Romansa,2.0,4/30/2024,Jacob Pope,8000.0,11,0
+134238.0,Aksesoris Buku,6.0,4/30/2024,Jacob Pope,12000.0,0,0
+134239.0,Novel Romansa,2.0,4/30/2024,Katherine Benitez,52000.0,11,0
+134239.0,Novel Misteri,5.0,4/30/2024,Katherine Benitez,300000.0,10,1
+134239.0,Buku Biografi,8.0,4/30/2024,Katherine Benitez,128000.0,3,3
+134239.0,Buku Fiksi,5.0,4/30/2024,Katherine Benitez,62500.0,4,0
+134240.0,Buku Sejarah,5.0,4/30/2024,Michele Carlson,275000.0,5,3
+134240.0,Alat Tulis,3.0,4/30/2024,Michele Carlson,22500.0,1,0
+134240.0,Majalah Seni,9.0,4/30/2024,Michele Carlson,486000.0,8,1
+134240.0,Novel Fiksi Ilmiah,2.0,4/30/2024,Michele Carlson,10000.0,9,0
+134240.0,Buku Fiksi,2.0,4/30/2024,Michele Carlson,48000.0,4,0
+134240.0,Novel Misteri,7.0,4/30/2024,Michele Carlson,539000.0,10,1
+134240.0,Buku Biografi,8.0,4/30/2024,Michele Carlson,160000.0,3,3
+134240.0,Novel Romansa,7.0,4/30/2024,Michele Carlson,98000.0,11,0
+134241.0,Alat Tulis,7.0,4/30/2024,Melissa Thomas,735000.0,1,2
+134241.0,Buku Anak-Anak,2.0,4/30/2024,Melissa Thomas,52000.0,2,0
+134241.0,Buku Fiksi,4.0,4/30/2024,Melissa Thomas,8000.0,4,0
+134241.0,Buku Biografi,2.0,4/30/2024,Melissa Thomas,20000.0,3,0
+134241.0,Aksesoris Buku,8.0,4/30/2024,Melissa Thomas,704000.0,0,2
+134242.0,Alat Tulis,1.0,4/30/2024,William Brown,5000.0,1,0
+134242.0,Buku Sejarah,8.0,4/30/2024,William Brown,576000.0,5,2
+134242.0,Buku Anak-Anak,3.0,4/30/2024,William Brown,135000.0,2,3
+134242.0,Majalah Fashion,6.0,4/30/2024,William Brown,396000.0,7,1
+134242.0,Majalah Seni,9.0,4/30/2024,William Brown,162000.0,8,3
+134242.0,Majalah Berita,6.0,4/30/2024,William Brown,360000.0,6,1
+134242.0,Buku Biografi,7.0,4/30/2024,William Brown,98000.0,3,0
+134242.0,Aksesoris Buku,3.0,4/30/2024,William Brown,135000.0,0,3
+134243.0,Majalah Fashion,7.0,4/30/2024,Christine King,14000.0,7,0
+134243.0,Novel Fiksi Ilmiah,1.0,4/30/2024,Christine King,11000.0,9,0
+134243.0,Novel Misteri,8.0,4/30/2024,Christine King,320000.0,10,1
+134243.0,Buku Biografi,3.0,4/30/2024,Christine King,99000.0,3,0
+134243.0,Aksesoris Buku,2.0,4/30/2024,Christine King,20000.0,0,0
+134244.0,Alat Tulis,4.0,4/30/2024,Bonnie Ramos,96000.0,1,0
+134244.0,Buku Anak-Anak,1.0,4/30/2024,Bonnie Ramos,9000.0,2,0
+134244.0,Majalah Berita,5.0,4/30/2024,Bonnie Ramos,250000.0,6,3
+134244.0,Buku Fiksi,4.0,4/30/2024,Bonnie Ramos,40000.0,4,0
+134244.0,Novel Misteri,4.0,4/30/2024,Bonnie Ramos,32000.0,10,0
+134244.0,Novel Romansa,8.0,4/30/2024,Bonnie Ramos,16000.0,11,0
+134245.0,Majalah Berita,2.0,4/30/2024,Amanda Thomas,60000.0,6,0
+134245.0,Buku Fiksi,9.0,4/30/2024,Amanda Thomas,405000.0,4,1
+134245.0,Buku Sejarah,2.0,4/30/2024,Amanda Thomas,4000.0,5,0
+134245.0,Buku Biografi,4.0,4/30/2024,Amanda Thomas,208000.0,3,3
+134246.0,Novel Romansa,2.0,4/30/2024,Audrey Allen,48000.0,11,0
+134246.0,Majalah Berita,9.0,4/30/2024,Audrey Allen,729000.0,6,2
+134246.0,Novel Misteri,5.0,4/30/2024,Audrey Allen,250000.0,10,3
+134246.0,Novel Fiksi Ilmiah,6.0,4/30/2024,Audrey Allen,432000.0,9,1
+134247.0,Majalah Seni,6.0,4/30/2024,Ashley Bailey,324000.0,8,1
+134247.0,Novel Misteri,1.0,4/30/2024,Ashley Bailey,9000.0,10,0
+134247.0,Aksesoris Buku,9.0,4/30/2024,Ashley Bailey,405000.0,0,1
+134247.0,Majalah Fashion,2.0,4/30/2024,Ashley Bailey,48000.0,7,0
+134248.0,Alat Tulis,5.0,4/30/2024,Sarah Williams,150000.0,1,3
+134248.0,Buku Sejarah,8.0,4/30/2024,Sarah Williams,160000.0,5,3
+134248.0,Majalah Fashion,1.0,4/30/2024,Sarah Williams,6000.0,7,0
+134248.0,Majalah Berita,4.0,4/30/2024,Sarah Williams,96000.0,6,0
+134248.0,Novel Misteri,9.0,4/30/2024,Sarah Williams,486000.0,10,1
+134248.0,Novel Romansa,7.0,4/30/2024,Sarah Williams,98000.0,11,0
+134248.0,Aksesoris Buku,4.0,4/30/2024,Sarah Williams,40000.0,0,0
+134249.0,Alat Tulis,8.0,4/30/2024,Shawna Romero,320000.0,1,1
+134249.0,Buku Sejarah,1.0,4/30/2024,Shawna Romero,10000.0,5,0
+134249.0,Buku Anak-Anak,3.0,4/30/2024,Shawna Romero,108000.0,2,3
+134249.0,Buku Fiksi,1.0,4/30/2024,Shawna Romero,13000.0,4,0
+134249.0,Aksesoris Buku,8.0,4/30/2024,Shawna Romero,128000.0,0,3
+134250.0,Novel Romansa,5.0,4/30/2024,Ariel Garcia,225000.0,11,3
+134250.0,Alat Tulis,2.0,4/30/2024,Ariel Garcia,10000.0,1,0
+134250.0,Buku Anak-Anak,8.0,4/30/2024,Ariel Garcia,384000.0,2,1
+134250.0,Aksesoris Buku,6.0,4/30/2024,Ariel Garcia,540000.0,0,1
+134251.0,Buku Sejarah,6.0,4/30/2024,Michael Jackson,324000.0,5,1
+134251.0,Buku Anak-Anak,8.0,4/30/2024,Michael Jackson,704000.0,2,2
+134251.0,Majalah Berita,3.0,4/30/2024,Michael Jackson,108000.0,6,3
+134251.0,Novel Fiksi Ilmiah,1.0,4/30/2024,Michael Jackson,13000.0,9,0
+134251.0,Buku Fiksi,7.0,4/30/2024,Michael Jackson,14000.0,4,0
+134251.0,Novel Romansa,8.0,4/30/2024,Michael Jackson,128000.0,11,3
+134251.0,Aksesoris Buku,7.0,4/30/2024,Michael Jackson,539000.0,0,1
+134252.0,Majalah Fashion,6.0,4/30/2024,Marissa Wilson,468000.0,7,1
+134252.0,Majalah Seni,9.0,4/30/2024,Marissa Wilson,162000.0,8,3
+134252.0,Novel Fiksi Ilmiah,4.0,4/30/2024,Marissa Wilson,208000.0,9,3
+134252.0,Buku Fiksi,6.0,4/30/2024,Marissa Wilson,432000.0,4,1
+134252.0,Buku Biografi,2.0,4/30/2024,Marissa Wilson,44000.0,3,0
+134252.0,Novel Misteri,2.0,4/30/2024,Marissa Wilson,44000.0,10,0
+134252.0,Novel Romansa,8.0,4/30/2024,Marissa Wilson,778750.0,11,2
+134252.0,Aksesoris Buku,3.0,4/30/2024,Marissa Wilson,99000.0,0,0
+134253.0,Alat Tulis,8.0,4/30/2024,Terry Oconnell,576000.0,1,2
+134253.0,Buku Anak-Anak,6.0,4/30/2024,Terry Oconnell,540000.0,2,1
+134253.0,Majalah Fashion,1.0,4/30/2024,Terry Oconnell,13000.0,7,0
+134253.0,Majalah Seni,9.0,4/30/2024,Terry Oconnell,405000.0,8,1
+134253.0,Novel Fiksi Ilmiah,2.0,4/30/2024,Terry Oconnell,44000.0,9,0
+134253.0,Novel Misteri,8.0,4/30/2024,Terry Oconnell,778750.0,10,2
+134253.0,Novel Romansa,5.0,4/30/2024,Terry Oconnell,150000.0,11,3
+134253.0,Aksesoris Buku,2.0,4/30/2024,Terry Oconnell,36000.0,0,0
+134254.0,Alat Tulis,6.0,4/30/2024,Dr. Janet Richardson MD,468000.0,1,1
+134254.0,Buku Anak-Anak,6.0,4/30/2024,Dr. Janet Richardson MD,180000.0,2,3
+134254.0,Majalah Berita,3.0,4/30/2024,Dr. Janet Richardson MD,99000.0,6,0
+134254.0,Novel Misteri,3.0,4/30/2024,Dr. Janet Richardson MD,6000.0,10,0
+134254.0,Buku Biografi,4.0,4/30/2024,Dr. Janet Richardson MD,32000.0,3,0
+134254.0,Aksesoris Buku,1.0,4/30/2024,Dr. Janet Richardson MD,2000.0,0,0
+134255.0,Buku Sejarah,1.0,4/30/2024,Heather White,2000.0,5,0
+134255.0,Alat Tulis,1.0,4/30/2024,Heather White,2000.0,1,0
+134255.0,Buku Anak-Anak,7.0,4/30/2024,Heather White,14000.0,2,0
+134255.0,Majalah Fashion,3.0,4/30/2024,Heather White,117000.0,7,3
+134255.0,Majalah Seni,7.0,4/30/2024,Heather White,735000.0,8,2
+134255.0,Majalah Berita,5.0,4/30/2024,Heather White,225000.0,6,3
+134255.0,Novel Fiksi Ilmiah,4.0,4/30/2024,Heather White,192000.0,9,3
+134255.0,Buku Biografi,1.0,4/30/2024,Heather White,10000.0,3,0
+134255.0,Aksesoris Buku,9.0,4/30/2024,Heather White,486000.0,0,1
+134256.0,Alat Tulis,7.0,4/30/2024,Nina Reyes,490000.0,1,1
+134256.0,Majalah Seni,6.0,4/30/2024,Nina Reyes,360000.0,8,1
+134256.0,Buku Fiksi,4.0,4/30/2024,Nina Reyes,176000.0,4,3
+134256.0,Buku Biografi,4.0,4/30/2024,Nina Reyes,96000.0,3,0
+134256.0,Novel Romansa,5.0,4/30/2024,Nina Reyes,325000.0,11,1
+134256.0,Aksesoris Buku,5.0,4/30/2024,Nina Reyes,50000.0,0,0
+134257.0,Alat Tulis,1.0,4/30/2024,Alicia Watkins,11000.0,1,0
+134257.0,Majalah Fashion,4.0,4/30/2024,Alicia Watkins,240000.0,7,3
+134257.0,Novel Fiksi Ilmiah,9.0,4/30/2024,Alicia Watkins,778750.0,9,2
+134257.0,Buku Fiksi,4.0,4/30/2024,Alicia Watkins,8000.0,4,0
+134257.0,Novel Misteri,2.0,4/30/2024,Alicia Watkins,8000.0,10,0
+134257.0,Buku Biografi,3.0,4/30/2024,Alicia Watkins,81000.0,3,0
+134257.0,Novel Romansa,5.0,4/30/2024,Alicia Watkins,275000.0,11,3
+134258.0,Majalah Fashion,4.0,4/30/2024,Rebecca Bell,192000.0,7,3
+134258.0,Majalah Seni,8.0,4/30/2024,Rebecca Bell,320000.0,8,1
+134258.0,Majalah Berita,4.0,4/30/2024,Rebecca Bell,160000.0,6,3
+134258.0,Novel Fiksi Ilmiah,8.0,4/30/2024,Rebecca Bell,320000.0,9,1
+134258.0,Novel Misteri,6.0,4/30/2024,Rebecca Bell,12000.0,10,0
+134258.0,Novel Romansa,3.0,4/30/2024,Rebecca Bell,81000.0,11,0
+134258.0,Aksesoris Buku,7.0,4/30/2024,Rebecca Bell,490000.0,0,1
+134259.0,Alat Tulis,9.0,4/30/2024,Belinda Powell,202500.0,1,3
+134259.0,Majalah Fashion,5.0,4/30/2024,Belinda Powell,225000.0,7,3
+134259.0,Majalah Seni,9.0,4/30/2024,Belinda Powell,778750.0,8,2
+134259.0,Majalah Berita,4.0,4/30/2024,Belinda Powell,8000.0,6,0
+134259.0,Novel Fiksi Ilmiah,8.0,4/30/2024,Belinda Powell,704000.0,9,2
+134259.0,Buku Fiksi,8.0,4/30/2024,Belinda Powell,768000.0,4,2
+134259.0,Buku Biografi,5.0,4/30/2024,Belinda Powell,50000.0,3,0
+134259.0,Novel Romansa,2.0,4/30/2024,Belinda Powell,24000.0,11,0
+134260.0,Majalah Fashion,8.0,4/30/2024,Deanna Allen PhD,640000.0,7,2
+134260.0,Majalah Berita,3.0,4/30/2024,Deanna Allen PhD,90000.0,6,0
+134260.0,Novel Fiksi Ilmiah,5.0,4/30/2024,Deanna Allen PhD,275000.0,9,3
+134260.0,Buku Fiksi,6.0,4/30/2024,Deanna Allen PhD,540000.0,4,1
+134260.0,Buku Biografi,6.0,4/30/2024,Deanna Allen PhD,12000.0,3,0
+134260.0,Novel Misteri,3.0,4/30/2024,Deanna Allen PhD,90000.0,10,0
+134260.0,Novel Romansa,1.0,4/30/2024,Deanna Allen PhD,2500.0,11,0
+134261.0,Alat Tulis,7.0,4/30/2024,Brandon Maldonado,735000.0,1,2
+134261.0,Buku Anak-Anak,3.0,4/30/2024,Brandon Maldonado,54000.0,2,0
+134261.0,Majalah Fashion,3.0,4/30/2024,Brandon Maldonado,99000.0,7,0
+134261.0,Majalah Seni,5.0,4/30/2024,Brandon Maldonado,50000.0,8,0
+134261.0,Novel Fiksi Ilmiah,6.0,4/30/2024,Brandon Maldonado,396000.0,9,1
+134261.0,Novel Misteri,9.0,4/30/2024,Brandon Maldonado,778750.0,10,2
+134261.0,Buku Biografi,9.0,4/30/2024,Brandon Maldonado,778750.0,3,2
+134261.0,Novel Romansa,1.0,4/30/2024,Brandon Maldonado,2500.0,11,0
+134262.0,Alat Tulis,4.0,4/30/2024,Kathryn James,80000.0,1,0
+134262.0,Buku Sejarah,4.0,4/30/2024,Kathryn James,96000.0,5,0
+134262.0,Buku Anak-Anak,6.0,4/30/2024,Kathryn James,72000.0,2,0
+134262.0,Buku Biografi,7.0,4/30/2024,Kathryn James,98000.0,3,0
+134262.0,Novel Romansa,1.0,4/30/2024,Kathryn James,2500.0,11,0
+134262.0,Aksesoris Buku,4.0,4/30/2024,Kathryn James,240000.0,0,3
+134263.0,Alat Tulis,4.0,4/30/2024,Joshua Chavez,96000.0,1,0
+134263.0,Buku Anak-Anak,5.0,4/30/2024,Joshua Chavez,150000.0,2,3
+134263.0,Buku Biografi,2.0,4/30/2024,Joshua Chavez,40000.0,3,0
+134263.0,Novel Romansa,1.0,4/30/2024,Joshua Chavez,2000.0,11,0
+134263.0,Aksesoris Buku,8.0,4/30/2024,Joshua Chavez,576000.0,0,2
+134264.0,Alat Tulis,2.0,4/30/2024,Carolyn Zuniga,52000.0,1,0
+134264.0,Buku Sejarah,2.0,4/30/2024,Carolyn Zuniga,36000.0,5,0
+134264.0,Buku Anak-Anak,9.0,4/30/2024,Carolyn Zuniga,486000.0,2,1
+134264.0,Novel Misteri,1.0,4/30/2024,Carolyn Zuniga,2000.0,10,0
+134264.0,Aksesoris Buku,6.0,4/30/2024,Carolyn Zuniga,540000.0,0,1
+134265.0,Buku Sejarah,9.0,4/30/2024,Christopher Watts,778750.0,5,2
+134265.0,Majalah Seni,1.0,4/30/2024,Christopher Watts,11000.0,8,0
+134265.0,Majalah Berita,4.0,4/30/2024,Christopher Watts,192000.0,6,3
+134265.0,Novel Fiksi Ilmiah,8.0,4/30/2024,Christopher Watts,778750.0,9,2
+134265.0,Buku Fiksi,5.0,4/30/2024,Christopher Watts,10000.0,4,0
+134265.0,Buku Biografi,1.0,4/30/2024,Christopher Watts,2500.0,3,0
+134265.0,Novel Romansa,2.0,4/30/2024,Christopher Watts,52000.0,11,0
+134266.0,Alat Tulis,7.0,4/30/2024,Bonnie Wilson,245000.0,1,3
+134266.0,Buku Sejarah,4.0,4/30/2024,Bonnie Wilson,160000.0,5,3
+134266.0,Buku Anak-Anak,6.0,4/30/2024,Bonnie Wilson,432000.0,2,1
+134266.0,Majalah Fashion,4.0,4/30/2024,Bonnie Wilson,176000.0,7,3
+134266.0,Majalah Berita,7.0,4/30/2024,Bonnie Wilson,637000.0,6,2
+134266.0,Buku Fiksi,7.0,4/30/2024,Bonnie Wilson,245000.0,4,3
+134266.0,Buku Biografi,2.0,4/30/2024,Bonnie Wilson,8000.0,3,0
+134266.0,Aksesoris Buku,6.0,4/30/2024,Bonnie Wilson,324000.0,0,1
+134267.0,Alat Tulis,3.0,4/30/2024,Maria May,54000.0,1,0
+134267.0,Majalah Berita,9.0,4/30/2024,Maria May,162000.0,6,3
+134267.0,Buku Fiksi,2.0,4/30/2024,Maria May,8000.0,4,0
+134267.0,Novel Romansa,2.0,4/30/2024,Maria May,24000.0,11,0
+134267.0,Aksesoris Buku,3.0,4/30/2024,Maria May,135000.0,0,3
+134268.0,Alat Tulis,1.0,4/30/2024,David Pittman,12000.0,1,0
+134268.0,Buku Anak-Anak,6.0,4/30/2024,David Pittman,540000.0,2,1
+134268.0,Majalah Fashion,3.0,4/30/2024,David Pittman,135000.0,7,3
+134268.0,Majalah Seni,4.0,4/30/2024,David Pittman,32000.0,8,0
+134268.0,Majalah Berita,2.0,4/30/2024,David Pittman,4000.0,6,0
+134268.0,Aksesoris Buku,5.0,4/30/2024,David Pittman,300000.0,0,1
+134269.0,Buku Sejarah,4.0,4/30/2024,Douglas Day,240000.0,5,3
+134269.0,Majalah Fashion,5.0,4/30/2024,Douglas Day,150000.0,7,3
+134269.0,Majalah Seni,1.0,4/30/2024,Douglas Day,2500.0,8,0
+134269.0,Novel Fiksi Ilmiah,5.0,4/30/2024,Douglas Day,62500.0,9,0
+134269.0,Novel Romansa,8.0,4/30/2024,Douglas Day,384000.0,11,1
+134270.0,Alat Tulis,9.0,4/30/2024,Diana Long,729000.0,1,2
+134270.0,Buku Sejarah,9.0,4/30/2024,Diana Long,486000.0,5,1
+134270.0,Buku Anak-Anak,7.0,4/30/2024,Diana Long,14000.0,2,0
+134270.0,Majalah Fashion,5.0,4/30/2024,Diana Long,300000.0,7,1
+134270.0,Majalah Seni,5.0,4/30/2024,Diana Long,150000.0,8,3
+134270.0,Majalah Berita,3.0,4/30/2024,Diana Long,117000.0,6,3
+134270.0,Buku Fiksi,6.0,4/30/2024,Diana Long,72000.0,4,0
+134270.0,Aksesoris Buku,8.0,4/30/2024,Diana Long,778750.0,0,2
+134271.0,Buku Sejarah,7.0,4/30/2024,Michael Russell,637000.0,5,2
+134271.0,Majalah Fashion,1.0,4/30/2024,Michael Russell,2000.0,7,0
+134271.0,Majalah Seni,9.0,4/30/2024,Michael Russell,778750.0,8,2
+134271.0,Majalah Berita,9.0,4/30/2024,Michael Russell,778750.0,6,2
+134271.0,Buku Fiksi,3.0,4/30/2024,Michael Russell,54000.0,4,0
+134271.0,Buku Biografi,3.0,4/30/2024,Michael Russell,18000.0,3,0
+134271.0,Novel Romansa,4.0,4/30/2024,Michael Russell,32000.0,11,0
+134271.0,Aksesoris Buku,2.0,4/30/2024,Michael Russell,60000.0,0,0
+134272.0,Buku Sejarah,4.0,4/30/2024,Katie Finley,80000.0,5,0
+134272.0,Alat Tulis,6.0,4/30/2024,Katie Finley,12000.0,1,0
+134272.0,Buku Anak-Anak,3.0,4/30/2024,Katie Finley,54000.0,2,0
+134272.0,Majalah Berita,8.0,4/30/2024,Katie Finley,128000.0,6,3
+134272.0,Novel Fiksi Ilmiah,6.0,4/30/2024,Katie Finley,180000.0,9,3
+134272.0,Novel Romansa,4.0,4/30/2024,Katie Finley,192000.0,11,3
+134273.0,Alat Tulis,6.0,4/30/2024,Connie Burke,540000.0,1,1
+134273.0,Buku Sejarah,5.0,4/30/2024,Connie Burke,375000.0,5,1
+134273.0,Majalah Seni,1.0,4/30/2024,Connie Burke,6000.0,8,0
+134273.0,Buku Fiksi,9.0,4/30/2024,Connie Burke,162000.0,4,3
+134273.0,Novel Misteri,1.0,4/30/2024,Connie Burke,13000.0,10,0
+134273.0,Aksesoris Buku,7.0,4/30/2024,Connie Burke,98000.0,0,0
+134274.0,Alat Tulis,8.0,4/30/2024,Cristian Green,128000.0,1,3
+134274.0,Buku Anak-Anak,5.0,4/30/2024,Cristian Green,150000.0,2,3
+134274.0,Majalah Fashion,7.0,4/30/2024,Cristian Green,122500.0,7,3
+134274.0,Majalah Seni,2.0,4/30/2024,Cristian Green,48000.0,8,0
+134274.0,Majalah Berita,8.0,4/30/2024,Cristian Green,640000.0,6,2
+134274.0,Novel Fiksi Ilmiah,4.0,4/30/2024,Cristian Green,208000.0,9,3
+134274.0,Aksesoris Buku,3.0,4/30/2024,Cristian Green,117000.0,0,3
+134275.0,Alat Tulis,5.0,4/30/2024,Shane Hart,275000.0,1,3
+134275.0,Majalah Fashion,8.0,4/30/2024,Shane Hart,128000.0,7,3
+134275.0,Majalah Seni,4.0,4/30/2024,Shane Hart,96000.0,8,0
+134275.0,Majalah Berita,8.0,4/30/2024,Shane Hart,778750.0,6,2
+134275.0,Novel Fiksi Ilmiah,9.0,4/30/2024,Shane Hart,486000.0,9,1
+134275.0,Novel Romansa,4.0,4/30/2024,Shane Hart,144000.0,11,3
+134276.0,Alat Tulis,5.0,4/30/2024,Timothy Martinez,50000.0,1,0
+134276.0,Buku Anak-Anak,4.0,4/30/2024,Timothy Martinez,40000.0,2,0
+134276.0,Majalah Fashion,6.0,4/30/2024,Timothy Martinez,468000.0,7,1
+134276.0,Majalah Berita,9.0,4/30/2024,Timothy Martinez,18000.0,6,0
+134276.0,Buku Fiksi,5.0,4/30/2024,Timothy Martinez,300000.0,4,1
+134276.0,Buku Biografi,5.0,4/30/2024,Timothy Martinez,375000.0,3,1
+134276.0,Novel Romansa,3.0,4/30/2024,Timothy Martinez,81000.0,11,0
+134276.0,Aksesoris Buku,8.0,4/30/2024,Timothy Martinez,16000.0,0,0
+134277.0,Alat Tulis,7.0,4/30/2024,Sheryl Cline,122500.0,1,3
+134277.0,Buku Anak-Anak,8.0,4/30/2024,Sheryl Cline,320000.0,2,1
+134277.0,Majalah Fashion,9.0,4/30/2024,Sheryl Cline,778750.0,7,2
+134277.0,Majalah Seni,3.0,4/30/2024,Sheryl Cline,54000.0,8,0
+134277.0,Buku Fiksi,2.0,4/30/2024,Sheryl Cline,60000.0,4,0
+134277.0,Buku Biografi,9.0,4/30/2024,Sheryl Cline,729000.0,3,2
+134278.0,Buku Sejarah,3.0,4/30/2024,Cynthia Fletcher,108000.0,5,3
+134278.0,Buku Fiksi,7.0,4/30/2024,Cynthia Fletcher,735000.0,4,2
+134278.0,Alat Tulis,5.0,4/30/2024,Cynthia Fletcher,375000.0,1,1
+134278.0,Novel Fiksi Ilmiah,3.0,4/30/2024,Cynthia Fletcher,135000.0,9,3
+134279.0,Alat Tulis,7.0,4/30/2024,Jimmy Williams,441000.0,1,1
+134279.0,Buku Sejarah,6.0,4/30/2024,Jimmy Williams,396000.0,5,1
+134279.0,Buku Anak-Anak,8.0,4/30/2024,Jimmy Williams,160000.0,2,3
+134279.0,Majalah Seni,4.0,4/30/2024,Jimmy Williams,144000.0,8,3
+134279.0,Novel Fiksi Ilmiah,4.0,4/30/2024,Jimmy Williams,8000.0,9,0
+134279.0,Novel Misteri,6.0,4/30/2024,Jimmy Williams,90000.0,10,0
+134279.0,Buku Biografi,6.0,4/30/2024,Jimmy Williams,396000.0,3,1
+134279.0,Aksesoris Buku,6.0,4/30/2024,Jimmy Williams,432000.0,0,1
+134280.0,Alat Tulis,4.0,4/30/2024,Joseph Sanchez,40000.0,1,0
+134280.0,Buku Sejarah,4.0,4/30/2024,Joseph Sanchez,144000.0,5,3
+134280.0,Majalah Fashion,2.0,4/30/2024,Joseph Sanchez,44000.0,7,0
+134280.0,Majalah Seni,7.0,4/30/2024,Joseph Sanchez,441000.0,8,1
+134280.0,Novel Fiksi Ilmiah,1.0,4/30/2024,Joseph Sanchez,9000.0,9,0
+134280.0,Buku Biografi,1.0,4/30/2024,Joseph Sanchez,15000.0,3,0
+134280.0,Novel Romansa,2.0,4/30/2024,Joseph Sanchez,8000.0,11,0
+134280.0,Aksesoris Buku,6.0,4/30/2024,Joseph Sanchez,90000.0,0,0
+134281.0,Alat Tulis,7.0,4/30/2024,Beth Fitzpatrick,122500.0,1,3
+134281.0,Novel Misteri,2.0,4/30/2024,Beth Fitzpatrick,8000.0,10,0
+134281.0,Buku Anak-Anak,3.0,4/30/2024,Beth Fitzpatrick,117000.0,2,3
+134281.0,Majalah Fashion,6.0,4/30/2024,Beth Fitzpatrick,360000.0,7,1
+134282.0,Buku Anak-Anak,1.0,4/30/2024,Julie Franco,10000.0,2,0
+134282.0,Majalah Seni,1.0,4/30/2024,Julie Franco,11000.0,8,0
+134282.0,Majalah Berita,6.0,4/30/2024,Julie Franco,12000.0,6,0
+134282.0,Buku Fiksi,9.0,4/30/2024,Julie Franco,202500.0,4,3
+134282.0,Novel Misteri,5.0,4/30/2024,Julie Franco,225000.0,10,3
+134283.0,Majalah Seni,6.0,4/30/2024,Jane Fisher,360000.0,8,1
+134283.0,Buku Sejarah,5.0,4/30/2024,Jane Fisher,225000.0,5,3
+134283.0,Novel Misteri,8.0,4/30/2024,Jane Fisher,778750.0,10,2
+134283.0,Buku Biografi,2.0,4/30/2024,Jane Fisher,36000.0,3,0
+134284.0,Alat Tulis,3.0,4/30/2024,Amanda Byrd,90000.0,1,0
+134284.0,Buku Sejarah,2.0,4/30/2024,Amanda Byrd,8000.0,5,0
+134284.0,Majalah Fashion,5.0,4/30/2024,Amanda Byrd,10000.0,7,0
+134284.0,Majalah Seni,8.0,4/30/2024,Amanda Byrd,768000.0,8,2
+134284.0,Novel Fiksi Ilmiah,1.0,4/30/2024,Amanda Byrd,10000.0,9,0
+134284.0,Buku Biografi,5.0,4/30/2024,Amanda Byrd,275000.0,3,3
+134284.0,Novel Misteri,3.0,4/30/2024,Amanda Byrd,90000.0,10,0
+134284.0,Novel Romansa,2.0,4/30/2024,Amanda Byrd,52000.0,11,0
+134285.0,Buku Sejarah,7.0,4/30/2024,Mary Andrade,539000.0,5,1
+134285.0,Majalah Fashion,2.0,4/30/2024,Mary Andrade,8000.0,7,0
+134285.0,Majalah Berita,2.0,4/30/2024,Mary Andrade,24000.0,6,0
+134285.0,Buku Fiksi,3.0,4/30/2024,Mary Andrade,18000.0,4,0
+134285.0,Novel Misteri,2.0,4/30/2024,Mary Andrade,44000.0,10,0
+134285.0,Novel Romansa,7.0,4/30/2024,Mary Andrade,539000.0,11,1
+134285.0,Aksesoris Buku,9.0,4/30/2024,Mary Andrade,162000.0,0,3
+134286.0,Alat Tulis,9.0,4/30/2024,William White,162000.0,1,3
+134286.0,Buku Anak-Anak,1.0,4/30/2024,William White,12000.0,2,0
+134286.0,Majalah Berita,8.0,4/30/2024,William White,384000.0,6,1
+134286.0,Novel Fiksi Ilmiah,8.0,4/30/2024,William White,160000.0,9,3
+134286.0,Buku Fiksi,2.0,4/30/2024,William White,4000.0,4,0
+134286.0,Novel Misteri,4.0,4/30/2024,William White,160000.0,10,3
+134286.0,Novel Romansa,3.0,4/30/2024,William White,135000.0,11,3
+134287.0,Buku Sejarah,5.0,4/30/2024,Jessica Roberts,325000.0,5,1
+134287.0,Majalah Seni,4.0,4/30/2024,Jessica Roberts,8000.0,8,0
+134287.0,Majalah Berita,4.0,4/30/2024,Jessica Roberts,80000.0,6,0
+134287.0,Novel Fiksi Ilmiah,5.0,4/30/2024,Jessica Roberts,125000.0,9,3
+134287.0,Buku Fiksi,9.0,4/30/2024,Jessica Roberts,162000.0,4,3
+134287.0,Buku Biografi,9.0,4/30/2024,Jessica Roberts,18000.0,3,0
+134287.0,Novel Romansa,3.0,4/30/2024,Jessica Roberts,18000.0,11,0
+134288.0,Alat Tulis,7.0,4/30/2024,David Beasley,539000.0,1,1
+134288.0,Buku Sejarah,1.0,4/30/2024,David Beasley,9000.0,5,0
+134288.0,Buku Anak-Anak,7.0,4/30/2024,David Beasley,637000.0,2,2
+134288.0,Majalah Seni,9.0,4/30/2024,David Beasley,778750.0,8,2
+134288.0,Majalah Berita,8.0,4/30/2024,David Beasley,640000.0,6,2
+134288.0,Buku Fiksi,9.0,4/30/2024,David Beasley,202500.0,4,3
+134288.0,Buku Biografi,3.0,4/30/2024,David Beasley,18000.0,3,0
+134288.0,Novel Misteri,5.0,4/30/2024,David Beasley,125000.0,10,3
+134289.0,Alat Tulis,2.0,4/30/2024,Molly Buckley,52000.0,1,0
+134289.0,Majalah Fashion,3.0,4/30/2024,Molly Buckley,18000.0,7,0
+134289.0,Buku Fiksi,5.0,4/30/2024,Molly Buckley,375000.0,4,1
+134289.0,Novel Misteri,2.0,4/30/2024,Molly Buckley,24000.0,10,0
+134289.0,Aksesoris Buku,3.0,4/30/2024,Molly Buckley,22500.0,0,0
+134290.0,Buku Sejarah,8.0,4/30/2024,Christopher Gonzalez,778750.0,5,2
+134290.0,Alat Tulis,2.0,4/30/2024,Christopher Gonzalez,52000.0,1,0
+134290.0,Buku Anak-Anak,9.0,4/30/2024,Christopher Gonzalez,778750.0,2,2
+134290.0,Majalah Berita,4.0,4/30/2024,Christopher Gonzalez,240000.0,6,3
+134290.0,Novel Fiksi Ilmiah,2.0,4/30/2024,Christopher Gonzalez,4000.0,9,0
+134291.0,Buku Fiksi,2.0,4/30/2024,Nicholas Smith,24000.0,4,0
+134291.0,Buku Biografi,5.0,4/30/2024,Nicholas Smith,225000.0,3,3
+134291.0,Aksesoris Buku,9.0,4/30/2024,Nicholas Smith,162000.0,0,3
+134291.0,Novel Fiksi Ilmiah,4.0,4/30/2024,Nicholas Smith,80000.0,9,0
+134292.0,Alat Tulis,2.0,4/30/2024,Christine Frazier,10000.0,1,0
+134292.0,Majalah Seni,4.0,4/30/2024,Christine Frazier,40000.0,8,0
+134292.0,Buku Fiksi,6.0,4/30/2024,Christine Frazier,12000.0,4,0
+134292.0,Novel Misteri,7.0,4/30/2024,Christine Frazier,539000.0,10,1
+134292.0,Novel Romansa,3.0,4/30/2024,Christine Frazier,99000.0,11,0
+134293.0,Alat Tulis,1.0,4/30/2024,Frances Pacheco,2000.0,1,0
+134293.0,Majalah Seni,8.0,4/30/2024,Frances Pacheco,768000.0,8,2
+134293.0,Majalah Berita,3.0,4/30/2024,Frances Pacheco,22500.0,6,0
+134293.0,Novel Fiksi Ilmiah,9.0,4/30/2024,Frances Pacheco,778750.0,9,2
+134293.0,Buku Fiksi,5.0,4/30/2024,Frances Pacheco,10000.0,4,0
+134293.0,Novel Misteri,6.0,4/30/2024,Frances Pacheco,72000.0,10,0
+134294.0,Alat Tulis,3.0,4/30/2024,Richard Jones,18000.0,1,0
+134294.0,Buku Sejarah,4.0,4/30/2024,Richard Jones,240000.0,5,3
+134294.0,Buku Anak-Anak,2.0,4/30/2024,Richard Jones,8000.0,2,0
+134294.0,Majalah Fashion,9.0,4/30/2024,Richard Jones,162000.0,7,3
+134294.0,Majalah Berita,4.0,4/30/2024,Richard Jones,32000.0,6,0
